@@ -9,12 +9,38 @@
   font-style: normal;
 }
 
+.fontface .icon-mono.icon-mono-tiny {
+  font-size: 16px;
+}
+.fontface .icon-mono.icon-mono-small {
+  font-size: 24px;
+}
 .fontface .icon-mono {
   font-size: 32px;
 }
+.fontface .icon-mono.icon-mono-big {
+  font-size: 48px;
+}
 
-.fontface .icon-mono-inverted {
+.fontface .icon-mono-white {
   color: white;
+}
+
+.fontface .icon-mono-gray {
+  opacity: 0.5;
+}
+
+.fontface .icon-mono-orange {
+  color: #FF8C00;
+}
+.fontface .icon-mono-circle {
+  background: black;
+  border-radius: 100%;
+  padding: 0.4em;
+}
+
+.fontface .icon-mono-circle-orange {
+  background: #FF8C00;
 }
 
 .fontface .icon-mono:before {

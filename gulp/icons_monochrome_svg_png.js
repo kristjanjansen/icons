@@ -67,7 +67,7 @@ gulp.task('icons_monochrome_svg_png', function () {
   };
 
   gulp.src('assets/svg/monochrome/*.svg')
-    .pipe(colorize({name: 'inverted', color: '#fff'}))
+    .pipe(colorize({name: 'white', color: '#fff'}))
     .pipe(svgsprites(config))
     .pipe(gulp.dest('public'))
     .pipe(filter('**/*.svg'))

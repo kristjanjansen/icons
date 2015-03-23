@@ -1,15 +1,15 @@
 body {
-  font-family: sans-serif; background: #FFA900;
+  font-family: sans-serif; background: #ddd;
 }
-small {
-  font-size: 0.5em !important;
+.row {
+  margin-bottom: 30px;
 }
 
 .no {
   margin-bottom: 20px;
 }
 .no-1, .no-2, .no-3, .no-4, .no-5, .no-6 {
-  background: yellow;
+  background: #ccc;
   display: inline;
   width: 120px;
   padding: 3px;
