@@ -2,9 +2,6 @@
 .icon-color {
     font-size: 32px;
 }
-.icon-color-small {
-    font-size: 10px;
-}
 .icon-color:before {
   content:' ';
   vertical-align:middle;

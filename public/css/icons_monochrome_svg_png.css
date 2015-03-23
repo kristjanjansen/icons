@@ -11,7 +11,7 @@
   display: inline-block;
   background-image: url("../sprites/icons_monochrome.svg");
   background-repeat: no-repeat;
-  background-size: 31.875em 5690.3125em;
+  background-size: 1.625em 351em;
 }
 .no-fontface.no-svg .icon-mono:before {
     background-image: url("../sprites/icons_monochrome.png");
@@ -19,1082 +19,1298 @@
 
 
 
-.no-fontface .icon-mono-fa-paperclip:before {
+.no-fontface .icon-mono-addressbook:before {
   background-position: -0.3125em -0.3125em;
-  width: 24.553125em;
-  height: 31.25em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-paragraph:before {
-  background-position: -0.3125em -32.1875em;
-  width: 22.321875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-addressbook:before {
+  background-position: -0.3125em -1.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-paste:before {
-  background-position: -0.3125em -64.0625em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-alarm:before {
+  background-position: -0.3125em -3.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pause:before {
-  background-position: -0.3125em -95.9375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-alarm:before {
+  background-position: -0.3125em -5.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-paw:before {
-  background-position: -0.3125em -127.8125em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-ampersand:before {
+  background-position: -0.3125em -6.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-paypal:before {
-  background-position: -0.3125em -159.6875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-ampersand:before {
+  background-position: -0.3125em -8.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pencil:before {
-  background-position: -0.3125em -191.5625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-apple:before {
+  background-position: -0.3125em -10.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pencil-square:before {
-  background-position: -0.3125em -223.4375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-apple:before {
+  background-position: -0.3125em -11.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-phone:before {
-  background-position: -0.3125em -255.3125em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-atom:before {
+  background-position: -0.3125em -13.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-phone-square:before {
-  background-position: -0.3125em -287.1875em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-atom:before {
+  background-position: -0.3125em -14.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-photo:before {
-  background-position: -0.3125em -319.0625em;
-  width: 31.25em;
-  height: 29.167444465185735em;
+.no-fontface .icon-mono-basket:before {
+  background-position: -0.3125em -16.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pie-chart:before {
-  background-position: -0.3125em -348.875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-basket:before {
+  background-position: -0.3125em -18.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pied-piper:before {
-  background-position: -0.3125em -380.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-battery:before {
+  background-position: -0.3125em -19.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pied-piper-alt:before {
-  background-position: -0.3125em -412.625em;
-  width: 31.25em;
-  height: 27.47735865646707em;
+.no-fontface .icon-mono-inverted.icon-mono-battery:before {
+  background-position: -0.3125em -21.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pinterest:before {
-  background-position: -0.3125em -440.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-blocked:before {
+  background-position: -0.3125em -23.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-pinterest-square:before {
-  background-position: -0.3125em -472.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-blocked:before {
+  background-position: -0.3125em -24.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-plane:before {
-  background-position: -0.3125em -504.5em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-bolt:before {
+  background-position: -0.3125em -26.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-play:before {
-  background-position: -0.3125em -536.375em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-bolt:before {
+  background-position: -0.3125em -27.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-play-circle:before {
-  background-position: -0.3125em -568.25em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-bookmark:before {
+  background-position: -0.3125em -29.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-play-circle-o:before {
-  background-position: -0.3125em -600.125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-bookmark:before {
+  background-position: -0.3125em -31.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-plug:before {
-  background-position: -0.3125em -632em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-bookmark2:before {
+  background-position: -0.3125em -32.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-plus:before {
-  background-position: -0.3125em -663.875em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-bookmark2:before {
+  background-position: -0.3125em -34.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-plus-circle:before {
-  background-position: -0.3125em -695.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-briefcase:before {
+  background-position: -0.3125em -36.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-plus-square:before {
-  background-position: -0.3125em -727.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-briefcase:before {
+  background-position: -0.3125em -37.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-plus-square-o:before {
-  background-position: -0.3125em -759.5em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-bug:before {
+  background-position: -0.3125em -39.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-power-off:before {
-  background-position: -0.3125em -791.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-bug:before {
+  background-position: -0.3125em -40.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-print:before {
-  background-position: -0.3125em -823.25em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-button:before {
+  background-position: -0.3125em -42.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-puzzle-piece:before {
-  background-position: -0.3125em -855.125em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-button:before {
+  background-position: -0.3125em -44.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-qq:before {
-  background-position: -0.3125em -887em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-calendar:before {
+  background-position: -0.3125em -45.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-qrcode:before {
-  background-position: -0.3125em -918.875em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-calendar:before {
+  background-position: -0.3125em -47.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-question:before {
-  background-position: -0.3125em -950.75em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-camera:before {
+  background-position: -0.3125em -49.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-question-circle:before {
-  background-position: -0.3125em -982.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-camera:before {
+  background-position: -0.3125em -50.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-quote-left:before {
-  background-position: -0.3125em -1014.5em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-camera2:before {
+  background-position: -0.3125em -52.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-quote-right:before {
-  background-position: -0.3125em -1046.375em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-camera2:before {
+  background-position: -0.3125em -53.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-ra:before {
-  background-position: -0.3125em -1078.25em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-cancel:before {
+  background-position: -0.3125em -55.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-random:before {
-  background-position: -0.3125em -1110.125em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-cancel:before {
+  background-position: -0.3125em -57.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-recycle:before {
-  background-position: -0.3125em -1142em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-cart:before {
+  background-position: -0.3125em -58.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-reddit:before {
-  background-position: -0.3125em -1173.875em;
-  width: 31.25em;
-  height: 28.226899105771835em;
+.no-fontface .icon-mono-inverted.icon-mono-cart:before {
+  background-position: -0.3125em -60.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-reddit-square:before {
-  background-position: -0.3125em -1202.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-chart:before {
+  background-position: -0.3125em -62.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-refresh:before {
-  background-position: -0.3125em -1234.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-chart:before {
+  background-position: -0.3125em -63.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-remove:before {
-  background-position: -0.3125em -1266.5em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-checkmark:before {
+  background-position: -0.3125em -65.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-renren:before {
-  background-position: -0.3125em -1298.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-checkmark:before {
+  background-position: -0.3125em -66.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-retweet:before {
-  background-position: -0.3125em -1330.25em;
-  width: 31.25em;
-  height: 29.167444465185735em;
+.no-fontface .icon-mono-clock:before {
+  background-position: -0.3125em -68.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-road:before {
-  background-position: -0.3125em -1360.0625em;
-  width: 31.25em;
-  height: 29.167444465185735em;
+.no-fontface .icon-mono-inverted.icon-mono-clock:before {
+  background-position: -0.3125em -70.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-rocket:before {
-  background-position: -0.3125em -1389.875em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-cloud:before {
+  background-position: -0.3125em -71.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-rotate-left:before {
-  background-position: -0.3125em -1421.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-cloud:before {
+  background-position: -0.3125em -73.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-rotate-right:before {
-  background-position: -0.3125em -1453.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-code:before {
+  background-position: -0.3125em -75.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-rss:before {
-  background-position: -0.3125em -1485.5em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-code:before {
+  background-position: -0.3125em -76.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-rss-square:before {
-  background-position: -0.3125em -1517.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-coffee:before {
+  background-position: -0.3125em -78.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-ruble:before {
-  background-position: -0.3125em -1549.25em;
-  width: 22.321875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-coffee:before {
+  background-position: -0.3125em -79.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-rupee:before {
-  background-position: -0.3125em -1581.125em;
-  width: 15.659375em;
-  height: 31.25em;
+.no-fontface .icon-mono-cog:before {
+  background-position: -0.3125em -81.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-save:before {
-  background-position: -0.3125em -1613em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-cog:before {
+  background-position: -0.3125em -83.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-search:before {
-  background-position: -0.3125em -1644.875em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-comment:before {
+  background-position: -0.3125em -84.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-search-minus:before {
-  background-position: -0.3125em -1676.75em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-comment:before {
+  background-position: -0.3125em -86.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-search-plus:before {
-  background-position: -0.3125em -1708.625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-compass:before {
+  background-position: -0.3125em -88.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-send:before {
-  background-position: -0.3125em -1740.5em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-compass:before {
+  background-position: -0.3125em -89.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-send-o:before {
-  background-position: -0.3125em -1772.375em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-cone:before {
+  background-position: -0.3125em -91.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-share-alt:before {
-  background-position: -0.3125em -1804.25em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-cone:before {
+  background-position: -0.3125em -92.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-share-alt-square:before {
-  background-position: -0.3125em -1836.125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-console:before {
+  background-position: -0.3125em -94.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-share-square:before {
-  background-position: -0.3125em -1868em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-console:before {
+  background-position: -0.3125em -96.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-share-square-o:before {
-  background-position: -0.3125em -1899.875em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-contrast:before {
+  background-position: -0.3125em -97.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-shekel:before {
-  background-position: -0.3125em -1931.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-contrast:before {
+  background-position: -0.3125em -99.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-shield:before {
-  background-position: -0.3125em -1963.625em;
-  width: 22.321875em;
-  height: 31.25em;
+.no-fontface .icon-mono-creditcard:before {
+  background-position: -0.3125em -101.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-shopping-cart:before {
-  background-position: -0.3125em -1995.5em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-creditcard:before {
+  background-position: -0.3125em -102.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sign-in:before {
-  background-position: -0.3125em -2027.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-crop:before {
+  background-position: -0.3125em -104.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sign-out:before {
-  background-position: -0.3125em -2059.25em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-crop:before {
+  background-position: -0.3125em -105.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-signal:before {
-  background-position: -0.3125em -2091.125em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-database:before {
+  background-position: -0.3125em -107.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sitemap:before {
-  background-position: -0.3125em -2123em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-database:before {
+  background-position: -0.3125em -109.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-skype:before {
-  background-position: -0.3125em -2154.875em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-diary:before {
+  background-position: -0.3125em -110.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-slack:before {
-  background-position: -0.3125em -2186.75em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-diary:before {
+  background-position: -0.3125em -112.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sliders:before {
-  background-position: -0.3125em -2218.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-disk:before {
+  background-position: -0.3125em -114.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-slideshare:before {
-  background-position: -0.3125em -2250.5em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-disk:before {
+  background-position: -0.3125em -115.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-smile-o:before {
-  background-position: -0.3125em -2282.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-dribbble:before {
+  background-position: -0.3125em -117.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-soccer-ball-o:before {
-  background-position: -0.3125em -2314.25em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-dribbble:before {
+  background-position: -0.3125em -118.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-alpha-asc:before {
-  background-position: -0.3125em -2346.125em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-droplet:before {
+  background-position: -0.3125em -120.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-alpha-desc:before {
-  background-position: -0.3125em -2378em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-droplet:before {
+  background-position: -0.3125em -122.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-amount-asc:before {
-  background-position: -0.3125em -2409.875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-earth:before {
+  background-position: -0.3125em -123.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-amount-desc:before {
-  background-position: -0.3125em -2441.75em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-earth:before {
+  background-position: -0.3125em -125.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-down:before {
-  background-position: -0.3125em -2473.625em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-envelope:before {
+  background-position: -0.3125em -127.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-numeric-asc:before {
-  background-position: -0.3125em -2505.5em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-envelope:before {
+  background-position: -0.3125em -128.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-numeric-desc:before {
-  background-position: -0.3125em -2537.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-eye:before {
+  background-position: -0.3125em -130.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sort-up:before {
-  background-position: -0.3125em -2569.25em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-eye:before {
+  background-position: -0.3125em -131.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-soundcloud:before {
-  background-position: -0.3125em -2601.125em;
-  width: 31.25em;
-  height: 24.30582562028467em;
+.no-fontface .icon-mono-feed:before {
+  background-position: -0.3125em -133.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-space-shuttle:before {
-  background-position: -0.3125em -2626.0625em;
-  width: 31.25em;
-  height: 25.734991353042908em;
+.no-fontface .icon-mono-inverted.icon-mono-feed:before {
+  background-position: -0.3125em -135.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-spinner:before {
-  background-position: -0.3125em -2652.4375em;
-  width: 27.34375em;
-  height: 31.25em;
+.no-fontface .icon-mono-file:before {
+  background-position: -0.3125em -136.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-spoon:before {
-  background-position: -0.3125em -2684.3125em;
-  width: 13.39375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-file:before {
+  background-position: -0.3125em -138.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-spotify:before {
-  background-position: -0.3125em -2716.1875em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-film:before {
+  background-position: -0.3125em -140.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-square:before {
-  background-position: -0.3125em -2748.0625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-film:before {
+  background-position: -0.3125em -141.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-square-o:before {
-  background-position: -0.3125em -2779.9375em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-filter:before {
+  background-position: -0.3125em -143.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-stack-exchange:before {
-  background-position: -0.3125em -2811.8125em;
-  width: 22.321875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-filter:before {
+  background-position: -0.3125em -144.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-stack-overflow:before {
-  background-position: -0.3125em -2843.6875em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-flag:before {
+  background-position: -0.3125em -146.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-star:before {
-  background-position: -0.3125em -2875.5625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-flag:before {
+  background-position: -0.3125em -148.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-star-half:before {
-  background-position: -0.3125em -2907.4375em;
-  width: 15.625em;
-  height: 31.25em;
+.no-fontface .icon-mono-floppy:before {
+  background-position: -0.3125em -149.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-star-half-empty:before {
-  background-position: -0.3125em -2939.3125em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-floppy:before {
+  background-position: -0.3125em -151.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-star-o:before {
-  background-position: -0.3125em -2971.1875em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-folder:before {
+  background-position: -0.3125em -153.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-steam:before {
-  background-position: -0.3125em -3003.0625em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-folder:before {
+  background-position: -0.3125em -154.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-steam-square:before {
-  background-position: -0.3125em -3034.9375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-forrst:before {
+  background-position: -0.3125em -156.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-step-backward:before {
-  background-position: -0.3125em -3066.8125em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-forrst:before {
+  background-position: -0.3125em -157.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-step-forward:before {
-  background-position: -0.3125em -3098.6875em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-forward:before {
+  background-position: -0.3125em -159.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-stethoscope:before {
-  background-position: -0.3125em -3130.5625em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-forward:before {
+  background-position: -0.3125em -161.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-stop:before {
-  background-position: -0.3125em -3162.4375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-frame:before {
+  background-position: -0.3125em -162.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-strikethrough:before {
-  background-position: -0.3125em -3194.3125em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-frame:before {
+  background-position: -0.3125em -164.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-stumbleupon:before {
-  background-position: -0.3125em -3226.1875em;
-  width: 31.25em;
-  height: 29.167444465185735em;
+.no-fontface .icon-mono-gift:before {
+  background-position: -0.3125em -166.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-stumbleupon-circle:before {
-  background-position: -0.3125em -3256em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-gift:before {
+  background-position: -0.3125em -167.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-subscript:before {
-  background-position: -0.3125em -3287.875em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-grid:before {
+  background-position: -0.3125em -169.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-suitcase:before {
-  background-position: -0.3125em -3319.75em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-grid:before {
+  background-position: -0.3125em -170.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-sun-o:before {
-  background-position: -0.3125em -3351.625em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-headphones:before {
+  background-position: -0.3125em -172.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-superscript:before {
-  background-position: -0.3125em -3383.5em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-headphones:before {
+  background-position: -0.3125em -174.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-table:before {
-  background-position: -0.3125em -3415.375em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-heart:before {
+  background-position: -0.3125em -175.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tablet:before {
-  background-position: -0.3125em -3447.25em;
-  width: 20.090625em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-heart:before {
+  background-position: -0.3125em -177.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tag:before {
-  background-position: -0.3125em -3479.125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-home:before {
+  background-position: -0.3125em -179.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tags:before {
-  background-position: -0.3125em -3511em;
-  width: 31.25em;
-  height: 29.167444465185735em;
+.no-fontface .icon-mono-inverted.icon-mono-home:before {
+  background-position: -0.3125em -180.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tasks:before {
-  background-position: -0.3125em -3540.8125em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inbox:before {
+  background-position: -0.3125em -182.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tencent-weibo:before {
-  background-position: -0.3125em -3572.6875em;
-  width: 22.321875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-inbox:before {
+  background-position: -0.3125em -183.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-terminal:before {
-  background-position: -0.3125em -3604.5625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-info:before {
+  background-position: -0.3125em -185.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-text-height:before {
-  background-position: -0.3125em -3636.4375em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-info:before {
+  background-position: -0.3125em -187.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-text-width:before {
-  background-position: -0.3125em -3668.3125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-ipod:before {
+  background-position: -0.3125em -188.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-th:before {
-  background-position: -0.3125em -3700.1875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-ipod:before {
+  background-position: -0.3125em -190.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-th-large:before {
-  background-position: -0.3125em -3732.0625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-key:before {
+  background-position: -0.3125em -192.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-th-list:before {
-  background-position: -0.3125em -3763.9375em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-key:before {
+  background-position: -0.3125em -193.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-thumb-tack:before {
-  background-position: -0.3125em -3795.8125em;
-  width: 20.090625em;
-  height: 31.25em;
+.no-fontface .icon-mono-keyboard:before {
+  background-position: -0.3125em -195.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-thumbs-down:before {
-  background-position: -0.3125em -3827.6875em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-keyboard:before {
+  background-position: -0.3125em -196.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-thumbs-o-down:before {
-  background-position: -0.3125em -3859.5625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-lamp:before {
+  background-position: -0.3125em -198.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-thumbs-o-up:before {
-  background-position: -0.3125em -3891.4375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-lamp:before {
+  background-position: -0.3125em -200.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-thumbs-up:before {
-  background-position: -0.3125em -3923.3125em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-list:before {
+  background-position: -0.3125em -201.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-ticket:before {
-  background-position: -0.3125em -3955.1875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-list:before {
+  background-position: -0.3125em -203.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-times-circle:before {
-  background-position: -0.3125em -3987.0625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-location:before {
+  background-position: -0.3125em -205.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-times-circle-o:before {
-  background-position: -0.3125em -4018.9375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-location:before {
+  background-position: -0.3125em -206.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tint:before {
-  background-position: -0.3125em -4050.8125em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-location2:before {
+  background-position: -0.3125em -208.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-toggle-down:before {
-  background-position: -0.3125em -4082.6875em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-location2:before {
+  background-position: -0.3125em -209.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-toggle-left:before {
-  background-position: -0.3125em -4114.5625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-locked:before {
+  background-position: -0.3125em -211.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-toggle-off:before {
-  background-position: -0.3125em -4146.4375em;
-  width: 31.25em;
-  height: 27.342724647825705em;
+.no-fontface .icon-mono-inverted.icon-mono-locked:before {
+  background-position: -0.3125em -213.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-toggle-on:before {
-  background-position: -0.3125em -4174.40625em;
-  width: 31.25em;
-  height: 27.342724647825705em;
+.no-fontface .icon-mono-mic:before {
+  background-position: -0.3125em -214.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-toggle-right:before {
-  background-position: -0.3125em -4202.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-mic:before {
+  background-position: -0.3125em -216.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-toggle-up:before {
-  background-position: -0.3125em -4234.25em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-minus:before {
+  background-position: -0.3125em -218.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-trash:before {
-  background-position: -0.3125em -4266.125em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-minus:before {
+  background-position: -0.3125em -219.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-trash-o:before {
-  background-position: -0.3125em -4298em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-mobile:before {
+  background-position: -0.3125em -221.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tree:before {
-  background-position: -0.3125em -4329.875em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-mobile:before {
+  background-position: -0.3125em -222.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-trello:before {
-  background-position: -0.3125em -4361.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-monitor:before {
+  background-position: -0.3125em -224.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-trophy:before {
-  background-position: -0.3125em -4393.625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-monitor:before {
+  background-position: -0.3125em -226.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-truck:before {
-  background-position: -0.3125em -4425.5em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-mouse:before {
+  background-position: -0.3125em -227.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tty:before {
-  background-position: -0.3125em -4457.375em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-mouse:before {
+  background-position: -0.3125em -229.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tumblr:before {
-  background-position: -0.3125em -4489.25em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-move:before {
+  background-position: -0.3125em -231.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-tumblr-square:before {
-  background-position: -0.3125em -4521.125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-move:before {
+  background-position: -0.3125em -232.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-turkish-lira:before {
-  background-position: -0.3125em -4553em;
-  width: 20.090625em;
-  height: 31.25em;
+.no-fontface .icon-mono-music:before {
+  background-position: -0.3125em -234.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-twitch:before {
-  background-position: -0.3125em -4584.875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-music:before {
+  background-position: -0.3125em -235.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-twitter:before {
-  background-position: -0.3125em -4616.75em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-paperclip:before {
+  background-position: -0.3125em -237.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-twitter-square:before {
-  background-position: -0.3125em -4648.625em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-paperclip:before {
+  background-position: -0.3125em -239.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-umbrella:before {
-  background-position: -0.3125em -4680.5em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-pause:before {
+  background-position: -0.3125em -240.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-underline:before {
-  background-position: -0.3125em -4712.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-pause:before {
+  background-position: -0.3125em -242.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-unlink:before {
-  background-position: -0.3125em -4744.25em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-pencil:before {
+  background-position: -0.3125em -244.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-unlock:before {
-  background-position: -0.3125em -4776.125em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-pencil:before {
+  background-position: -0.3125em -245.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-unlock-alt:before {
-  background-position: -0.3125em -4808em;
-  width: 20.090625em;
-  height: 31.25em;
+.no-fontface .icon-mono-phone:before {
+  background-position: -0.3125em -247.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-unsorted:before {
-  background-position: -0.3125em -4839.875em;
-  width: 17.85625em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-phone:before {
+  background-position: -0.3125em -248.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-upload:before {
-  background-position: -0.3125em -4871.75em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-picture:before {
+  background-position: -0.3125em -250.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-user:before {
-  background-position: -0.3125em -4903.625em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-picture:before {
+  background-position: -0.3125em -252.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-user-md:before {
-  background-position: -0.3125em -4935.5em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-play:before {
+  background-position: -0.3125em -253.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-video-camera:before {
-  background-position: -0.3125em -4967.375em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-play:before {
+  background-position: -0.3125em -255.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-vimeo-square:before {
-  background-position: -0.3125em -4999.25em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-plus:before {
+  background-position: -0.3125em -257.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-vine:before {
-  background-position: -0.3125em -5031.125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-plus:before {
+  background-position: -0.3125em -258.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-vk:before {
-  background-position: -0.3125em -5063em;
-  width: 31.25em;
-  height: 29.167444465185735em;
+.no-fontface .icon-mono-pointer:before {
+  background-position: -0.3125em -260.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-volume-down:before {
-  background-position: -0.3125em -5092.8125em;
-  width: 20.090625em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-pointer:before {
+  background-position: -0.3125em -261.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-volume-off:before {
-  background-position: -0.3125em -5124.6875em;
-  width: 13.39375em;
-  height: 31.25em;
+.no-fontface .icon-mono-refresh:before {
+  background-position: -0.3125em -263.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-volume-up:before {
-  background-position: -0.3125em -5156.5625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-refresh:before {
+  background-position: -0.3125em -265.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-warning:before {
-  background-position: -0.3125em -5188.4375em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-search:before {
+  background-position: -0.3125em -266.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-wechat:before {
-  background-position: -0.3125em -5220.3125em;
-  width: 31.25em;
-  height: 27.342724647825705em;
+.no-fontface .icon-mono-inverted.icon-mono-search:before {
+  background-position: -0.3125em -268.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-weibo:before {
-  background-position: -0.3125em -5248.28125em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-shit:before {
+  background-position: -0.3125em -270.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-wheelchair:before {
-  background-position: -0.3125em -5280.15625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-shit:before {
+  background-position: -0.3125em -271.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-wifi:before {
-  background-position: -0.3125em -5312.03125em;
-  width: 31.25em;
-  height: 27.342724647825705em;
+.no-fontface .icon-mono-skype:before {
+  background-position: -0.3125em -273.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-windows:before {
-  background-position: -0.3125em -5340em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-skype:before {
+  background-position: -0.3125em -274.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-won:before {
-  background-position: -0.3125em -5371.875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-smiley:before {
+  background-position: -0.3125em -276.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-wordpress:before {
-  background-position: -0.3125em -5403.75em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-smiley:before {
+  background-position: -0.3125em -278.1875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-wrench:before {
-  background-position: -0.3125em -5435.625em;
-  width: 29.01875em;
-  height: 31.25em;
+.no-fontface .icon-mono-star:before {
+  background-position: -0.3125em -279.8125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-xing:before {
-  background-position: -0.3125em -5467.5em;
-  width: 24.553125em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-star:before {
+  background-position: -0.3125em -281.4375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-xing-square:before {
-  background-position: -0.3125em -5499.375em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-star2:before {
+  background-position: -0.3125em -283.0625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-yahoo:before {
-  background-position: -0.3125em -5531.25em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-star2:before {
+  background-position: -0.3125em -284.6875em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-yelp:before {
-  background-position: -0.3125em -5563.125em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-stats:before {
+  background-position: -0.3125em -286.3125em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-youtube:before {
-  background-position: -0.3125em -5595em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-stats:before {
+  background-position: -0.3125em -287.9375em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-youtube-play:before {
-  background-position: -0.3125em -5626.875em;
-  width: 31.25em;
-  height: 31.25em;
+.no-fontface .icon-mono-stop:before {
+  background-position: -0.3125em -289.5625em;
+  width: 1em;
+  height: 1em;
 }
 
-.no-fontface .icon-mono-fa-youtube-square:before {
-  background-position: -0.3125em -5658.75em;
-  width: 26.784375em;
-  height: 31.25em;
+.no-fontface .icon-mono-inverted.icon-mono-stop:before {
+  background-position: -0.3125em -291.1875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-switch:before {
+  background-position: -0.3125em -292.8125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-switch:before {
+  background-position: -0.3125em -294.4375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-tag:before {
+  background-position: -0.3125em -296.0625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-tag:before {
+  background-position: -0.3125em -297.6875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-target:before {
+  background-position: -0.3125em -299.3125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-target:before {
+  background-position: -0.3125em -300.9375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-target2:before {
+  background-position: -0.3125em -302.5625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-target2:before {
+  background-position: -0.3125em -304.1875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-target3:before {
+  background-position: -0.3125em -305.8125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-target3:before {
+  background-position: -0.3125em -307.4375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-thumbsdown:before {
+  background-position: -0.3125em -309.0625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-thumbsdown:before {
+  background-position: -0.3125em -310.6875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-thumbsup:before {
+  background-position: -0.3125em -312.3125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-thumbsup:before {
+  background-position: -0.3125em -313.9375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-trashcan:before {
+  background-position: -0.3125em -315.5625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-trashcan:before {
+  background-position: -0.3125em -317.1875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-trophy:before {
+  background-position: -0.3125em -318.8125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-trophy:before {
+  background-position: -0.3125em -320.4375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-twitter:before {
+  background-position: -0.3125em -322.0625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-twitter:before {
+  background-position: -0.3125em -323.6875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-type:before {
+  background-position: -0.3125em -325.3125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-type:before {
+  background-position: -0.3125em -326.9375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-user:before {
+  background-position: -0.3125em -328.5625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-user:before {
+  background-position: -0.3125em -330.1875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-volume:before {
+  background-position: -0.3125em -331.8125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-volume:before {
+  background-position: -0.3125em -333.4375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-volume2:before {
+  background-position: -0.3125em -335.0625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-volume2:before {
+  background-position: -0.3125em -336.6875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-warning:before {
+  background-position: -0.3125em -338.3125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-warning:before {
+  background-position: -0.3125em -339.9375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-window:before {
+  background-position: -0.3125em -341.5625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-window:before {
+  background-position: -0.3125em -343.1875em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-winsows:before {
+  background-position: -0.3125em -344.8125em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-winsows:before {
+  background-position: -0.3125em -346.4375em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-wrench:before {
+  background-position: -0.3125em -348.0625em;
+  width: 1em;
+  height: 1em;
+}
+
+.no-fontface .icon-mono-inverted.icon-mono-wrench:before {
+  background-position: -0.3125em -349.6875em;
+  width: 1em;
+  height: 1em;
 }

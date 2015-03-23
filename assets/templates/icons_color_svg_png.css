@@ -3,9 +3,6 @@
 .{common} {
     font-size: {baseSize}px;
 }
-.{common}-small {
-    font-size: 10px;
-}
 .{common}:before {
   content:' ';
   vertical-align:middle;
