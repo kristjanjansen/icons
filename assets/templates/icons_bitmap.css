@@ -1,0 +1,15 @@
+{{! Mustache template }}
+
+{{#sprite}}
+{{class}} {
+  background-image: url('{{{escaped_image}}}');
+}
+{{/sprite}}
+{{#items}}
+{{class}} {
+  background-position: {{px.offset_x}} {{px.offset_y}};
+  width: {{px.width}};
+  height: {{px.height}};
+  display: inline-block;
+}
+{{/items}}
