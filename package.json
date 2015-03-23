@@ -1,0 +1,30 @@
+{
+  "name": "mod",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-clone": "^1.0.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-filter": "^2.0.2",
+    "gulp-iconfont": "^1.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-svg-sprite": "^1.0.19",
+    "gulp-svg-sprites": "^2.0.1",
+    "gulp-svg2png": "^0.3.0",
+    "gulp-twig": "^0.2.1",
+    "lazypipe": "^0.2.2",
+    "napa": "^1.2.0",
+    "require-dir": "^0.1.0",
+    "svg-scaler": "^0.1.5",
+    "vinyl": "^0.4.6"
+  },
+  "scripts": {
+    "install": "napa"
+  },
+  "napa": {
+    "modernizr": "http://modernizr.com/downloads/modernizr-latest.js"
+  }
+}

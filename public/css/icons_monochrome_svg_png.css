@@ -1,0 +1,1100 @@
+
+.no-fontface .icon-mono {
+    font-size: 32px;
+}
+.no-fontface .icon-mono-small {
+    font-size: 10px;
+}
+.no-fontface .icon-mono:before {
+  content:' ';
+  vertical-align:middle;
+  display: inline-block;
+  background-image: url("../sprites/icons_monochrome.svg");
+  background-repeat: no-repeat;
+  background-size: 31.875em 5690.3125em;
+}
+.no-fontface.no-svg .icon-mono:before {
+    background-image: url("../sprites/icons_monochrome.png");
+}
+
+
+
+.no-fontface .icon-mono-fa-paperclip:before {
+  background-position: -0.3125em -0.3125em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-paragraph:before {
+  background-position: -0.3125em -32.1875em;
+  width: 22.321875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-paste:before {
+  background-position: -0.3125em -64.0625em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-pause:before {
+  background-position: -0.3125em -95.9375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-paw:before {
+  background-position: -0.3125em -127.8125em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-paypal:before {
+  background-position: -0.3125em -159.6875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-pencil:before {
+  background-position: -0.3125em -191.5625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-pencil-square:before {
+  background-position: -0.3125em -223.4375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-phone:before {
+  background-position: -0.3125em -255.3125em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-phone-square:before {
+  background-position: -0.3125em -287.1875em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-photo:before {
+  background-position: -0.3125em -319.0625em;
+  width: 31.25em;
+  height: 29.167444465185735em;
+}
+
+.no-fontface .icon-mono-fa-pie-chart:before {
+  background-position: -0.3125em -348.875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-pied-piper:before {
+  background-position: -0.3125em -380.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-pied-piper-alt:before {
+  background-position: -0.3125em -412.625em;
+  width: 31.25em;
+  height: 27.47735865646707em;
+}
+
+.no-fontface .icon-mono-fa-pinterest:before {
+  background-position: -0.3125em -440.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-pinterest-square:before {
+  background-position: -0.3125em -472.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-plane:before {
+  background-position: -0.3125em -504.5em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-play:before {
+  background-position: -0.3125em -536.375em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-play-circle:before {
+  background-position: -0.3125em -568.25em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-play-circle-o:before {
+  background-position: -0.3125em -600.125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-plug:before {
+  background-position: -0.3125em -632em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-plus:before {
+  background-position: -0.3125em -663.875em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-plus-circle:before {
+  background-position: -0.3125em -695.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-plus-square:before {
+  background-position: -0.3125em -727.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-plus-square-o:before {
+  background-position: -0.3125em -759.5em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-power-off:before {
+  background-position: -0.3125em -791.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-print:before {
+  background-position: -0.3125em -823.25em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-puzzle-piece:before {
+  background-position: -0.3125em -855.125em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-qq:before {
+  background-position: -0.3125em -887em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-qrcode:before {
+  background-position: -0.3125em -918.875em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-question:before {
+  background-position: -0.3125em -950.75em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-question-circle:before {
+  background-position: -0.3125em -982.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-quote-left:before {
+  background-position: -0.3125em -1014.5em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-quote-right:before {
+  background-position: -0.3125em -1046.375em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-ra:before {
+  background-position: -0.3125em -1078.25em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-random:before {
+  background-position: -0.3125em -1110.125em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-recycle:before {
+  background-position: -0.3125em -1142em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-reddit:before {
+  background-position: -0.3125em -1173.875em;
+  width: 31.25em;
+  height: 28.226899105771835em;
+}
+
+.no-fontface .icon-mono-fa-reddit-square:before {
+  background-position: -0.3125em -1202.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-refresh:before {
+  background-position: -0.3125em -1234.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-remove:before {
+  background-position: -0.3125em -1266.5em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-renren:before {
+  background-position: -0.3125em -1298.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-retweet:before {
+  background-position: -0.3125em -1330.25em;
+  width: 31.25em;
+  height: 29.167444465185735em;
+}
+
+.no-fontface .icon-mono-fa-road:before {
+  background-position: -0.3125em -1360.0625em;
+  width: 31.25em;
+  height: 29.167444465185735em;
+}
+
+.no-fontface .icon-mono-fa-rocket:before {
+  background-position: -0.3125em -1389.875em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-rotate-left:before {
+  background-position: -0.3125em -1421.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-rotate-right:before {
+  background-position: -0.3125em -1453.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-rss:before {
+  background-position: -0.3125em -1485.5em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-rss-square:before {
+  background-position: -0.3125em -1517.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-ruble:before {
+  background-position: -0.3125em -1549.25em;
+  width: 22.321875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-rupee:before {
+  background-position: -0.3125em -1581.125em;
+  width: 15.659375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-save:before {
+  background-position: -0.3125em -1613em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-search:before {
+  background-position: -0.3125em -1644.875em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-search-minus:before {
+  background-position: -0.3125em -1676.75em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-search-plus:before {
+  background-position: -0.3125em -1708.625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-send:before {
+  background-position: -0.3125em -1740.5em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-send-o:before {
+  background-position: -0.3125em -1772.375em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-share-alt:before {
+  background-position: -0.3125em -1804.25em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-share-alt-square:before {
+  background-position: -0.3125em -1836.125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-share-square:before {
+  background-position: -0.3125em -1868em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-share-square-o:before {
+  background-position: -0.3125em -1899.875em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-shekel:before {
+  background-position: -0.3125em -1931.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-shield:before {
+  background-position: -0.3125em -1963.625em;
+  width: 22.321875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-shopping-cart:before {
+  background-position: -0.3125em -1995.5em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sign-in:before {
+  background-position: -0.3125em -2027.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sign-out:before {
+  background-position: -0.3125em -2059.25em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-signal:before {
+  background-position: -0.3125em -2091.125em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sitemap:before {
+  background-position: -0.3125em -2123em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-skype:before {
+  background-position: -0.3125em -2154.875em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-slack:before {
+  background-position: -0.3125em -2186.75em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sliders:before {
+  background-position: -0.3125em -2218.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-slideshare:before {
+  background-position: -0.3125em -2250.5em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-smile-o:before {
+  background-position: -0.3125em -2282.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-soccer-ball-o:before {
+  background-position: -0.3125em -2314.25em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-alpha-asc:before {
+  background-position: -0.3125em -2346.125em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-alpha-desc:before {
+  background-position: -0.3125em -2378em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-amount-asc:before {
+  background-position: -0.3125em -2409.875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-amount-desc:before {
+  background-position: -0.3125em -2441.75em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-down:before {
+  background-position: -0.3125em -2473.625em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-numeric-asc:before {
+  background-position: -0.3125em -2505.5em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-numeric-desc:before {
+  background-position: -0.3125em -2537.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sort-up:before {
+  background-position: -0.3125em -2569.25em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-soundcloud:before {
+  background-position: -0.3125em -2601.125em;
+  width: 31.25em;
+  height: 24.30582562028467em;
+}
+
+.no-fontface .icon-mono-fa-space-shuttle:before {
+  background-position: -0.3125em -2626.0625em;
+  width: 31.25em;
+  height: 25.734991353042908em;
+}
+
+.no-fontface .icon-mono-fa-spinner:before {
+  background-position: -0.3125em -2652.4375em;
+  width: 27.34375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-spoon:before {
+  background-position: -0.3125em -2684.3125em;
+  width: 13.39375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-spotify:before {
+  background-position: -0.3125em -2716.1875em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-square:before {
+  background-position: -0.3125em -2748.0625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-square-o:before {
+  background-position: -0.3125em -2779.9375em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-stack-exchange:before {
+  background-position: -0.3125em -2811.8125em;
+  width: 22.321875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-stack-overflow:before {
+  background-position: -0.3125em -2843.6875em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-star:before {
+  background-position: -0.3125em -2875.5625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-star-half:before {
+  background-position: -0.3125em -2907.4375em;
+  width: 15.625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-star-half-empty:before {
+  background-position: -0.3125em -2939.3125em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-star-o:before {
+  background-position: -0.3125em -2971.1875em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-steam:before {
+  background-position: -0.3125em -3003.0625em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-steam-square:before {
+  background-position: -0.3125em -3034.9375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-step-backward:before {
+  background-position: -0.3125em -3066.8125em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-step-forward:before {
+  background-position: -0.3125em -3098.6875em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-stethoscope:before {
+  background-position: -0.3125em -3130.5625em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-stop:before {
+  background-position: -0.3125em -3162.4375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-strikethrough:before {
+  background-position: -0.3125em -3194.3125em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-stumbleupon:before {
+  background-position: -0.3125em -3226.1875em;
+  width: 31.25em;
+  height: 29.167444465185735em;
+}
+
+.no-fontface .icon-mono-fa-stumbleupon-circle:before {
+  background-position: -0.3125em -3256em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-subscript:before {
+  background-position: -0.3125em -3287.875em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-suitcase:before {
+  background-position: -0.3125em -3319.75em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-sun-o:before {
+  background-position: -0.3125em -3351.625em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-superscript:before {
+  background-position: -0.3125em -3383.5em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-table:before {
+  background-position: -0.3125em -3415.375em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tablet:before {
+  background-position: -0.3125em -3447.25em;
+  width: 20.090625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tag:before {
+  background-position: -0.3125em -3479.125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tags:before {
+  background-position: -0.3125em -3511em;
+  width: 31.25em;
+  height: 29.167444465185735em;
+}
+
+.no-fontface .icon-mono-fa-tasks:before {
+  background-position: -0.3125em -3540.8125em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tencent-weibo:before {
+  background-position: -0.3125em -3572.6875em;
+  width: 22.321875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-terminal:before {
+  background-position: -0.3125em -3604.5625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-text-height:before {
+  background-position: -0.3125em -3636.4375em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-text-width:before {
+  background-position: -0.3125em -3668.3125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-th:before {
+  background-position: -0.3125em -3700.1875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-th-large:before {
+  background-position: -0.3125em -3732.0625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-th-list:before {
+  background-position: -0.3125em -3763.9375em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-thumb-tack:before {
+  background-position: -0.3125em -3795.8125em;
+  width: 20.090625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-thumbs-down:before {
+  background-position: -0.3125em -3827.6875em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-thumbs-o-down:before {
+  background-position: -0.3125em -3859.5625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-thumbs-o-up:before {
+  background-position: -0.3125em -3891.4375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-thumbs-up:before {
+  background-position: -0.3125em -3923.3125em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-ticket:before {
+  background-position: -0.3125em -3955.1875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-times-circle:before {
+  background-position: -0.3125em -3987.0625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-times-circle-o:before {
+  background-position: -0.3125em -4018.9375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tint:before {
+  background-position: -0.3125em -4050.8125em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-toggle-down:before {
+  background-position: -0.3125em -4082.6875em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-toggle-left:before {
+  background-position: -0.3125em -4114.5625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-toggle-off:before {
+  background-position: -0.3125em -4146.4375em;
+  width: 31.25em;
+  height: 27.342724647825705em;
+}
+
+.no-fontface .icon-mono-fa-toggle-on:before {
+  background-position: -0.3125em -4174.40625em;
+  width: 31.25em;
+  height: 27.342724647825705em;
+}
+
+.no-fontface .icon-mono-fa-toggle-right:before {
+  background-position: -0.3125em -4202.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-toggle-up:before {
+  background-position: -0.3125em -4234.25em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-trash:before {
+  background-position: -0.3125em -4266.125em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-trash-o:before {
+  background-position: -0.3125em -4298em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tree:before {
+  background-position: -0.3125em -4329.875em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-trello:before {
+  background-position: -0.3125em -4361.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-trophy:before {
+  background-position: -0.3125em -4393.625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-truck:before {
+  background-position: -0.3125em -4425.5em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tty:before {
+  background-position: -0.3125em -4457.375em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tumblr:before {
+  background-position: -0.3125em -4489.25em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-tumblr-square:before {
+  background-position: -0.3125em -4521.125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-turkish-lira:before {
+  background-position: -0.3125em -4553em;
+  width: 20.090625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-twitch:before {
+  background-position: -0.3125em -4584.875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-twitter:before {
+  background-position: -0.3125em -4616.75em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-twitter-square:before {
+  background-position: -0.3125em -4648.625em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-umbrella:before {
+  background-position: -0.3125em -4680.5em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-underline:before {
+  background-position: -0.3125em -4712.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-unlink:before {
+  background-position: -0.3125em -4744.25em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-unlock:before {
+  background-position: -0.3125em -4776.125em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-unlock-alt:before {
+  background-position: -0.3125em -4808em;
+  width: 20.090625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-unsorted:before {
+  background-position: -0.3125em -4839.875em;
+  width: 17.85625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-upload:before {
+  background-position: -0.3125em -4871.75em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-user:before {
+  background-position: -0.3125em -4903.625em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-user-md:before {
+  background-position: -0.3125em -4935.5em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-video-camera:before {
+  background-position: -0.3125em -4967.375em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-vimeo-square:before {
+  background-position: -0.3125em -4999.25em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-vine:before {
+  background-position: -0.3125em -5031.125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-vk:before {
+  background-position: -0.3125em -5063em;
+  width: 31.25em;
+  height: 29.167444465185735em;
+}
+
+.no-fontface .icon-mono-fa-volume-down:before {
+  background-position: -0.3125em -5092.8125em;
+  width: 20.090625em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-volume-off:before {
+  background-position: -0.3125em -5124.6875em;
+  width: 13.39375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-volume-up:before {
+  background-position: -0.3125em -5156.5625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-warning:before {
+  background-position: -0.3125em -5188.4375em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-wechat:before {
+  background-position: -0.3125em -5220.3125em;
+  width: 31.25em;
+  height: 27.342724647825705em;
+}
+
+.no-fontface .icon-mono-fa-weibo:before {
+  background-position: -0.3125em -5248.28125em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-wheelchair:before {
+  background-position: -0.3125em -5280.15625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-wifi:before {
+  background-position: -0.3125em -5312.03125em;
+  width: 31.25em;
+  height: 27.342724647825705em;
+}
+
+.no-fontface .icon-mono-fa-windows:before {
+  background-position: -0.3125em -5340em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-won:before {
+  background-position: -0.3125em -5371.875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-wordpress:before {
+  background-position: -0.3125em -5403.75em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-wrench:before {
+  background-position: -0.3125em -5435.625em;
+  width: 29.01875em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-xing:before {
+  background-position: -0.3125em -5467.5em;
+  width: 24.553125em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-xing-square:before {
+  background-position: -0.3125em -5499.375em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-yahoo:before {
+  background-position: -0.3125em -5531.25em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-yelp:before {
+  background-position: -0.3125em -5563.125em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-youtube:before {
+  background-position: -0.3125em -5595em;
+  width: 26.784375em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-youtube-play:before {
+  background-position: -0.3125em -5626.875em;
+  width: 31.25em;
+  height: 31.25em;
+}
+
+.no-fontface .icon-mono-fa-youtube-square:before {
+  background-position: -0.3125em -5658.75em;
+  width: 26.784375em;
+  height: 31.25em;
+}

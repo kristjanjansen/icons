@@ -1,0 +1,74 @@
+
+.icon-color {
+    font-size: 32px;
+}
+.icon-color-small {
+    font-size: 10px;
+}
+.icon-color:before {
+  content:' ';
+  vertical-align:middle;
+  display: inline-block;
+  background-image: url("../sprites/icons_color.svg");
+  background-repeat: no-repeat;
+  background-size: 4.0625em 36.5625em;
+}
+.no-svg .icon-color:before {
+    background-image: url("../sprites/icons_color.png");
+}
+
+
+
+.icon-color-Settings-2:before {
+  background-position: -0.3125em -0.3125em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Settings-5:before {
+  background-position: -0.3125em -4.375em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Shop:before {
+  background-position: -0.3125em -8.4375em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Smartphone-Message:before {
+  background-position: -0.3125em -12.5em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Sneakers-2:before {
+  background-position: -0.3125em -16.5625em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Soldier-3:before {
+  background-position: -0.3125em -20.625em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Spongebob:before {
+  background-position: -0.3125em -24.6875em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Street-View:before {
+  background-position: -0.3125em -28.75em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
+
+.icon-color-Student-3:before {
+  background-position: -0.3125em -32.8125em;
+  width: 3.4375em;
+  height: 3.4375em;
+}
