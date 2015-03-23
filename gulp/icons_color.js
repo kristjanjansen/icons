@@ -20,7 +20,7 @@ gulp.task('icons_color', function () {
       sprite: 'icons_color.html'
     },
     templates: {
-      css: fs.readFileSync("./assets/templates/icons_color_svg_png.css", "utf-8"),
+      css: fs.readFileSync("./assets/templates/icons_color_sprites.css", "utf-8"),
       previewSprite: fs.readFileSync("./assets/templates/icons_color.html", "utf-8")
     }
   };

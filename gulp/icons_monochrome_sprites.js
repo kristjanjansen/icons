@@ -40,7 +40,7 @@ function colorize (colorConf) {
   )();
 }
 
-gulp.task('icons_monochrome_svg_png', function () {
+gulp.task('icons_monochrome_sprites', function () {
 
   var config = {
     afterTransform: function (data) {
@@ -56,13 +56,13 @@ gulp.task('icons_monochrome_svg_png', function () {
     common: 'icon-mono',
     baseSize: 32,
     padding: 10,
-    cssFile: 'css/icons_monochrome_svg_png.css',
+    cssFile: 'css/icons_monochrome_sprites.css',
     svg: {
       sprite: 'sprites/icons_monochrome.svg'
     },
     preview: false,
     templates: {
-      css: fs.readFileSync("./assets/templates/icons_monochrome_svg_png.css", "utf-8"),
+      css: fs.readFileSync("./assets/templates/icons_monochrome_sprites.css", "utf-8"),
     }
   };
 
