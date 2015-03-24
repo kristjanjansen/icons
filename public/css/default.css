@@ -1692,7 +1692,8 @@ body {
   margin-bottom: 30px; }
 
 .no {
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  cursor: pointer; }
 
 .no-1, .no-2 {
   background: green;
