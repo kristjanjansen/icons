@@ -1,8 +1,18 @@
 {#common}
 
-.{common} {
-    font-size: {baseSize}px;
+.fontface .{common}.{common}-tiny {
+  font-size: 16px;
 }
+.fontface .{common}.{common}-small {
+  font-size: 24px;
+}
+.fontface .{common} {
+  font-size: {baseSize}px;
+}
+.fontface .{common}.{common}-big {
+  font-size: 48px;
+}
+
 .{common}:before {
   content:' ';
   vertical-align:middle;

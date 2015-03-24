@@ -19,7 +19,7 @@ function isNotColorized (file) {
 }
 */
 
-function colorize (colorConf) {
+function colorize(colorConf) {
   var sink;
   return (lazypipe()
       .pipe(function () {
@@ -45,9 +45,9 @@ gulp.task('icons_monochrome_sprites', function () {
   var config = {
     afterTransform: function (data) {
       data.svg.map(function (item) {
-        var el = item.name.split('---').reverse()
+        var el = item.name.split('---')
         if (el.length > 1) {
-          item.name = el[0] + '.icon-mono-' + el[1]
+          item.name = el[1] + '.icon-mono-' + el[0]
         }
         return item
       })

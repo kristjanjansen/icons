@@ -5,6 +5,7 @@
   background-image: url('{{{escaped_image}}}');
 }
 {{/sprite}}
+
 {{#items}}
 {{class}} {
   background-position: {{px.offset_x}} {{px.offset_y}};

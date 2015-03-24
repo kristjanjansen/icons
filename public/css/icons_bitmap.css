@@ -2,6 +2,7 @@
 .icon-bitmap {
   background-image: url('../sprites/icons_bitmap.png');
 }
+
 .icon-bitmap-apple3 {
   background-position: -4px -4px;
   width: 512px;
