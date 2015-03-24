@@ -1,0 +1,1704 @@
+.icon-bitmap {
+  background-image: url('../sprites/icons_bitmap.png'); }
+
+.icon-bitmap-apple3 {
+  background-position: -4px -4px;
+  width: 512px;
+  height: 512px;
+  display: inline-block; }
+
+.icon-bitmap-applelisa {
+  background-position: -524px -4px;
+  width: 512px;
+  height: 512px;
+  display: inline-block; }
+
+.icon-bitmap-mac2 {
+  background-position: -4px -524px;
+  width: 512px;
+  height: 512px;
+  display: inline-block; }
+
+.fontface .icon-color.icon-color-tiny {
+  font-size: 16px; }
+
+.fontface .icon-color.icon-color-small {
+  font-size: 24px; }
+
+.fontface .icon-color {
+  font-size: 32px; }
+
+.fontface .icon-color.icon-color-big {
+  font-size: 48px; }
+
+.icon-color:before {
+  content: ' ';
+  vertical-align: middle;
+  display: inline-block;
+  background-image: url("../sprites/icons_color.svg");
+  background-repeat: no-repeat;
+  background-size: 4.0625em 125.9375em; }
+
+.no-svg .icon-color:before {
+  background-image: url("../sprites/icons_color.png"); }
+
+.icon-color-Rasta:before {
+  background-position: -0.3125em -0.3125em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Record-Player:before {
+  background-position: -0.3125em -4.375em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Road-Worker-1:before {
+  background-position: -0.3125em -8.4375em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Rocker:before {
+  background-position: -0.3125em -12.5em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Santa:before {
+  background-position: -0.3125em -16.5625em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Santa-Sled:before {
+  background-position: -0.3125em -20.625em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Settings-2:before {
+  background-position: -0.3125em -24.6875em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Settings-5:before {
+  background-position: -0.3125em -28.75em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Shop:before {
+  background-position: -0.3125em -32.8125em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Smartphone-Message:before {
+  background-position: -0.3125em -36.875em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Sneakers-2:before {
+  background-position: -0.3125em -40.9375em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Soldier-3:before {
+  background-position: -0.3125em -45em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Spongebob:before {
+  background-position: -0.3125em -49.0625em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Street-View:before {
+  background-position: -0.3125em -53.125em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Student-3:before {
+  background-position: -0.3125em -57.1875em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Surfer:before {
+  background-position: -0.3125em -61.25em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Surgeon:before {
+  background-position: -0.3125em -65.3125em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-T-Shirt-2:before {
+  background-position: -0.3125em -69.375em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Tablet-Chart:before {
+  background-position: -0.3125em -73.4375em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Telemarketer-Woman-2:before {
+  background-position: -0.3125em -77.5em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Television-Shelf:before {
+  background-position: -0.3125em -81.5625em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Tower:before {
+  background-position: -0.3125em -85.625em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Vector:before {
+  background-position: -0.3125em -89.6875em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Video-Camera-2:before {
+  background-position: -0.3125em -93.75em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Waitress-1:before {
+  background-position: -0.3125em -97.8125em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Wind-Wheel:before {
+  background-position: -0.3125em -101.875em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Woman-15:before {
+  background-position: -0.3125em -105.9375em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Woman-9:before {
+  background-position: -0.3125em -110em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Wooden-Horse:before {
+  background-position: -0.3125em -114.0625em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Xylophone:before {
+  background-position: -0.3125em -118.125em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.icon-color-Yin-Yang:before {
+  background-position: -0.3125em -122.1875em;
+  width: 3.4375em;
+  height: 3.4375em; }
+
+.no-fontface .icon-mono.icon-mono-tiny {
+  font-size: 16px; }
+
+.no-fontface .icon-mono.icon-mono-small {
+  font-size: 24px; }
+
+.no-fontface .icon-mono {
+  font-size: 32px; }
+
+.no-fontface .icon-mono.icon-mono-big {
+  font-size: 48px; }
+
+.no-fontface .icon-mono-gray {
+  opacity: 0.5; }
+
+.no-fontface .icon-mono-orange {
+  opacity: 0.7; }
+
+.no-fontface .icon-mono-circle {
+  background: black;
+  border-radius: 100%;
+  padding: 10px; }
+
+.no-fontface .icon-mono-circle-orange {
+  background: #FF8C00; }
+
+.no-fontface .icon-mono:before {
+  content: ' ';
+  vertical-align: middle;
+  display: inline-block;
+  background-image: url("../icons_monochrome.svg");
+  background-repeat: no-repeat;
+  background-size: 1.625em 351em; }
+
+.no-fontface.no-svg .icon-mono:before {
+  background-image: url("../icons_monochrome.png"); }
+
+.no-fontface .icon-mono-addressbook:before {
+  background-position: -0.3125em -0.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-addressbook:before {
+  background-position: -0.3125em -1.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-alarm:before {
+  background-position: -0.3125em -3.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-alarm:before {
+  background-position: -0.3125em -5.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-ampersand:before {
+  background-position: -0.3125em -6.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-ampersand:before {
+  background-position: -0.3125em -8.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-apple:before {
+  background-position: -0.3125em -10.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-apple:before {
+  background-position: -0.3125em -11.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-atom:before {
+  background-position: -0.3125em -13.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-atom:before {
+  background-position: -0.3125em -14.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-basket:before {
+  background-position: -0.3125em -16.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-basket:before {
+  background-position: -0.3125em -18.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-battery:before {
+  background-position: -0.3125em -19.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-battery:before {
+  background-position: -0.3125em -21.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-blocked:before {
+  background-position: -0.3125em -23.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-blocked:before {
+  background-position: -0.3125em -24.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-bolt:before {
+  background-position: -0.3125em -26.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-bolt:before {
+  background-position: -0.3125em -27.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-bookmark:before {
+  background-position: -0.3125em -29.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-bookmark:before {
+  background-position: -0.3125em -31.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-bookmark2:before {
+  background-position: -0.3125em -32.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-bookmark2:before {
+  background-position: -0.3125em -34.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-briefcase:before {
+  background-position: -0.3125em -36.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-briefcase:before {
+  background-position: -0.3125em -37.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-bug:before {
+  background-position: -0.3125em -39.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-bug:before {
+  background-position: -0.3125em -40.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-button:before {
+  background-position: -0.3125em -42.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-button:before {
+  background-position: -0.3125em -44.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-calendar:before {
+  background-position: -0.3125em -45.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-calendar:before {
+  background-position: -0.3125em -47.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-camera:before {
+  background-position: -0.3125em -49.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-camera:before {
+  background-position: -0.3125em -50.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-camera2:before {
+  background-position: -0.3125em -52.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-camera2:before {
+  background-position: -0.3125em -53.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-cancel:before {
+  background-position: -0.3125em -55.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-cancel:before {
+  background-position: -0.3125em -57.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-cart:before {
+  background-position: -0.3125em -58.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-cart:before {
+  background-position: -0.3125em -60.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-chart:before {
+  background-position: -0.3125em -62.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-chart:before {
+  background-position: -0.3125em -63.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-checkmark:before {
+  background-position: -0.3125em -65.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-checkmark:before {
+  background-position: -0.3125em -66.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-clock:before {
+  background-position: -0.3125em -68.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-clock:before {
+  background-position: -0.3125em -70.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-cloud:before {
+  background-position: -0.3125em -71.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-cloud:before {
+  background-position: -0.3125em -73.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-code:before {
+  background-position: -0.3125em -75.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-code:before {
+  background-position: -0.3125em -76.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-coffee:before {
+  background-position: -0.3125em -78.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-coffee:before {
+  background-position: -0.3125em -79.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-cog:before {
+  background-position: -0.3125em -81.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-cog:before {
+  background-position: -0.3125em -83.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-comment:before {
+  background-position: -0.3125em -84.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-comment:before {
+  background-position: -0.3125em -86.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-compass:before {
+  background-position: -0.3125em -88.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-compass:before {
+  background-position: -0.3125em -89.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-cone:before {
+  background-position: -0.3125em -91.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-cone:before {
+  background-position: -0.3125em -92.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-console:before {
+  background-position: -0.3125em -94.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-console:before {
+  background-position: -0.3125em -96.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-contrast:before {
+  background-position: -0.3125em -97.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-contrast:before {
+  background-position: -0.3125em -99.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-creditcard:before {
+  background-position: -0.3125em -101.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-creditcard:before {
+  background-position: -0.3125em -102.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-crop:before {
+  background-position: -0.3125em -104.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-crop:before {
+  background-position: -0.3125em -105.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-database:before {
+  background-position: -0.3125em -107.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-database:before {
+  background-position: -0.3125em -109.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-diary:before {
+  background-position: -0.3125em -110.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-diary:before {
+  background-position: -0.3125em -112.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-disk:before {
+  background-position: -0.3125em -114.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-disk:before {
+  background-position: -0.3125em -115.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-dribbble:before {
+  background-position: -0.3125em -117.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-dribbble:before {
+  background-position: -0.3125em -118.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-droplet:before {
+  background-position: -0.3125em -120.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-droplet:before {
+  background-position: -0.3125em -122.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-earth:before {
+  background-position: -0.3125em -123.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-earth:before {
+  background-position: -0.3125em -125.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-envelope:before {
+  background-position: -0.3125em -127.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-envelope:before {
+  background-position: -0.3125em -128.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-eye:before {
+  background-position: -0.3125em -130.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-eye:before {
+  background-position: -0.3125em -131.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-feed:before {
+  background-position: -0.3125em -133.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-feed:before {
+  background-position: -0.3125em -135.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-file:before {
+  background-position: -0.3125em -136.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-file:before {
+  background-position: -0.3125em -138.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-film:before {
+  background-position: -0.3125em -140.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-film:before {
+  background-position: -0.3125em -141.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-filter:before {
+  background-position: -0.3125em -143.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-filter:before {
+  background-position: -0.3125em -144.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-flag:before {
+  background-position: -0.3125em -146.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-flag:before {
+  background-position: -0.3125em -148.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-floppy:before {
+  background-position: -0.3125em -149.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-floppy:before {
+  background-position: -0.3125em -151.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-folder:before {
+  background-position: -0.3125em -153.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-folder:before {
+  background-position: -0.3125em -154.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-forrst:before {
+  background-position: -0.3125em -156.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-forrst:before {
+  background-position: -0.3125em -157.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-forward:before {
+  background-position: -0.3125em -159.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-forward:before {
+  background-position: -0.3125em -161.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-frame:before {
+  background-position: -0.3125em -162.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-frame:before {
+  background-position: -0.3125em -164.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-gift:before {
+  background-position: -0.3125em -166.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-gift:before {
+  background-position: -0.3125em -167.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-grid:before {
+  background-position: -0.3125em -169.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-grid:before {
+  background-position: -0.3125em -170.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-headphones:before {
+  background-position: -0.3125em -172.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-headphones:before {
+  background-position: -0.3125em -174.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-heart:before {
+  background-position: -0.3125em -175.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-heart:before {
+  background-position: -0.3125em -177.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-home:before {
+  background-position: -0.3125em -179.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-home:before {
+  background-position: -0.3125em -180.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-inbox:before {
+  background-position: -0.3125em -182.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-inbox:before {
+  background-position: -0.3125em -183.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-info:before {
+  background-position: -0.3125em -185.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-info:before {
+  background-position: -0.3125em -187.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-ipod:before {
+  background-position: -0.3125em -188.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-ipod:before {
+  background-position: -0.3125em -190.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-key:before {
+  background-position: -0.3125em -192.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-key:before {
+  background-position: -0.3125em -193.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-keyboard:before {
+  background-position: -0.3125em -195.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-keyboard:before {
+  background-position: -0.3125em -196.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-lamp:before {
+  background-position: -0.3125em -198.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-lamp:before {
+  background-position: -0.3125em -200.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-list:before {
+  background-position: -0.3125em -201.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-list:before {
+  background-position: -0.3125em -203.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-location:before {
+  background-position: -0.3125em -205.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-location:before {
+  background-position: -0.3125em -206.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-location2:before {
+  background-position: -0.3125em -208.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-location2:before {
+  background-position: -0.3125em -209.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-locked:before {
+  background-position: -0.3125em -211.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-locked:before {
+  background-position: -0.3125em -213.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-mic:before {
+  background-position: -0.3125em -214.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-mic:before {
+  background-position: -0.3125em -216.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-minus:before {
+  background-position: -0.3125em -218.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-minus:before {
+  background-position: -0.3125em -219.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-mobile:before {
+  background-position: -0.3125em -221.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-mobile:before {
+  background-position: -0.3125em -222.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-monitor:before {
+  background-position: -0.3125em -224.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-monitor:before {
+  background-position: -0.3125em -226.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-mouse:before {
+  background-position: -0.3125em -227.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-mouse:before {
+  background-position: -0.3125em -229.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-move:before {
+  background-position: -0.3125em -231.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-move:before {
+  background-position: -0.3125em -232.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-music:before {
+  background-position: -0.3125em -234.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-music:before {
+  background-position: -0.3125em -235.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-paperclip:before {
+  background-position: -0.3125em -237.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-paperclip:before {
+  background-position: -0.3125em -239.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-pause:before {
+  background-position: -0.3125em -240.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-pause:before {
+  background-position: -0.3125em -242.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-pencil:before {
+  background-position: -0.3125em -244.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-pencil:before {
+  background-position: -0.3125em -245.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-phone:before {
+  background-position: -0.3125em -247.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-phone:before {
+  background-position: -0.3125em -248.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-picture:before {
+  background-position: -0.3125em -250.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-picture:before {
+  background-position: -0.3125em -252.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-play:before {
+  background-position: -0.3125em -253.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-play:before {
+  background-position: -0.3125em -255.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-plus:before {
+  background-position: -0.3125em -257.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-plus:before {
+  background-position: -0.3125em -258.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-pointer:before {
+  background-position: -0.3125em -260.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-pointer:before {
+  background-position: -0.3125em -261.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-refresh:before {
+  background-position: -0.3125em -263.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-refresh:before {
+  background-position: -0.3125em -265.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-search:before {
+  background-position: -0.3125em -266.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-search:before {
+  background-position: -0.3125em -268.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-shit:before {
+  background-position: -0.3125em -270.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-shit:before {
+  background-position: -0.3125em -271.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-skype:before {
+  background-position: -0.3125em -273.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-skype:before {
+  background-position: -0.3125em -274.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-smiley:before {
+  background-position: -0.3125em -276.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-smiley:before {
+  background-position: -0.3125em -278.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-star:before {
+  background-position: -0.3125em -279.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-star:before {
+  background-position: -0.3125em -281.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-star2:before {
+  background-position: -0.3125em -283.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-star2:before {
+  background-position: -0.3125em -284.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-stats:before {
+  background-position: -0.3125em -286.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-stats:before {
+  background-position: -0.3125em -287.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-stop:before {
+  background-position: -0.3125em -289.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-stop:before {
+  background-position: -0.3125em -291.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-switch:before {
+  background-position: -0.3125em -292.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-switch:before {
+  background-position: -0.3125em -294.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-tag:before {
+  background-position: -0.3125em -296.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-tag:before {
+  background-position: -0.3125em -297.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-target:before {
+  background-position: -0.3125em -299.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-target:before {
+  background-position: -0.3125em -300.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-target2:before {
+  background-position: -0.3125em -302.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-target2:before {
+  background-position: -0.3125em -304.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-target3:before {
+  background-position: -0.3125em -305.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-target3:before {
+  background-position: -0.3125em -307.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-thumbsdown:before {
+  background-position: -0.3125em -309.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-thumbsdown:before {
+  background-position: -0.3125em -310.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-thumbsup:before {
+  background-position: -0.3125em -312.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-thumbsup:before {
+  background-position: -0.3125em -313.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-trashcan:before {
+  background-position: -0.3125em -315.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-trashcan:before {
+  background-position: -0.3125em -317.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-trophy:before {
+  background-position: -0.3125em -318.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-trophy:before {
+  background-position: -0.3125em -320.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-twitter:before {
+  background-position: -0.3125em -322.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-twitter:before {
+  background-position: -0.3125em -323.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-type:before {
+  background-position: -0.3125em -325.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-type:before {
+  background-position: -0.3125em -326.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-user:before {
+  background-position: -0.3125em -328.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-user:before {
+  background-position: -0.3125em -330.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-volume:before {
+  background-position: -0.3125em -331.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-volume:before {
+  background-position: -0.3125em -333.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-volume2:before {
+  background-position: -0.3125em -335.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-volume2:before {
+  background-position: -0.3125em -336.6875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-warning:before {
+  background-position: -0.3125em -338.3125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-warning:before {
+  background-position: -0.3125em -339.9375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-window:before {
+  background-position: -0.3125em -341.5625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-window:before {
+  background-position: -0.3125em -343.1875em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-winsows:before {
+  background-position: -0.3125em -344.8125em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-winsows:before {
+  background-position: -0.3125em -346.4375em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-wrench:before {
+  background-position: -0.3125em -348.0625em;
+  width: 1em;
+  height: 1em; }
+
+.no-fontface .icon-mono-white.icon-mono-wrench:before {
+  background-position: -0.3125em -349.6875em;
+  width: 1em;
+  height: 1em; }
+
+@font-face {
+  font-family: "icons_monochrome";
+  src: url('../fonts/icons_monochrome.eot');
+  src: url('../fonts/icons_monochrome.eot?#iefix') format('embedded-opentype'), url('../fonts/icons_monochrome.woff') format('woff'), url('../fonts/icons_monochrome.ttf') format('truetype'), url('../fonts/icons_monochrome.svg#icons_monochrome') format('svg');
+  font-weight: normal;
+  font-style: normal; }
+
+.fontface .icon-mono.icon-mono-tiny {
+  font-size: 16px; }
+
+.fontface .icon-mono.icon-mono-small {
+  font-size: 24px; }
+
+.fontface .icon-mono {
+  font-size: 32px; }
+
+.fontface .icon-mono.icon-mono-big {
+  font-size: 48px; }
+
+.fontface .icon-mono-white {
+  color: white; }
+
+.fontface .icon-mono-gray {
+  opacity: 0.5; }
+
+.fontface .icon-mono-orange {
+  color: #FF8C00; }
+
+.fontface .icon-mono-circle {
+  background: black;
+  border-radius: 100%;
+  padding: 0.4em; }
+
+.fontface .icon-mono-circle-orange {
+  background: #FF8C00; }
+
+.fontface .icon-mono:before {
+  display: inline-block;
+  font-family: "icons_monochrome";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-mono-addressbook:before {
+  content: "\E001"; }
+
+.icon-mono-alarm:before {
+  content: "\E002"; }
+
+.icon-mono-ampersand:before {
+  content: "\E003"; }
+
+.icon-mono-apple:before {
+  content: "\E004"; }
+
+.icon-mono-atom:before {
+  content: "\E005"; }
+
+.icon-mono-basket:before {
+  content: "\E006"; }
+
+.icon-mono-battery:before {
+  content: "\E007"; }
+
+.icon-mono-blocked:before {
+  content: "\E008"; }
+
+.icon-mono-bolt:before {
+  content: "\E009"; }
+
+.icon-mono-bookmark:before {
+  content: "\E00A"; }
+
+.icon-mono-bookmark2:before {
+  content: "\E00B"; }
+
+.icon-mono-briefcase:before {
+  content: "\E00C"; }
+
+.icon-mono-bug:before {
+  content: "\E00D"; }
+
+.icon-mono-button:before {
+  content: "\E00E"; }
+
+.icon-mono-calendar:before {
+  content: "\E00F"; }
+
+.icon-mono-camera:before {
+  content: "\E010"; }
+
+.icon-mono-camera2:before {
+  content: "\E011"; }
+
+.icon-mono-cancel:before {
+  content: "\E012"; }
+
+.icon-mono-cart:before {
+  content: "\E013"; }
+
+.icon-mono-chart:before {
+  content: "\E014"; }
+
+.icon-mono-checkmark:before {
+  content: "\E015"; }
+
+.icon-mono-clock:before {
+  content: "\E016"; }
+
+.icon-mono-cloud:before {
+  content: "\E017"; }
+
+.icon-mono-code:before {
+  content: "\E018"; }
+
+.icon-mono-coffee:before {
+  content: "\E019"; }
+
+.icon-mono-cog:before {
+  content: "\E01A"; }
+
+.icon-mono-comment:before {
+  content: "\E01B"; }
+
+.icon-mono-compass:before {
+  content: "\E01C"; }
+
+.icon-mono-cone:before {
+  content: "\E01D"; }
+
+.icon-mono-console:before {
+  content: "\E01E"; }
+
+.icon-mono-contrast:before {
+  content: "\E01F"; }
+
+.icon-mono-creditcard:before {
+  content: "\E020"; }
+
+.icon-mono-crop:before {
+  content: "\E021"; }
+
+.icon-mono-database:before {
+  content: "\E022"; }
+
+.icon-mono-diary:before {
+  content: "\E023"; }
+
+.icon-mono-disk:before {
+  content: "\E024"; }
+
+.icon-mono-dribbble:before {
+  content: "\E025"; }
+
+.icon-mono-droplet:before {
+  content: "\E026"; }
+
+.icon-mono-earth:before {
+  content: "\E027"; }
+
+.icon-mono-envelope:before {
+  content: "\E028"; }
+
+.icon-mono-eye:before {
+  content: "\E029"; }
+
+.icon-mono-feed:before {
+  content: "\E02A"; }
+
+.icon-mono-file:before {
+  content: "\E02B"; }
+
+.icon-mono-film:before {
+  content: "\E02C"; }
+
+.icon-mono-filter:before {
+  content: "\E02D"; }
+
+.icon-mono-flag:before {
+  content: "\E02E"; }
+
+.icon-mono-floppy:before {
+  content: "\E02F"; }
+
+.icon-mono-folder:before {
+  content: "\E030"; }
+
+.icon-mono-forrst:before {
+  content: "\E031"; }
+
+.icon-mono-forward:before {
+  content: "\E032"; }
+
+.icon-mono-frame:before {
+  content: "\E033"; }
+
+.icon-mono-gift:before {
+  content: "\E034"; }
+
+.icon-mono-grid:before {
+  content: "\E035"; }
+
+.icon-mono-headphones:before {
+  content: "\E036"; }
+
+.icon-mono-heart:before {
+  content: "\E037"; }
+
+.icon-mono-home:before {
+  content: "\E038"; }
+
+.icon-mono-inbox:before {
+  content: "\E039"; }
+
+.icon-mono-info:before {
+  content: "\E03A"; }
+
+.icon-mono-ipod:before {
+  content: "\E03B"; }
+
+.icon-mono-key:before {
+  content: "\E03C"; }
+
+.icon-mono-keyboard:before {
+  content: "\E03D"; }
+
+.icon-mono-lamp:before {
+  content: "\E03E"; }
+
+.icon-mono-list:before {
+  content: "\E03F"; }
+
+.icon-mono-location:before {
+  content: "\E040"; }
+
+.icon-mono-location2:before {
+  content: "\E041"; }
+
+.icon-mono-locked:before {
+  content: "\E042"; }
+
+.icon-mono-mic:before {
+  content: "\E043"; }
+
+.icon-mono-minus:before {
+  content: "\E044"; }
+
+.icon-mono-mobile:before {
+  content: "\E045"; }
+
+.icon-mono-monitor:before {
+  content: "\E046"; }
+
+.icon-mono-mouse:before {
+  content: "\E047"; }
+
+.icon-mono-move:before {
+  content: "\E048"; }
+
+.icon-mono-music:before {
+  content: "\E049"; }
+
+.icon-mono-paperclip:before {
+  content: "\E04A"; }
+
+.icon-mono-pause:before {
+  content: "\E04B"; }
+
+.icon-mono-pencil:before {
+  content: "\E04C"; }
+
+.icon-mono-phone:before {
+  content: "\E04D"; }
+
+.icon-mono-picture:before {
+  content: "\E04E"; }
+
+.icon-mono-play:before {
+  content: "\E04F"; }
+
+.icon-mono-plus:before {
+  content: "\E050"; }
+
+.icon-mono-pointer:before {
+  content: "\E051"; }
+
+.icon-mono-refresh:before {
+  content: "\E052"; }
+
+.icon-mono-search:before {
+  content: "\E053"; }
+
+.icon-mono-shit:before {
+  content: "\E054"; }
+
+.icon-mono-skype:before {
+  content: "\E055"; }
+
+.icon-mono-smiley:before {
+  content: "\E056"; }
+
+.icon-mono-star:before {
+  content: "\E057"; }
+
+.icon-mono-star2:before {
+  content: "\E058"; }
+
+.icon-mono-stats:before {
+  content: "\E059"; }
+
+.icon-mono-stop:before {
+  content: "\E05A"; }
+
+.icon-mono-switch:before {
+  content: "\E05B"; }
+
+.icon-mono-tag:before {
+  content: "\E05C"; }
+
+.icon-mono-target:before {
+  content: "\E05D"; }
+
+.icon-mono-target2:before {
+  content: "\E05E"; }
+
+.icon-mono-target3:before {
+  content: "\E05F"; }
+
+.icon-mono-thumbsdown:before {
+  content: "\E060"; }
+
+.icon-mono-thumbsup:before {
+  content: "\E061"; }
+
+.icon-mono-trashcan:before {
+  content: "\E062"; }
+
+.icon-mono-trophy:before {
+  content: "\E063"; }
+
+.icon-mono-twitter:before {
+  content: "\E064"; }
+
+.icon-mono-type:before {
+  content: "\E065"; }
+
+.icon-mono-user:before {
+  content: "\E066"; }
+
+.icon-mono-volume:before {
+  content: "\E067"; }
+
+.icon-mono-volume2:before {
+  content: "\E068"; }
+
+.icon-mono-warning:before {
+  content: "\E069"; }
+
+.icon-mono-window:before {
+  content: "\E06A"; }
+
+.icon-mono-winsows:before {
+  content: "\E06B"; }
+
+.icon-mono-wrench:before {
+  content: "\E06C"; }
+
+body {
+  font-family: sans-serif;
+  background: #ddd; }
+
+.row {
+  margin-bottom: 30px; }
+
+.no {
+  margin-bottom: 20px; }
+
+.no-1, .no-2, .no-3, .no-4, .no-5, .no-6 {
+  background: #ccc;
+  display: inline;
+  width: 120px;
+  padding: 3px; }
+
+.no-svg .no-1, .no-svgasimg .no-2, .no-svgclippaths .no-3, .no-svgfilters .no-4, .no-svgforeignobject .no-5, .no-fontface .no-6 {
+  background: red; }

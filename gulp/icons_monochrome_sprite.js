@@ -40,7 +40,7 @@ function cloneAndColorize(colorConf) {
   )();
 }
 
-gulp.task('icons_monochrome_sprites', function () {
+gulp.task('icons_monochrome_sprite', function () {
 
   var cssFilter = filter('*.{css,scss}')
   var svgFilter = filter('*.svg')
@@ -59,13 +59,13 @@ gulp.task('icons_monochrome_sprites', function () {
     common: 'icon-mono',
     baseSize: 32,
     padding: 10,
-    cssFile: 'icons_monochrome_sprites.css',
+    cssFile: 'icons_monochrome_sprite.scss',
     svg: {
-      sprite: 'sprites/icons_monochrome.svg'
+      sprite: 'icons_monochrome.svg'
     },
     preview: false,
     templates: {
-      css: fs.readFileSync("./assets/templates/icons_monochrome_sprites.css", "utf-8"),
+      css: fs.readFileSync("./assets/templates/scss/icons_monochrome_sprite.scss", "utf-8"),
     }
   };
 
@@ -73,7 +73,7 @@ gulp.task('icons_monochrome_sprites', function () {
     .pipe(cloneAndColorize({name: 'white', color: '#fff'}))
     .pipe(svgsprites(config))
     .pipe(cssFilter)
-    .pipe(gulp.dest('assets/scss')) 
+    .pipe(gulp.dest('assets/scss/default')) 
     .pipe(cssFilter.restore())
     .pipe(svgFilter)
     .pipe(gulp.dest('public/sprites')) 

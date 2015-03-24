@@ -23,12 +23,12 @@ gulp.task('icons_monochrome_font', function() {
        return glyph
      })
 
-     gulp.src('./assets/templates/icons_monochrome_font.css')
+     gulp.src('./assets/templates/scss/icons_monochrome_font.scss')
        .pipe(twig({data: data}))
-       .pipe(rename({ extname:'.css' }))
-       .pipe(gulp.dest('public/css'));
+       .pipe(rename({ extname:'.scss' }))
+       .pipe(gulp.dest('assets/scss/default'));
 
-     gulp.src('./assets/templates/icons_monochrome.html')
+     gulp.src('./assets/templates/html/icons_monochrome.html')
        .pipe(twig({data: data}))
        .pipe(rename({ extname:'.html'}))
        .pipe(gulp.dest('public'));

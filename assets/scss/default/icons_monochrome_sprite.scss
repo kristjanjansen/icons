@@ -32,12 +32,12 @@
   content:' ';
   vertical-align:middle;
   display: inline-block;
-  background-image: url("../sprites/icons_monochrome.svg");
+  background-image: url("../icons_monochrome.svg");
   background-repeat: no-repeat;
   background-size: 1.625em 351em;
 }
 .no-fontface.no-svg .icon-mono:before {
-    background-image: url("../sprites/icons_monochrome.png");
+    background-image: url("../icons_monochrome.png");
 }
 
 

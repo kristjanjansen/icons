@@ -7,10 +7,11 @@ var twig = require("gulp-twig");
 var filter = require('gulp-filter');
 var rename = require('gulp-rename');
 
-gulp.task('icons_bitmap', function () {
+gulp.task('icons_bitmap_sprite', function () {
 
   var pngFilter = filter('*.png')
-  var cssFilter = filter('*.css')
+  var cssFilter = filter('*.{scss,css}')
+
   var files = []
 
   gulp.src('./assets/png/*.png')
@@ -19,23 +20,23 @@ gulp.task('icons_bitmap', function () {
      }))
     .pipe(sprite({
       name: 'icons_bitmap',
-      style: 'icons_bitmap.css',
+      style: 'icons_bitmap_sprite.scss',
       cssPath: '../sprites/',
       processor: 'css',
       orientation: 'binary-tree',
       prefix: 'icon-bitmap',
-      template: './assets/templates/icons_bitmap.css'
+      template: 'assets/templates/scss/icons_bitmap_sprite.scss'
     }))
-    .pipe(pngFilter)
-    .pipe(gulp.dest('./public/sprites'))
-    .pipe(pngFilter.restore())
     .pipe(cssFilter)
-    .pipe(gulp.dest('./public/css'))
+    .pipe(gulp.dest('assets/scss/default'))
+    .pipe(cssFilter.restore())
+    .pipe(pngFilter)
+    .pipe(gulp.dest('public/sprites'))
     .on('end', function() {
 
-        gulp.src('./assets/templates/icons_bitmap.html')
+        gulp.src('./assets/templates/html/icons_bitmap.html')
           .pipe(twig({data: {files: files}}))
-          .pipe(gulp.dest('./public'))
+          .pipe(gulp.dest('public'))
    
     })
 
