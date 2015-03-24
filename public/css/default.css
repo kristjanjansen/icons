@@ -19,16 +19,16 @@
   height: 512px;
   display: inline-block; }
 
-.fontface .icon-color.icon-color-tiny {
+.icon-color.icon-color-tiny {
   font-size: 16px; }
 
-.fontface .icon-color.icon-color-small {
+.icon-color.icon-color-small {
   font-size: 24px; }
 
-.fontface .icon-color {
+.icon-color {
   font-size: 32px; }
 
-.fontface .icon-color.icon-color-big {
+.icon-color.icon-color-big {
   font-size: 48px; }
 
 .icon-color:before {
@@ -1694,11 +1694,11 @@ body {
 .no {
   margin-bottom: 20px; }
 
-.no-1, .no-2, .no-3, .no-4, .no-5, .no-6 {
-  background: #ccc;
+.no-1, .no-2 {
+  background: green;
   display: inline;
   width: 120px;
   padding: 3px; }
 
-.no-svg .no-1, .no-svgasimg .no-2, .no-svgclippaths .no-3, .no-svgfilters .no-4, .no-svgforeignobject .no-5, .no-fontface .no-6 {
+.no-fontface .no-1, .no-svg .no-2 {
   background: red; }
