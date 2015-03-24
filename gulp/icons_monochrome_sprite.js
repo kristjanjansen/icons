@@ -61,7 +61,7 @@ gulp.task('icons_monochrome_sprite', function () {
     padding: 10,
     cssFile: 'icons_monochrome_sprite.scss',
     svg: {
-      sprite: 'icons_monochrome.svg'
+      sprite: 'sprites/icons_monochrome.svg'
     },
     preview: false,
     templates: {

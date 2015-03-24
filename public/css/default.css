@@ -227,12 +227,12 @@
   content: ' ';
   vertical-align: middle;
   display: inline-block;
-  background-image: url("../icons_monochrome.svg");
+  background-image: url("../sprites/icons_monochrome.svg");
   background-repeat: no-repeat;
   background-size: 1.625em 351em; }
 
 .no-fontface.no-svg .icon-mono:before {
-  background-image: url("../icons_monochrome.png"); }
+  background-image: url("../sprites/icons_monochrome.png"); }
 
 .no-fontface .icon-mono-addressbook:before {
   background-position: -0.3125em -0.3125em;
