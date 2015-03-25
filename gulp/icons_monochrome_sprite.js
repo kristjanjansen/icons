@@ -10,7 +10,8 @@ var lazypipe = require('lazypipe');
 var clone = require('gulp-clone');
 var cheerio = require('gulp-cheerio');
 var rename = require('gulp-rename');
-
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
 
 /*
 function isNotColorized (file) {
@@ -42,8 +43,8 @@ function cloneAndColorize(colorConf) {
 
 gulp.task('icons_monochrome_sprite', function () {
 
-  var cssFilter = filter('*.{css,scss}')
-  var svgFilter = filter('*.svg')
+  var cssFilter = filter('**/*.{css,scss}')
+  var svgFilter = filter('**/*.svg')
 
   var config = {
     afterTransform: function (data) {
@@ -59,13 +60,13 @@ gulp.task('icons_monochrome_sprite', function () {
     common: 'icon-mono',
     baseSize: 32,
     padding: 10,
-    cssFile: 'icons_monochrome_sprite.scss',
+    cssFile: '_icons_monochrome_sprite.scss',
     svg: {
       sprite: 'sprites/icons_monochrome.svg'
     },
     preview: false,
     templates: {
-      css: fs.readFileSync("./assets/templates/scss/icons_monochrome_sprite.scss", "utf-8"),
+      css: fs.readFileSync("./assets/templates/scss/_icons_monochrome_sprite.scss", "utf-8"),
     }
   };
 
@@ -76,8 +77,9 @@ gulp.task('icons_monochrome_sprite', function () {
     .pipe(gulp.dest('assets/scss/default')) 
     .pipe(cssFilter.restore())
     .pipe(svgFilter)
-    .pipe(gulp.dest('public/sprites')) 
+    .pipe(gulp.dest('public')) 
     .pipe(svg2png())
-    .pipe(gulp.dest('public/sprites')) 
+    .pipe(imagemin({ progressive: true, use: [pngquant()] }))
+    .pipe(gulp.dest('public')) 
 
 });

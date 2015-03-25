@@ -5,18 +5,20 @@ var svgsprites = require('gulp-svg-sprites')
 var del = require('del');
 var filter    = require('gulp-filter');
 var svg2png   = require('gulp-svg2png');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
 
 gulp.task('icons_color_sprite', function () {
 
-  var cssFilter = filter('*.{css,scss}')
-  var svgFilter = filter('*.svg')
-  var htmlFilter = filter('*.html')
+  var cssFilter = filter('**/*.{css,scss}')
+  var svgFilter = filter('**/*.svg')
+  var htmlFilter = filter('**/*.html')
 
   var config = {
     common: 'icon-color',
     baseSize: 32,
     padding: 10,
-    cssFile: 'icons_color_sprite.scss',
+    cssFile: '_icons_color_sprite.scss',
     svg: {
       sprite: 'sprites/icons_color.svg'
     },
@@ -24,7 +26,7 @@ gulp.task('icons_color_sprite', function () {
       sprite: 'icons_color.html'
     },
     templates: {
-      css: fs.readFileSync("./assets/templates/scss/icons_color_sprite.scss", "utf-8"),
+      css: fs.readFileSync("./assets/templates/scss/_icons_color_sprite.scss", "utf-8"),
       previewSprite: fs.readFileSync("./assets/templates/html/icons_color.html", "utf-8")
     }
   };
@@ -35,9 +37,11 @@ gulp.task('icons_color_sprite', function () {
     .pipe(gulp.dest('assets/scss/default'))
     .pipe(cssFilter.restore())
     .pipe(svgFilter)
-    .pipe(gulp.dest('public/sprites'))
+    .pipe(gulp.dest('public'))
+    .pipe(svg2png())
+    .pipe(imagemin({ progressive: true, use: [pngquant()] }))
+    .pipe(gulp.dest('public'))
     .pipe(svgFilter.restore())
     .pipe(htmlFilter)
-    .pipe(gulp.dest('public'));
-
+    .pipe(gulp.dest('public'))
 });

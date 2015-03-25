@@ -20,12 +20,12 @@ gulp.task('icons_bitmap_sprite', function () {
      }))
     .pipe(sprite({
       name: 'icons_bitmap',
-      style: 'icons_bitmap_sprite.scss',
+      style: '_icons_bitmap_sprite.scss',
       cssPath: '../sprites/',
       processor: 'css',
       orientation: 'binary-tree',
       prefix: 'icon-bitmap',
-      template: 'assets/templates/scss/icons_bitmap_sprite.scss'
+      template: 'assets/templates/scss/_icons_bitmap_sprite.scss'
     }))
     .pipe(cssFilter)
     .pipe(gulp.dest('assets/scss/default'))

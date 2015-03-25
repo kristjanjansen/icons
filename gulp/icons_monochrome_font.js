@@ -23,7 +23,7 @@ gulp.task('icons_monochrome_font', function() {
        return glyph
      })
 
-     gulp.src('./assets/templates/scss/icons_monochrome_font.scss')
+     gulp.src('./assets/templates/scss/_icons_monochrome_font.scss')
        .pipe(twig({data: data}))
        .pipe(rename({ extname:'.scss' }))
        .pipe(gulp.dest('assets/scss/default'));
