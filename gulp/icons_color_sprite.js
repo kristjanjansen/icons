@@ -12,7 +12,6 @@ gulp.task('icons_color_sprite', function () {
 
   var cssFilter = filter('**/*.{css,scss}')
   var svgFilter = filter('**/*.svg')
-  var htmlFilter = filter('**/*.html')
 
   var config = {
     common: 'icon-color',
@@ -22,12 +21,9 @@ gulp.task('icons_color_sprite', function () {
     svg: {
       sprite: 'sprites/icons_color.svg'
     },
-    preview: {
-      sprite: 'icons_color.html'
-    },
+    preview: null,
     templates: {
       css: fs.readFileSync("./assets/templates/scss/_icons_color_sprite.scss", "utf-8"),
-      previewSprite: fs.readFileSync("./assets/templates/html/icons_color.html", "utf-8")
     }
   };
 
@@ -41,7 +37,5 @@ gulp.task('icons_color_sprite', function () {
     .pipe(svg2png())
     .pipe(imagemin({ progressive: true, use: [pngquant()] }))
     .pipe(gulp.dest('public'))
-    .pipe(svgFilter.restore())
-    .pipe(htmlFilter)
-    .pipe(gulp.dest('public'))
+
 });

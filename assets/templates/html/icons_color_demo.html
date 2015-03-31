@@ -1,3 +1,5 @@
+{# Twig template #}
+
 <!DOCTYPE html>
 <html lang="">
 <head>
@@ -16,14 +18,13 @@
 <div class="no-2">svg</div>
 </div>
 
-{#svg}{#normal}
+{% for file in files %}
   <div class="row">
-    <span class="{common} {common}-tiny {common}-{name}"></span>
-    <span class="{common} {common}-small {common}-{name}"></span>
-    <span class="{common} {common}-{name}"></span>
-    <span class="{common} {common}-big {common}-{name}"></span>
+  {% for size in sizes %}
+    <span class="icon-color icon-color-{{ file }} icon-color-{{ size }}"></span>
+  {% endfor %}
   </div> 
-{/normal}{/svg}
+{% endfor %}
 
 </body>
 </html>

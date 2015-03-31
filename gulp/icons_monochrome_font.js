@@ -28,11 +28,6 @@ gulp.task('icons_monochrome_font', function() {
        .pipe(rename({ extname:'.scss' }))
        .pipe(gulp.dest('assets/scss/default'));
 
-     gulp.src('./assets/templates/html/icons_monochrome.html')
-       .pipe(twig({data: data}))
-       .pipe(rename({ extname:'.html'}))
-       .pipe(gulp.dest('public'));
-
    })
    .pipe(gulp.dest('public/fonts'))
 });
