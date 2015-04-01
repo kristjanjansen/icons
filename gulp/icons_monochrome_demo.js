@@ -7,8 +7,7 @@ var twig = require("gulp-twig");
 gulp.task('icons_monochrome_demo', function () {
 
   var sizes = ['tiny', 'small', 'medium', 'big']
-  var colors = ['black', 'white', 'gray', 'orange']
-  var styles = ['']
+  var colors = ['', 'white', 'gray', 'red', 'green', 'blue', 'yellow']
 
   var files = []
 
@@ -21,8 +20,7 @@ gulp.task('icons_monochrome_demo', function () {
         .pipe(twig({data: {
           files: files,
           sizes: sizes,
-          colors: colors,
-          styles: styles
+          colors: colors
         }}))
         .pipe(gulp.dest('public'))
     })

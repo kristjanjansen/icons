@@ -58,7 +58,7 @@ gulp.task('icons_monochrome_sprite', function () {
       return data
     },
     common: 'icon-mono',
-    baseSize: 32,
+    baseSize: 48,
     padding: 10,
     cssFile: '_icons_monochrome_sprite.scss',
     svg: {

@@ -23,11 +23,9 @@
   {% for size in sizes %}
   <div class="row">
     {% for color in colors %}
-        {% for style in styles %}
 
-    <span class="icon-mono icon-mono-{{ file }} icon-mono-{{ size }} icon-mono-{{ color }} icon-mono-{{ style }}"></span>
+    <span class="icon-mono icon-mono-{{ file }} icon-mono-{{ size }} icon-mono-{{ color }}"></span>
     
-      {% endfor %}
     {% endfor %}
   </div>
   {% endfor %}

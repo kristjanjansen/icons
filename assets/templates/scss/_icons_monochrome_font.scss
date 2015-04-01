@@ -1,3 +1,5 @@
+{# Twig template #}
+
 @font-face {
   font-family: "{{ fontName }}";
   src: url('{{ fontPath }}/{{ fontName }}.eot');
@@ -7,40 +9,6 @@
     url('{{ fontPath }}/{{ fontName }}.svg#{{ fontName }}') format('svg');
   font-weight: normal;
   font-style: normal;
-}
-
-.fontface .{{ className }}.{{ className }}-tiny {
-  font-size: 16px;
-}
-.fontface .{{ className }}.{{ className }}-small {
-  font-size: 24px;
-}
-.fontface .{{ className }} {
-  font-size: 32px;
-}
-.fontface .{{ className }}.{{ className }}-big {
-  font-size: 48px;
-}
-
-.fontface .{{ className }}-white {
-  color: white;
-}
-
-.fontface .{{ className }}-gray {
-  opacity: 0.5;
-}
-
-.fontface .{{ className }}-orange {
-  color: #FF8C00;
-}
-.fontface .{{ className }}-circle {
-  background: black;
-  border-radius: 100%;
-  padding: 0.4em;
-}
-
-.fontface .{{ className }}-circle-orange {
-  background: #FF8C00;
 }
 
 .fontface .{{ className }}:before {

@@ -13,9 +13,9 @@ gulp.task('icons_color_sprite', function () {
   var cssFilter = filter('**/*.{css,scss}')
   var svgFilter = filter('**/*.svg')
 
-  var config = {
+  var svgConfig = {
     common: 'icon-color',
-    baseSize: 32,
+    baseSize: 48,
     padding: 10,
     cssFile: '_icons_color_sprite.scss',
     svg: {
@@ -28,7 +28,7 @@ gulp.task('icons_color_sprite', function () {
   };
 
   gulp.src('assets/svg/color/*.svg')
-    .pipe(svgsprites(config))
+    .pipe(svgsprites(svgConfig))
     .pipe(cssFilter)
     .pipe(gulp.dest('assets/scss/default'))
     .pipe(cssFilter.restore())

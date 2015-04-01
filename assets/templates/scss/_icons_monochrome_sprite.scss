@@ -1,34 +1,5 @@
 {#common}
 
-.no-fontface .{common}.{common}-tiny {
-  font-size: 16px;
-}
-.no-fontface .{common}.{common}-small {
-  font-size: 24px;
-}
-.no-fontface .{common} {
-  font-size: {baseSize}px;
-}
-.no-fontface .{common}.{common}-big {
-  font-size: 48px;
-}
-
-
-.no-fontface .{common}-gray {
-  opacity: 0.5;
-}
-.no-fontface .{common}-orange {
-  opacity: 0.7;
-}
-.no-fontface .{common}-circle {
-  background: black;
-  border-radius: 100%;
-  padding: 10px;
-}
-.no-fontface .{common}-circle-orange {
-  background: #FF8C00;
-}
-
 .no-fontface .{common}:before {
   content:' ';
   vertical-align:middle;

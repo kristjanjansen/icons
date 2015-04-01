@@ -2,19 +2,6 @@
 
 {#common}
 
-.{common}.{common}-tiny {
-  font-size: 16px;
-}
-.{common}.{common}-small {
-  font-size: 24px;
-}
-.{common} {
-  font-size: {baseSize}px;
-}
-.{common}.{common}-big {
-  font-size: 48px;
-}
-
 .{common}:before {
   content:' ';
   vertical-align:middle;
