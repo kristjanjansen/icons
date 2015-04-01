@@ -1663,6 +1663,27 @@
   width: 3.4375em;
   height: 3.4375em; }
 
+.icon-bitmap {
+  background-image: url('../sprites/icons_bitmap.png'); }
+
+.icon-bitmap-apple3 {
+  background-position: -4px -4px;
+  width: 512px;
+  height: 512px;
+  display: inline-block; }
+
+.icon-bitmap-applelisa {
+  background-position: -524px -4px;
+  width: 512px;
+  height: 512px;
+  display: inline-block; }
+
+.icon-bitmap-mac2 {
+  background-position: -4px -524px;
+  width: 512px;
+  height: 512px;
+  display: inline-block; }
+
 body {
   font-family: sans-serif;
   background: #ddd; }

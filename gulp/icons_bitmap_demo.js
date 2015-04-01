@@ -8,7 +8,7 @@ gulp.task('icons_bitmap_demo', function () {
 
   var files = []
 
-  gulp.src('./assets/bitmap/*.png')
+  gulp.src('./assets/png/*.png')
     .pipe(tap(function(filepath) {
        files.push(path.basename(filepath.path, '.png'))
      }))
