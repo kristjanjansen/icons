@@ -6,11 +6,12 @@ Experimental icon system based on SVG sources and outputting various iconfont, S
 
 | Type      | Modernizr test           | Format     | Browsers                      | Size | Size with variations |  
 |-----------|--------------------------|------------|-------------------------------|------|----------------------|
-| Default   | ```fontface svg```       | Iconfont   | Chrome, Firefox, Safari, IE9+ | 13KB | 13KB                 |
+| Default   | ```fontface svg```       | Iconfont   | Chrome, FF, Safari, IE9+      | 13KB | 13KB                 |
+| Default   | ```fontface no-svg```    | Iconfont   | Old Android browsers          | 13KB | 13KB                 |
 | Fallback1 | ```no-fontface svg```    | SVG sprite | Opera Mini                    | 26KB | 29KB                 |
 | Fallback2 | ```no-fontface no-svg``` | PNG sprite | ?                             | 42KB | 83KB                 |
 
-* Sizes: Size of font or sprite generated from 108 black SVG icons and 108 black + 108 white variations
+* Sizes: Size of font or sprite generated from 108 black SVG icons and with additional 108 white variations (216 total)
 * It's assumed SVG is served with gzip compression from server, without it the size is 5x bigger. Opera Mini proxy requests the SVG content with gzip encoding. It is possible that Nginx config needs additional directive ```gzip-proxied``` ([link](https://github.com/h5bp/server-configs-nginx/blob/master/nginx.conf#L84)) to make it work but its unconfirmed.
 * Opera is untested
 * Opera Mini Modernizr test is replaced with browser detection, forcing ```no-fontface svg```
@@ -18,10 +19,11 @@ Experimental icon system based on SVG sources and outputting various iconfont, S
 
 ### Color icons
  
-| Type      | Modernizr test           | Format     | Browsers                                         | Size  |
-|-----------|--------------------------|------------|--------------------------------------------------|-------|
-| Default   | ```svg```                | SVG sprite | Chrome, Firefox, Safari, IE9+, Opera, Opera Mini | 17KB  |  
-| Fallback1 | ```no-svg```             | PNG sprite | ?                                                | 24KB  |
+| Type      | Modernizr test           | Format     | Browsers                              | Size  |
+|-----------|--------------------------|------------|---------------------------------------|-------|
+| Default   | ```svg```                | SVG sprite | Chrome, FF, Safari, IE9+, Opera Mini  | 17KB  |  
+| Fallback1 | ```no-svg```             | PNG sprite | Older Android browsers                | 24KB  |
+
 
 * Sizes: Size of sprites generated from 31 color SVG icons
 * Opera is untested
