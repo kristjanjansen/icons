@@ -68,7 +68,7 @@
   display: inline-block;
   background-image: url("../sprites/icons_monochrome.svg");
   background-repeat: no-repeat;
-  background-size: 1.41667em 306em; }
+  background-size: 1.41667em 153em; }
 
 .no-fontface.no-svg .icon-mono:before {
   background-image: url("../sprites/icons_monochrome.png"); }
@@ -78,1078 +78,538 @@
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-addressbook:before {
+.no-fontface .icon-mono-alarm:before {
   background-position: -0.20833em -1.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-alarm:before {
+.no-fontface .icon-mono-ampersand:before {
   background-position: -0.20833em -3.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-alarm:before {
+.no-fontface .icon-mono-apple:before {
   background-position: -0.20833em -4.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-ampersand:before {
+.no-fontface .icon-mono-atom:before {
   background-position: -0.20833em -5.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-ampersand:before {
+.no-fontface .icon-mono-basket:before {
   background-position: -0.20833em -7.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-apple:before {
+.no-fontface .icon-mono-battery:before {
   background-position: -0.20833em -8.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-apple:before {
+.no-fontface .icon-mono-blocked:before {
   background-position: -0.20833em -10.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-atom:before {
+.no-fontface .icon-mono-bolt:before {
   background-position: -0.20833em -11.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-atom:before {
+.no-fontface .icon-mono-bookmark:before {
   background-position: -0.20833em -12.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-basket:before {
+.no-fontface .icon-mono-bookmark2:before {
   background-position: -0.20833em -14.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-basket:before {
+.no-fontface .icon-mono-briefcase:before {
   background-position: -0.20833em -15.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-battery:before {
+.no-fontface .icon-mono-bug:before {
   background-position: -0.20833em -17.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-battery:before {
+.no-fontface .icon-mono-button:before {
   background-position: -0.20833em -18.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-blocked:before {
+.no-fontface .icon-mono-calendar:before {
   background-position: -0.20833em -20.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-blocked:before {
+.no-fontface .icon-mono-camera:before {
   background-position: -0.20833em -21.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bolt:before {
+.no-fontface .icon-mono-camera2:before {
   background-position: -0.20833em -22.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bolt:before {
+.no-fontface .icon-mono-cancel:before {
   background-position: -0.20833em -24.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark:before {
+.no-fontface .icon-mono-cart:before {
   background-position: -0.20833em -25.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark:before {
+.no-fontface .icon-mono-chart:before {
   background-position: -0.20833em -27.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark2:before {
+.no-fontface .icon-mono-checkmark:before {
   background-position: -0.20833em -28.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark2:before {
+.no-fontface .icon-mono-clock:before {
   background-position: -0.20833em -29.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-briefcase:before {
+.no-fontface .icon-mono-cloud:before {
   background-position: -0.20833em -31.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-briefcase:before {
+.no-fontface .icon-mono-code:before {
   background-position: -0.20833em -32.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bug:before {
+.no-fontface .icon-mono-coffee:before {
   background-position: -0.20833em -34.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bug:before {
+.no-fontface .icon-mono-cog:before {
   background-position: -0.20833em -35.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-button:before {
+.no-fontface .icon-mono-comment:before {
   background-position: -0.20833em -37.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-button:before {
+.no-fontface .icon-mono-compass:before {
   background-position: -0.20833em -38.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-calendar:before {
+.no-fontface .icon-mono-cone:before {
   background-position: -0.20833em -39.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-calendar:before {
+.no-fontface .icon-mono-console:before {
   background-position: -0.20833em -41.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera:before {
+.no-fontface .icon-mono-contrast:before {
   background-position: -0.20833em -42.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera:before {
+.no-fontface .icon-mono-creditcard:before {
   background-position: -0.20833em -44.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera2:before {
+.no-fontface .icon-mono-crop:before {
   background-position: -0.20833em -45.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera2:before {
+.no-fontface .icon-mono-database:before {
   background-position: -0.20833em -46.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cancel:before {
+.no-fontface .icon-mono-diary:before {
   background-position: -0.20833em -48.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cancel:before {
+.no-fontface .icon-mono-disk:before {
   background-position: -0.20833em -49.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cart:before {
+.no-fontface .icon-mono-dribbble:before {
   background-position: -0.20833em -51.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cart:before {
+.no-fontface .icon-mono-droplet:before {
   background-position: -0.20833em -52.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-chart:before {
+.no-fontface .icon-mono-earth:before {
   background-position: -0.20833em -54.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-chart:before {
+.no-fontface .icon-mono-envelope:before {
   background-position: -0.20833em -55.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-checkmark:before {
+.no-fontface .icon-mono-eye:before {
   background-position: -0.20833em -56.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-checkmark:before {
+.no-fontface .icon-mono-feed:before {
   background-position: -0.20833em -58.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-clock:before {
+.no-fontface .icon-mono-file:before {
   background-position: -0.20833em -59.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-clock:before {
+.no-fontface .icon-mono-film:before {
   background-position: -0.20833em -61.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cloud:before {
+.no-fontface .icon-mono-filter:before {
   background-position: -0.20833em -62.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cloud:before {
+.no-fontface .icon-mono-flag:before {
   background-position: -0.20833em -63.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-code:before {
+.no-fontface .icon-mono-floppy:before {
   background-position: -0.20833em -65.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-code:before {
+.no-fontface .icon-mono-folder:before {
   background-position: -0.20833em -66.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-coffee:before {
+.no-fontface .icon-mono-forrst:before {
   background-position: -0.20833em -68.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-coffee:before {
+.no-fontface .icon-mono-forward:before {
   background-position: -0.20833em -69.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cog:before {
+.no-fontface .icon-mono-frame:before {
   background-position: -0.20833em -71.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cog:before {
+.no-fontface .icon-mono-gift:before {
   background-position: -0.20833em -72.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-comment:before {
+.no-fontface .icon-mono-grid:before {
   background-position: -0.20833em -73.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-comment:before {
+.no-fontface .icon-mono-headphones:before {
   background-position: -0.20833em -75.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-compass:before {
+.no-fontface .icon-mono-heart:before {
   background-position: -0.20833em -76.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-compass:before {
+.no-fontface .icon-mono-home:before {
   background-position: -0.20833em -78.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cone:before {
+.no-fontface .icon-mono-inbox:before {
   background-position: -0.20833em -79.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cone:before {
+.no-fontface .icon-mono-info:before {
   background-position: -0.20833em -80.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-console:before {
+.no-fontface .icon-mono-ipod:before {
   background-position: -0.20833em -82.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-console:before {
+.no-fontface .icon-mono-key:before {
   background-position: -0.20833em -83.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-contrast:before {
+.no-fontface .icon-mono-keyboard:before {
   background-position: -0.20833em -85.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-contrast:before {
+.no-fontface .icon-mono-lamp:before {
   background-position: -0.20833em -86.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-creditcard:before {
+.no-fontface .icon-mono-list:before {
   background-position: -0.20833em -88.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-creditcard:before {
+.no-fontface .icon-mono-location:before {
   background-position: -0.20833em -89.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-crop:before {
+.no-fontface .icon-mono-location2:before {
   background-position: -0.20833em -90.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-crop:before {
+.no-fontface .icon-mono-locked:before {
   background-position: -0.20833em -92.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-database:before {
+.no-fontface .icon-mono-mic:before {
   background-position: -0.20833em -93.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-database:before {
+.no-fontface .icon-mono-minus:before {
   background-position: -0.20833em -95.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-diary:before {
+.no-fontface .icon-mono-mobile:before {
   background-position: -0.20833em -96.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-diary:before {
+.no-fontface .icon-mono-monitor:before {
   background-position: -0.20833em -97.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-disk:before {
+.no-fontface .icon-mono-mouse:before {
   background-position: -0.20833em -99.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-disk:before {
+.no-fontface .icon-mono-move:before {
   background-position: -0.20833em -100.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-dribbble:before {
+.no-fontface .icon-mono-music:before {
   background-position: -0.20833em -102.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-dribbble:before {
+.no-fontface .icon-mono-paperclip:before {
   background-position: -0.20833em -103.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-droplet:before {
+.no-fontface .icon-mono-pause:before {
   background-position: -0.20833em -105.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-droplet:before {
+.no-fontface .icon-mono-pencil:before {
   background-position: -0.20833em -106.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-earth:before {
+.no-fontface .icon-mono-phone:before {
   background-position: -0.20833em -107.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-earth:before {
+.no-fontface .icon-mono-picture:before {
   background-position: -0.20833em -109.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-envelope:before {
+.no-fontface .icon-mono-play:before {
   background-position: -0.20833em -110.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-envelope:before {
+.no-fontface .icon-mono-plus:before {
   background-position: -0.20833em -112.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-eye:before {
+.no-fontface .icon-mono-pointer:before {
   background-position: -0.20833em -113.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-eye:before {
+.no-fontface .icon-mono-refresh:before {
   background-position: -0.20833em -114.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-feed:before {
+.no-fontface .icon-mono-search:before {
   background-position: -0.20833em -116.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-feed:before {
+.no-fontface .icon-mono-shit:before {
   background-position: -0.20833em -117.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-file:before {
+.no-fontface .icon-mono-skype:before {
   background-position: -0.20833em -119.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-file:before {
+.no-fontface .icon-mono-smiley:before {
   background-position: -0.20833em -120.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-film:before {
+.no-fontface .icon-mono-star:before {
   background-position: -0.20833em -122.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-film:before {
+.no-fontface .icon-mono-star2:before {
   background-position: -0.20833em -123.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-filter:before {
+.no-fontface .icon-mono-stats:before {
   background-position: -0.20833em -124.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-filter:before {
+.no-fontface .icon-mono-stop:before {
   background-position: -0.20833em -126.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-flag:before {
+.no-fontface .icon-mono-switch:before {
   background-position: -0.20833em -127.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-flag:before {
+.no-fontface .icon-mono-tag:before {
   background-position: -0.20833em -129.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-floppy:before {
+.no-fontface .icon-mono-target:before {
   background-position: -0.20833em -130.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-floppy:before {
+.no-fontface .icon-mono-target2:before {
   background-position: -0.20833em -131.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-folder:before {
+.no-fontface .icon-mono-target3:before {
   background-position: -0.20833em -133.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-folder:before {
+.no-fontface .icon-mono-thumbsdown:before {
   background-position: -0.20833em -134.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-forrst:before {
+.no-fontface .icon-mono-thumbsup:before {
   background-position: -0.20833em -136.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-forrst:before {
+.no-fontface .icon-mono-trashcan:before {
   background-position: -0.20833em -137.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-forward:before {
+.no-fontface .icon-mono-trophy:before {
   background-position: -0.20833em -139.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-forward:before {
+.no-fontface .icon-mono-twitter:before {
   background-position: -0.20833em -140.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-frame:before {
+.no-fontface .icon-mono-type:before {
   background-position: -0.20833em -141.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-frame:before {
+.no-fontface .icon-mono-user:before {
   background-position: -0.20833em -143.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-gift:before {
+.no-fontface .icon-mono-volume:before {
   background-position: -0.20833em -144.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-gift:before {
+.no-fontface .icon-mono-volume2:before {
   background-position: -0.20833em -146.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-grid:before {
+.no-fontface .icon-mono-warning:before {
   background-position: -0.20833em -147.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-grid:before {
+.no-fontface .icon-mono-window:before {
   background-position: -0.20833em -148.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-headphones:before {
+.no-fontface .icon-mono-winsows:before {
   background-position: -0.20833em -150.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-headphones:before {
-  background-position: -0.20833em -151.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-heart:before {
-  background-position: -0.20833em -153.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-heart:before {
-  background-position: -0.20833em -154.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-home:before {
-  background-position: -0.20833em -156.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-home:before {
-  background-position: -0.20833em -157.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-inbox:before {
-  background-position: -0.20833em -158.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-inbox:before {
-  background-position: -0.20833em -160.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-info:before {
-  background-position: -0.20833em -161.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-info:before {
-  background-position: -0.20833em -163.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-ipod:before {
-  background-position: -0.20833em -164.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-ipod:before {
-  background-position: -0.20833em -165.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-key:before {
-  background-position: -0.20833em -167.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-key:before {
-  background-position: -0.20833em -168.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-keyboard:before {
-  background-position: -0.20833em -170.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-keyboard:before {
-  background-position: -0.20833em -171.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-lamp:before {
-  background-position: -0.20833em -173.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-lamp:before {
-  background-position: -0.20833em -174.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-list:before {
-  background-position: -0.20833em -175.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-list:before {
-  background-position: -0.20833em -177.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location:before {
-  background-position: -0.20833em -178.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location:before {
-  background-position: -0.20833em -180.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location2:before {
-  background-position: -0.20833em -181.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location2:before {
-  background-position: -0.20833em -182.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-locked:before {
-  background-position: -0.20833em -184.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-locked:before {
-  background-position: -0.20833em -185.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mic:before {
-  background-position: -0.20833em -187.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mic:before {
-  background-position: -0.20833em -188.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-minus:before {
-  background-position: -0.20833em -190.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-minus:before {
-  background-position: -0.20833em -191.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mobile:before {
-  background-position: -0.20833em -192.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mobile:before {
-  background-position: -0.20833em -194.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-monitor:before {
-  background-position: -0.20833em -195.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-monitor:before {
-  background-position: -0.20833em -197.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mouse:before {
-  background-position: -0.20833em -198.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mouse:before {
-  background-position: -0.20833em -199.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-move:before {
-  background-position: -0.20833em -201.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-move:before {
-  background-position: -0.20833em -202.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-music:before {
-  background-position: -0.20833em -204.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-music:before {
-  background-position: -0.20833em -205.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-paperclip:before {
-  background-position: -0.20833em -207.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-paperclip:before {
-  background-position: -0.20833em -208.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pause:before {
-  background-position: -0.20833em -209.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pause:before {
-  background-position: -0.20833em -211.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pencil:before {
-  background-position: -0.20833em -212.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pencil:before {
-  background-position: -0.20833em -214.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-phone:before {
-  background-position: -0.20833em -215.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-phone:before {
-  background-position: -0.20833em -216.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-picture:before {
-  background-position: -0.20833em -218.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-picture:before {
-  background-position: -0.20833em -219.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-play:before {
-  background-position: -0.20833em -221.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-play:before {
-  background-position: -0.20833em -222.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-plus:before {
-  background-position: -0.20833em -224.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-plus:before {
-  background-position: -0.20833em -225.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pointer:before {
-  background-position: -0.20833em -226.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pointer:before {
-  background-position: -0.20833em -228.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-refresh:before {
-  background-position: -0.20833em -229.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-refresh:before {
-  background-position: -0.20833em -231.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-search:before {
-  background-position: -0.20833em -232.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-search:before {
-  background-position: -0.20833em -233.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-shit:before {
-  background-position: -0.20833em -235.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-shit:before {
-  background-position: -0.20833em -236.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-skype:before {
-  background-position: -0.20833em -238.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-skype:before {
-  background-position: -0.20833em -239.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-smiley:before {
-  background-position: -0.20833em -241.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-smiley:before {
-  background-position: -0.20833em -242.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star:before {
-  background-position: -0.20833em -243.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star:before {
-  background-position: -0.20833em -245.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star2:before {
-  background-position: -0.20833em -246.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star2:before {
-  background-position: -0.20833em -248.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stats:before {
-  background-position: -0.20833em -249.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stats:before {
-  background-position: -0.20833em -250.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stop:before {
-  background-position: -0.20833em -252.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stop:before {
-  background-position: -0.20833em -253.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-switch:before {
-  background-position: -0.20833em -255.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-switch:before {
-  background-position: -0.20833em -256.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-tag:before {
-  background-position: -0.20833em -258.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-tag:before {
-  background-position: -0.20833em -259.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target:before {
-  background-position: -0.20833em -260.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target:before {
-  background-position: -0.20833em -262.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target2:before {
-  background-position: -0.20833em -263.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target2:before {
-  background-position: -0.20833em -265.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target3:before {
-  background-position: -0.20833em -266.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target3:before {
-  background-position: -0.20833em -267.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsdown:before {
-  background-position: -0.20833em -269.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsdown:before {
-  background-position: -0.20833em -270.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsup:before {
-  background-position: -0.20833em -272.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsup:before {
-  background-position: -0.20833em -273.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trashcan:before {
-  background-position: -0.20833em -275.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trashcan:before {
-  background-position: -0.20833em -276.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trophy:before {
-  background-position: -0.20833em -277.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trophy:before {
-  background-position: -0.20833em -279.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-twitter:before {
-  background-position: -0.20833em -280.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-twitter:before {
-  background-position: -0.20833em -282.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-type:before {
-  background-position: -0.20833em -283.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-type:before {
-  background-position: -0.20833em -284.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-user:before {
-  background-position: -0.20833em -286.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-user:before {
-  background-position: -0.20833em -287.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume:before {
-  background-position: -0.20833em -289.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume:before {
-  background-position: -0.20833em -290.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume2:before {
-  background-position: -0.20833em -292.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume2:before {
-  background-position: -0.20833em -293.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-warning:before {
-  background-position: -0.20833em -294.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-warning:before {
-  background-position: -0.20833em -296.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-window:before {
-  background-position: -0.20833em -297.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-window:before {
-  background-position: -0.20833em -299.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-winsows:before {
-  background-position: -0.20833em -300.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-winsows:before {
-  background-position: -0.20833em -301.95833em;
-  width: 1em;
-  height: 1em; }
-
 .no-fontface .icon-mono-wrench:before {
-  background-position: -0.20833em -303.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-wrench:before {
-  background-position: -0.20833em -304.79167em;
+  background-position: -0.20833em -151.79167em;
   width: 1em;
   height: 1em; }
 
@@ -1505,42 +965,42 @@
 .no-svg .icon-color:before {
   background-image: url("../sprites/icons_color.png"); }
 
-.icon-color-rasta:before {
+.icon-color-Settings-2:before {
   background-position: -0.20833em -0.20833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-record-player:before {
+.icon-color-rasta:before {
   background-position: -0.20833em -2.91667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-road-worker:before {
+.icon-color-record-player:before {
   background-position: -0.20833em -5.625em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-rocker:before {
+.icon-color-road-worker:before {
   background-position: -0.20833em -8.33333em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-santa:before {
+.icon-color-rocker:before {
   background-position: -0.20833em -11.04167em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-santa-sled:before {
+.icon-color-santa:before {
   background-position: -0.20833em -13.75em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-settings-1:before {
+.icon-color-santa-sled:before {
   background-position: -0.20833em -16.45833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-settings-2:before {
+.icon-color-settings-1:before {
   background-position: -0.20833em -19.16667em;
   width: 2.29167em;
   height: 2.29167em; }
