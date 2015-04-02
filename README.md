@@ -6,8 +6,8 @@ Experimental icon system based on SVG sources and outputting various iconfont, S
 
 | Type      | Modernizr test           | Format     | Browsers                      | Size | Size with variations |  
 |-----------|--------------------------|------------|-------------------------------|------|----------------------|
-| Default   | ```fontface svg```       | Iconfont   | Chrome, FF, Safari, IE9+      | 13KB | same                 |
-| Fallback1 | ```fontface no-svg```    | Iconfont   | Old Android browsers          | 13KB | same                 |
+| Default   | ```fontface svg```       | Iconfont   | Chrome, FF, Safari, IE9+      | 13KB | unchanged            |
+| Fallback1 | ```fontface no-svg```    | Iconfont   | Old Android browsers          | 13KB | unchanged            |
 | Fallback2 | ```no-fontface svg```    | SVG sprite | Opera Mini                    | 26KB | 29KB                 |
 | Fallback3 | ```no-fontface no-svg``` | PNG sprite | ?                             | 42KB | 83KB                 |
 
