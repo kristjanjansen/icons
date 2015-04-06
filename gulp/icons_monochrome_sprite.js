@@ -15,7 +15,7 @@ var pngquant = require('imagemin-pngquant');
 
 /*
 function isNotColorized (file) {
-  var parts = path.basename(file.relative, '.svg').split('--')
+  var parts = path.basename(file.relative, '.svg').split('---')
   return (parts.length > 1) ? false : true;
 }
 */
