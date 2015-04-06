@@ -68,7 +68,7 @@
   display: inline-block;
   background-image: url("../sprites/icons_monochrome.svg");
   background-repeat: no-repeat;
-  background-size: 1.41667em 306em; }
+  background-size: 1.41667em 283.33333em; }
 
 .no-fontface.no-svg .icon-mono:before {
   background-image: url("../sprites/icons_monochrome.png"); }
@@ -1073,86 +1073,6 @@
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-type:before {
-  background-position: -0.20833em -283.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-type:before {
-  background-position: -0.20833em -284.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-user:before {
-  background-position: -0.20833em -286.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-user:before {
-  background-position: -0.20833em -287.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume:before {
-  background-position: -0.20833em -289.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume:before {
-  background-position: -0.20833em -290.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume2:before {
-  background-position: -0.20833em -292.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume2:before {
-  background-position: -0.20833em -293.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-warning:before {
-  background-position: -0.20833em -294.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-warning:before {
-  background-position: -0.20833em -296.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-window:before {
-  background-position: -0.20833em -297.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-window:before {
-  background-position: -0.20833em -299.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-winsows:before {
-  background-position: -0.20833em -300.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-winsows:before {
-  background-position: -0.20833em -301.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-wrench:before {
-  background-position: -0.20833em -303.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-wrench:before {
-  background-position: -0.20833em -304.79167em;
-  width: 1em;
-  height: 1em; }
-
 @font-face {
   font-family: "icons_monochrome";
   src: url('../fonts/icons_monochrome.eot');
@@ -1470,37 +1390,13 @@
 .icon-mono-twitter:before {
   content: "\E064"; }
 
-.icon-mono-type:before {
-  content: "\E065"; }
-
-.icon-mono-user:before {
-  content: "\E066"; }
-
-.icon-mono-volume:before {
-  content: "\E067"; }
-
-.icon-mono-volume2:before {
-  content: "\E068"; }
-
-.icon-mono-warning:before {
-  content: "\E069"; }
-
-.icon-mono-window:before {
-  content: "\E06A"; }
-
-.icon-mono-winsows:before {
-  content: "\E06B"; }
-
-.icon-mono-wrench:before {
-  content: "\E06C"; }
-
 .icon-color:before {
   content: ' ';
   vertical-align: middle;
   display: inline-block;
   background-image: url("../sprites/icons_color.svg");
   background-repeat: no-repeat;
-  background-size: 2.70833em 325em; }
+  background-size: 2.70833em 270.83333em; }
 
 .no-svg .icon-color:before {
   background-image: url("../sprites/icons_color.png"); }
@@ -1980,128 +1876,28 @@
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-Tablet-Chart:before {
+.icon-color-road-worker:before {
   background-position: -0.20833em -257.5em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-Telemarketer-Woman-2:before {
+.icon-color-settings-1:before {
   background-position: -0.20833em -260.20833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-Television-Shelf:before {
+.icon-color-sneakers:before {
   background-position: -0.20833em -262.91667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-Tower:before {
+.icon-color-soldier:before {
   background-position: -0.20833em -265.625em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-Vector:before {
-  background-position: -0.20833em -268.33333em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Video-Camera-2:before {
-  background-position: -0.20833em -271.04167em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Waitress-1:before {
-  background-position: -0.20833em -273.75em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Wind-Wheel:before {
-  background-position: -0.20833em -276.45833em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Woman-15:before {
-  background-position: -0.20833em -279.16667em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Woman-9:before {
-  background-position: -0.20833em -281.875em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Wooden-Horse:before {
-  background-position: -0.20833em -284.58333em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Xylophone:before {
-  background-position: -0.20833em -287.29167em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-Yin-Yang:before {
-  background-position: -0.20833em -290em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-road-worker:before {
-  background-position: -0.20833em -292.70833em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-settings-1:before {
-  background-position: -0.20833em -295.41667em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-sneakers:before {
-  background-position: -0.20833em -298.125em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-soldier:before {
-  background-position: -0.20833em -300.83333em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
 .icon-color-student:before {
-  background-position: -0.20833em -303.54167em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-telemarketer-woman:before {
-  background-position: -0.20833em -306.25em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-tshirt:before {
-  background-position: -0.20833em -308.95833em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-video-camera:before {
-  background-position: -0.20833em -311.66667em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-waitress:before {
-  background-position: -0.20833em -314.375em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-woman-1:before {
-  background-position: -0.20833em -317.08333em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-woman-2:before {
-  background-position: -0.20833em -319.79167em;
-  width: 2.29167em;
-  height: 2.29167em; }
-
-.icon-color-yinyang:before {
-  background-position: -0.20833em -322.5em;
+  background-position: -0.20833em -268.33333em;
   width: 2.29167em;
   height: 2.29167em; }
 
