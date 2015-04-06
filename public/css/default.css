@@ -68,7 +68,7 @@
   display: inline-block;
   background-image: url("../sprites/icons_monochrome.svg");
   background-repeat: no-repeat;
-  background-size: 1.41667em 1224em; }
+  background-size: 1.41667em 306em; }
 
 .no-fontface.no-svg .icon-mono:before {
   background-image: url("../sprites/icons_monochrome.png"); }
@@ -78,4318 +78,1078 @@
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-addressbook copy:before {
+.no-fontface .icon-mono-white.icon-mono-addressbook:before {
   background-position: -0.20833em -1.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-addressbook copy 2:before {
+.no-fontface .icon-mono-alarm:before {
   background-position: -0.20833em -3.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-addressbook copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-alarm:before {
   background-position: -0.20833em -4.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-addressbook copy 3:before {
+.no-fontface .icon-mono-ampersand:before {
   background-position: -0.20833em -5.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-addressbook copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-ampersand:before {
   background-position: -0.20833em -7.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-addressbook copy:before {
+.no-fontface .icon-mono-apple:before {
   background-position: -0.20833em -8.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-addressbook:before {
+.no-fontface .icon-mono-white.icon-mono-apple:before {
   background-position: -0.20833em -10.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-alarm:before {
+.no-fontface .icon-mono-atom:before {
   background-position: -0.20833em -11.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-alarm copy:before {
+.no-fontface .icon-mono-white.icon-mono-atom:before {
   background-position: -0.20833em -12.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-alarm copy 2:before {
+.no-fontface .icon-mono-basket:before {
   background-position: -0.20833em -14.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-alarm copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-basket:before {
   background-position: -0.20833em -15.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-alarm copy 3:before {
+.no-fontface .icon-mono-battery:before {
   background-position: -0.20833em -17.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-alarm copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-battery:before {
   background-position: -0.20833em -18.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-alarm copy:before {
+.no-fontface .icon-mono-blocked:before {
   background-position: -0.20833em -20.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-alarm:before {
+.no-fontface .icon-mono-white.icon-mono-blocked:before {
   background-position: -0.20833em -21.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-ampersand:before {
+.no-fontface .icon-mono-bolt:before {
   background-position: -0.20833em -22.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-ampersand copy:before {
+.no-fontface .icon-mono-white.icon-mono-bolt:before {
   background-position: -0.20833em -24.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-ampersand copy 2:before {
+.no-fontface .icon-mono-bookmark:before {
   background-position: -0.20833em -25.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-ampersand copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-bookmark:before {
   background-position: -0.20833em -27.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-ampersand copy 3:before {
+.no-fontface .icon-mono-bookmark2:before {
   background-position: -0.20833em -28.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-ampersand copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-bookmark2:before {
   background-position: -0.20833em -29.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-ampersand copy:before {
+.no-fontface .icon-mono-briefcase:before {
   background-position: -0.20833em -31.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-ampersand:before {
+.no-fontface .icon-mono-white.icon-mono-briefcase:before {
   background-position: -0.20833em -32.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-apple:before {
+.no-fontface .icon-mono-bug:before {
   background-position: -0.20833em -34.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-apple copy:before {
+.no-fontface .icon-mono-white.icon-mono-bug:before {
   background-position: -0.20833em -35.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-apple copy 2:before {
+.no-fontface .icon-mono-button:before {
   background-position: -0.20833em -37.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-apple copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-button:before {
   background-position: -0.20833em -38.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-apple copy 3:before {
+.no-fontface .icon-mono-calendar:before {
   background-position: -0.20833em -39.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-apple copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-calendar:before {
   background-position: -0.20833em -41.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-apple copy:before {
+.no-fontface .icon-mono-camera:before {
   background-position: -0.20833em -42.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-apple:before {
+.no-fontface .icon-mono-white.icon-mono-camera:before {
   background-position: -0.20833em -44.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-atom:before {
+.no-fontface .icon-mono-camera2:before {
   background-position: -0.20833em -45.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-atom copy:before {
+.no-fontface .icon-mono-white.icon-mono-camera2:before {
   background-position: -0.20833em -46.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-atom copy 2:before {
+.no-fontface .icon-mono-cancel:before {
   background-position: -0.20833em -48.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-atom copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-cancel:before {
   background-position: -0.20833em -49.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-atom copy 3:before {
+.no-fontface .icon-mono-cart:before {
   background-position: -0.20833em -51.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-atom copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-cart:before {
   background-position: -0.20833em -52.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-atom copy:before {
+.no-fontface .icon-mono-chart:before {
   background-position: -0.20833em -54.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-atom:before {
+.no-fontface .icon-mono-white.icon-mono-chart:before {
   background-position: -0.20833em -55.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-basket:before {
+.no-fontface .icon-mono-checkmark:before {
   background-position: -0.20833em -56.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-basket copy:before {
+.no-fontface .icon-mono-white.icon-mono-checkmark:before {
   background-position: -0.20833em -58.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-basket copy 2:before {
+.no-fontface .icon-mono-clock:before {
   background-position: -0.20833em -59.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-basket copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-clock:before {
   background-position: -0.20833em -61.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-basket copy 3:before {
+.no-fontface .icon-mono-cloud:before {
   background-position: -0.20833em -62.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-basket copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-cloud:before {
   background-position: -0.20833em -63.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-basket copy:before {
+.no-fontface .icon-mono-code:before {
   background-position: -0.20833em -65.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-basket:before {
+.no-fontface .icon-mono-white.icon-mono-code:before {
   background-position: -0.20833em -66.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-battery:before {
+.no-fontface .icon-mono-coffee:before {
   background-position: -0.20833em -68.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-battery copy:before {
+.no-fontface .icon-mono-white.icon-mono-coffee:before {
   background-position: -0.20833em -69.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-battery copy 2:before {
+.no-fontface .icon-mono-cog:before {
   background-position: -0.20833em -71.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-battery copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-cog:before {
   background-position: -0.20833em -72.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-battery copy 3:before {
+.no-fontface .icon-mono-comment:before {
   background-position: -0.20833em -73.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-battery copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-comment:before {
   background-position: -0.20833em -75.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-battery copy:before {
+.no-fontface .icon-mono-compass:before {
   background-position: -0.20833em -76.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-battery:before {
+.no-fontface .icon-mono-white.icon-mono-compass:before {
   background-position: -0.20833em -78.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-blocked:before {
+.no-fontface .icon-mono-cone:before {
   background-position: -0.20833em -79.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-blocked copy:before {
+.no-fontface .icon-mono-white.icon-mono-cone:before {
   background-position: -0.20833em -80.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-blocked copy 2:before {
+.no-fontface .icon-mono-console:before {
   background-position: -0.20833em -82.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-blocked copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-console:before {
   background-position: -0.20833em -83.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-blocked copy 3:before {
+.no-fontface .icon-mono-contrast:before {
   background-position: -0.20833em -85.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-blocked copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-contrast:before {
   background-position: -0.20833em -86.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-blocked copy:before {
+.no-fontface .icon-mono-creditcard:before {
   background-position: -0.20833em -88.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-blocked:before {
+.no-fontface .icon-mono-white.icon-mono-creditcard:before {
   background-position: -0.20833em -89.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bolt:before {
+.no-fontface .icon-mono-crop:before {
   background-position: -0.20833em -90.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bolt copy:before {
+.no-fontface .icon-mono-white.icon-mono-crop:before {
   background-position: -0.20833em -92.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bolt copy 2:before {
+.no-fontface .icon-mono-database:before {
   background-position: -0.20833em -93.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bolt copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-database:before {
   background-position: -0.20833em -95.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bolt copy 3:before {
+.no-fontface .icon-mono-diary:before {
   background-position: -0.20833em -96.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bolt copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-diary:before {
   background-position: -0.20833em -97.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bolt copy:before {
+.no-fontface .icon-mono-disk:before {
   background-position: -0.20833em -99.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bolt:before {
+.no-fontface .icon-mono-white.icon-mono-disk:before {
   background-position: -0.20833em -100.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark:before {
+.no-fontface .icon-mono-dribbble:before {
   background-position: -0.20833em -102.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark copy:before {
+.no-fontface .icon-mono-white.icon-mono-dribbble:before {
   background-position: -0.20833em -103.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark copy 2:before {
+.no-fontface .icon-mono-droplet:before {
   background-position: -0.20833em -105.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-droplet:before {
   background-position: -0.20833em -106.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark copy 3:before {
+.no-fontface .icon-mono-earth:before {
   background-position: -0.20833em -107.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-earth:before {
   background-position: -0.20833em -109.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark copy:before {
+.no-fontface .icon-mono-envelope:before {
   background-position: -0.20833em -110.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark:before {
+.no-fontface .icon-mono-white.icon-mono-envelope:before {
   background-position: -0.20833em -112.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark2:before {
+.no-fontface .icon-mono-eye:before {
   background-position: -0.20833em -113.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark2 copy:before {
+.no-fontface .icon-mono-white.icon-mono-eye:before {
   background-position: -0.20833em -114.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark2 copy 2:before {
+.no-fontface .icon-mono-feed:before {
   background-position: -0.20833em -116.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark2 copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-feed:before {
   background-position: -0.20833em -117.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bookmark2 copy 3:before {
+.no-fontface .icon-mono-file:before {
   background-position: -0.20833em -119.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark2 copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-file:before {
   background-position: -0.20833em -120.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark2 copy:before {
+.no-fontface .icon-mono-film:before {
   background-position: -0.20833em -122.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bookmark2:before {
+.no-fontface .icon-mono-white.icon-mono-film:before {
   background-position: -0.20833em -123.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-briefcase:before {
+.no-fontface .icon-mono-filter:before {
   background-position: -0.20833em -124.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-briefcase copy:before {
+.no-fontface .icon-mono-white.icon-mono-filter:before {
   background-position: -0.20833em -126.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-briefcase copy 2:before {
+.no-fontface .icon-mono-flag:before {
   background-position: -0.20833em -127.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-briefcase copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-flag:before {
   background-position: -0.20833em -129.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-briefcase copy 3:before {
+.no-fontface .icon-mono-floppy:before {
   background-position: -0.20833em -130.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-briefcase copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-floppy:before {
   background-position: -0.20833em -131.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-briefcase copy:before {
+.no-fontface .icon-mono-folder:before {
   background-position: -0.20833em -133.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-briefcase:before {
+.no-fontface .icon-mono-white.icon-mono-folder:before {
   background-position: -0.20833em -134.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bug:before {
+.no-fontface .icon-mono-forrst:before {
   background-position: -0.20833em -136.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bug copy:before {
+.no-fontface .icon-mono-white.icon-mono-forrst:before {
   background-position: -0.20833em -137.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bug copy 2:before {
+.no-fontface .icon-mono-forward:before {
   background-position: -0.20833em -139.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bug copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-forward:before {
   background-position: -0.20833em -140.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-bug copy 3:before {
+.no-fontface .icon-mono-frame:before {
   background-position: -0.20833em -141.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bug copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-frame:before {
   background-position: -0.20833em -143.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bug copy:before {
+.no-fontface .icon-mono-gift:before {
   background-position: -0.20833em -144.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-bug:before {
+.no-fontface .icon-mono-white.icon-mono-gift:before {
   background-position: -0.20833em -146.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-button:before {
+.no-fontface .icon-mono-grid:before {
   background-position: -0.20833em -147.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-button copy:before {
+.no-fontface .icon-mono-white.icon-mono-grid:before {
   background-position: -0.20833em -148.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-button copy 2:before {
+.no-fontface .icon-mono-headphones:before {
   background-position: -0.20833em -150.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-button copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-headphones:before {
   background-position: -0.20833em -151.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-button copy 3:before {
+.no-fontface .icon-mono-heart:before {
   background-position: -0.20833em -153.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-button copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-heart:before {
   background-position: -0.20833em -154.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-button copy:before {
+.no-fontface .icon-mono-home:before {
   background-position: -0.20833em -156.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-button:before {
+.no-fontface .icon-mono-white.icon-mono-home:before {
   background-position: -0.20833em -157.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-calendar:before {
+.no-fontface .icon-mono-inbox:before {
   background-position: -0.20833em -158.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-calendar copy:before {
+.no-fontface .icon-mono-white.icon-mono-inbox:before {
   background-position: -0.20833em -160.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-calendar copy 2:before {
+.no-fontface .icon-mono-info:before {
   background-position: -0.20833em -161.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-calendar copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-info:before {
   background-position: -0.20833em -163.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-calendar copy 3:before {
+.no-fontface .icon-mono-ipod:before {
   background-position: -0.20833em -164.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-calendar copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-ipod:before {
   background-position: -0.20833em -165.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-calendar copy:before {
+.no-fontface .icon-mono-key:before {
   background-position: -0.20833em -167.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-calendar:before {
+.no-fontface .icon-mono-white.icon-mono-key:before {
   background-position: -0.20833em -168.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera:before {
+.no-fontface .icon-mono-keyboard:before {
   background-position: -0.20833em -170.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera copy:before {
+.no-fontface .icon-mono-white.icon-mono-keyboard:before {
   background-position: -0.20833em -171.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera copy 2:before {
+.no-fontface .icon-mono-lamp:before {
   background-position: -0.20833em -173.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-lamp:before {
   background-position: -0.20833em -174.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera copy 3:before {
+.no-fontface .icon-mono-list:before {
   background-position: -0.20833em -175.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-list:before {
   background-position: -0.20833em -177.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera copy:before {
+.no-fontface .icon-mono-location:before {
   background-position: -0.20833em -178.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera:before {
+.no-fontface .icon-mono-white.icon-mono-location:before {
   background-position: -0.20833em -180.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera2:before {
+.no-fontface .icon-mono-location2:before {
   background-position: -0.20833em -181.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera2 copy:before {
+.no-fontface .icon-mono-white.icon-mono-location2:before {
   background-position: -0.20833em -182.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera2 copy 2:before {
+.no-fontface .icon-mono-locked:before {
   background-position: -0.20833em -184.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera2 copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-locked:before {
   background-position: -0.20833em -185.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-camera2 copy 3:before {
+.no-fontface .icon-mono-mic:before {
   background-position: -0.20833em -187.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera2 copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-mic:before {
   background-position: -0.20833em -188.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera2 copy:before {
+.no-fontface .icon-mono-minus:before {
   background-position: -0.20833em -190.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-camera2:before {
+.no-fontface .icon-mono-white.icon-mono-minus:before {
   background-position: -0.20833em -191.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cancel:before {
+.no-fontface .icon-mono-mobile:before {
   background-position: -0.20833em -192.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cancel copy:before {
+.no-fontface .icon-mono-white.icon-mono-mobile:before {
   background-position: -0.20833em -194.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cancel copy 2:before {
+.no-fontface .icon-mono-monitor:before {
   background-position: -0.20833em -195.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cancel copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-monitor:before {
   background-position: -0.20833em -197.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cancel copy 3:before {
+.no-fontface .icon-mono-mouse:before {
   background-position: -0.20833em -198.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cancel copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-mouse:before {
   background-position: -0.20833em -199.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cancel copy:before {
+.no-fontface .icon-mono-move:before {
   background-position: -0.20833em -201.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cancel:before {
+.no-fontface .icon-mono-white.icon-mono-move:before {
   background-position: -0.20833em -202.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cart:before {
+.no-fontface .icon-mono-music:before {
   background-position: -0.20833em -204.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cart copy:before {
+.no-fontface .icon-mono-white.icon-mono-music:before {
   background-position: -0.20833em -205.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cart copy 2:before {
+.no-fontface .icon-mono-paperclip:before {
   background-position: -0.20833em -207.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cart copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-paperclip:before {
   background-position: -0.20833em -208.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cart copy 3:before {
+.no-fontface .icon-mono-pause:before {
   background-position: -0.20833em -209.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cart copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-pause:before {
   background-position: -0.20833em -211.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cart copy:before {
+.no-fontface .icon-mono-pencil:before {
   background-position: -0.20833em -212.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cart:before {
+.no-fontface .icon-mono-white.icon-mono-pencil:before {
   background-position: -0.20833em -214.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-chart:before {
+.no-fontface .icon-mono-phone:before {
   background-position: -0.20833em -215.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-chart copy:before {
+.no-fontface .icon-mono-white.icon-mono-phone:before {
   background-position: -0.20833em -216.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-chart copy 2:before {
+.no-fontface .icon-mono-picture:before {
   background-position: -0.20833em -218.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-chart copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-picture:before {
   background-position: -0.20833em -219.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-chart copy 3:before {
+.no-fontface .icon-mono-play:before {
   background-position: -0.20833em -221.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-chart copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-play:before {
   background-position: -0.20833em -222.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-chart copy:before {
+.no-fontface .icon-mono-plus:before {
   background-position: -0.20833em -224.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-chart:before {
+.no-fontface .icon-mono-white.icon-mono-plus:before {
   background-position: -0.20833em -225.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-checkmark:before {
+.no-fontface .icon-mono-pointer:before {
   background-position: -0.20833em -226.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-checkmark copy:before {
+.no-fontface .icon-mono-white.icon-mono-pointer:before {
   background-position: -0.20833em -228.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-checkmark copy 2:before {
+.no-fontface .icon-mono-refresh:before {
   background-position: -0.20833em -229.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-checkmark copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-refresh:before {
   background-position: -0.20833em -231.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-checkmark copy 3:before {
+.no-fontface .icon-mono-search:before {
   background-position: -0.20833em -232.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-checkmark copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-search:before {
   background-position: -0.20833em -233.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-checkmark copy:before {
+.no-fontface .icon-mono-shit:before {
   background-position: -0.20833em -235.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-checkmark:before {
+.no-fontface .icon-mono-white.icon-mono-shit:before {
   background-position: -0.20833em -236.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-clock:before {
+.no-fontface .icon-mono-skype:before {
   background-position: -0.20833em -238.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-clock copy:before {
+.no-fontface .icon-mono-white.icon-mono-skype:before {
   background-position: -0.20833em -239.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-clock copy 2:before {
+.no-fontface .icon-mono-smiley:before {
   background-position: -0.20833em -241.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-clock copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-smiley:before {
   background-position: -0.20833em -242.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-clock copy 3:before {
+.no-fontface .icon-mono-star:before {
   background-position: -0.20833em -243.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-clock copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-star:before {
   background-position: -0.20833em -245.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-clock copy:before {
+.no-fontface .icon-mono-star2:before {
   background-position: -0.20833em -246.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-clock:before {
+.no-fontface .icon-mono-white.icon-mono-star2:before {
   background-position: -0.20833em -248.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cloud:before {
+.no-fontface .icon-mono-stats:before {
   background-position: -0.20833em -249.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cloud copy:before {
+.no-fontface .icon-mono-white.icon-mono-stats:before {
   background-position: -0.20833em -250.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cloud copy 2:before {
+.no-fontface .icon-mono-stop:before {
   background-position: -0.20833em -252.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cloud copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-stop:before {
   background-position: -0.20833em -253.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cloud copy 3:before {
+.no-fontface .icon-mono-switch:before {
   background-position: -0.20833em -255.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cloud copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-switch:before {
   background-position: -0.20833em -256.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cloud copy:before {
+.no-fontface .icon-mono-tag:before {
   background-position: -0.20833em -258.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cloud:before {
+.no-fontface .icon-mono-white.icon-mono-tag:before {
   background-position: -0.20833em -259.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-code:before {
+.no-fontface .icon-mono-target:before {
   background-position: -0.20833em -260.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-code copy:before {
+.no-fontface .icon-mono-white.icon-mono-target:before {
   background-position: -0.20833em -262.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-code copy 2:before {
+.no-fontface .icon-mono-target2:before {
   background-position: -0.20833em -263.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-code copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-target2:before {
   background-position: -0.20833em -265.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-code copy 3:before {
+.no-fontface .icon-mono-target3:before {
   background-position: -0.20833em -266.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-code copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-target3:before {
   background-position: -0.20833em -267.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-code copy:before {
+.no-fontface .icon-mono-thumbsdown:before {
   background-position: -0.20833em -269.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-code:before {
+.no-fontface .icon-mono-white.icon-mono-thumbsdown:before {
   background-position: -0.20833em -270.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-coffee:before {
+.no-fontface .icon-mono-thumbsup:before {
   background-position: -0.20833em -272.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-coffee copy:before {
+.no-fontface .icon-mono-white.icon-mono-thumbsup:before {
   background-position: -0.20833em -273.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-coffee copy 2:before {
+.no-fontface .icon-mono-trashcan:before {
   background-position: -0.20833em -275.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-coffee copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-trashcan:before {
   background-position: -0.20833em -276.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-coffee copy 3:before {
+.no-fontface .icon-mono-trophy:before {
   background-position: -0.20833em -277.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-coffee copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-trophy:before {
   background-position: -0.20833em -279.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-coffee copy:before {
+.no-fontface .icon-mono-twitter:before {
   background-position: -0.20833em -280.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-coffee:before {
+.no-fontface .icon-mono-white.icon-mono-twitter:before {
   background-position: -0.20833em -282.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cog:before {
+.no-fontface .icon-mono-type:before {
   background-position: -0.20833em -283.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cog copy:before {
+.no-fontface .icon-mono-white.icon-mono-type:before {
   background-position: -0.20833em -284.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cog copy 2:before {
+.no-fontface .icon-mono-user:before {
   background-position: -0.20833em -286.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cog copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-user:before {
   background-position: -0.20833em -287.79167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-cog copy 3:before {
+.no-fontface .icon-mono-volume:before {
   background-position: -0.20833em -289.20833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cog copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-volume:before {
   background-position: -0.20833em -290.625em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cog copy:before {
+.no-fontface .icon-mono-volume2:before {
   background-position: -0.20833em -292.04167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-cog:before {
+.no-fontface .icon-mono-white.icon-mono-volume2:before {
   background-position: -0.20833em -293.45833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-comment:before {
+.no-fontface .icon-mono-warning:before {
   background-position: -0.20833em -294.875em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-comment copy:before {
+.no-fontface .icon-mono-white.icon-mono-warning:before {
   background-position: -0.20833em -296.29167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-comment copy 2:before {
+.no-fontface .icon-mono-window:before {
   background-position: -0.20833em -297.70833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-comment copy 2:before {
+.no-fontface .icon-mono-white.icon-mono-window:before {
   background-position: -0.20833em -299.125em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-comment copy 3:before {
+.no-fontface .icon-mono-winsows:before {
   background-position: -0.20833em -300.54167em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-comment copy 3:before {
+.no-fontface .icon-mono-white.icon-mono-winsows:before {
   background-position: -0.20833em -301.95833em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-comment copy:before {
+.no-fontface .icon-mono-wrench:before {
   background-position: -0.20833em -303.375em;
   width: 1em;
   height: 1em; }
 
-.no-fontface .icon-mono-white.icon-mono-comment:before {
-  background-position: -0.20833em -304.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-compass:before {
-  background-position: -0.20833em -306.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-compass copy:before {
-  background-position: -0.20833em -307.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-compass copy 2:before {
-  background-position: -0.20833em -309.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-compass copy 2:before {
-  background-position: -0.20833em -310.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-compass copy 3:before {
-  background-position: -0.20833em -311.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-compass copy 3:before {
-  background-position: -0.20833em -313.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-compass copy:before {
-  background-position: -0.20833em -314.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-compass:before {
-  background-position: -0.20833em -316.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-cone:before {
-  background-position: -0.20833em -317.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-cone copy:before {
-  background-position: -0.20833em -318.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-cone copy 2:before {
-  background-position: -0.20833em -320.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-cone copy 2:before {
-  background-position: -0.20833em -321.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-cone copy 3:before {
-  background-position: -0.20833em -323.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-cone copy 3:before {
-  background-position: -0.20833em -324.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-cone copy:before {
-  background-position: -0.20833em -326.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-cone:before {
-  background-position: -0.20833em -327.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-console:before {
-  background-position: -0.20833em -328.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-console copy:before {
-  background-position: -0.20833em -330.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-console copy 2:before {
-  background-position: -0.20833em -331.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-console copy 2:before {
-  background-position: -0.20833em -333.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-console copy 3:before {
-  background-position: -0.20833em -334.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-console copy 3:before {
-  background-position: -0.20833em -335.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-console copy:before {
-  background-position: -0.20833em -337.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-console:before {
-  background-position: -0.20833em -338.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-contrast:before {
-  background-position: -0.20833em -340.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-contrast copy:before {
-  background-position: -0.20833em -341.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-contrast copy 2:before {
-  background-position: -0.20833em -343.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-contrast copy 2:before {
-  background-position: -0.20833em -344.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-contrast copy 3:before {
-  background-position: -0.20833em -345.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-contrast copy 3:before {
-  background-position: -0.20833em -347.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-contrast copy:before {
-  background-position: -0.20833em -348.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-contrast:before {
-  background-position: -0.20833em -350.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-creditcard:before {
-  background-position: -0.20833em -351.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-creditcard copy:before {
-  background-position: -0.20833em -352.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-creditcard copy 2:before {
-  background-position: -0.20833em -354.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-creditcard copy 2:before {
-  background-position: -0.20833em -355.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-creditcard copy 3:before {
-  background-position: -0.20833em -357.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-creditcard copy 3:before {
-  background-position: -0.20833em -358.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-creditcard copy:before {
-  background-position: -0.20833em -360.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-creditcard:before {
-  background-position: -0.20833em -361.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-crop:before {
-  background-position: -0.20833em -362.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-crop copy:before {
-  background-position: -0.20833em -364.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-crop copy 2:before {
-  background-position: -0.20833em -365.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-crop copy 2:before {
-  background-position: -0.20833em -367.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-crop copy 3:before {
-  background-position: -0.20833em -368.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-crop copy 3:before {
-  background-position: -0.20833em -369.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-crop copy:before {
-  background-position: -0.20833em -371.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-crop:before {
-  background-position: -0.20833em -372.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-database:before {
-  background-position: -0.20833em -374.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-database copy:before {
-  background-position: -0.20833em -375.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-database copy 2:before {
-  background-position: -0.20833em -377.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-database copy 2:before {
-  background-position: -0.20833em -378.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-database copy 3:before {
-  background-position: -0.20833em -379.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-database copy 3:before {
-  background-position: -0.20833em -381.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-database copy:before {
-  background-position: -0.20833em -382.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-database:before {
-  background-position: -0.20833em -384.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-diary:before {
-  background-position: -0.20833em -385.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-diary copy:before {
-  background-position: -0.20833em -386.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-diary copy 2:before {
-  background-position: -0.20833em -388.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-diary copy 2:before {
-  background-position: -0.20833em -389.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-diary copy 3:before {
-  background-position: -0.20833em -391.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-diary copy 3:before {
-  background-position: -0.20833em -392.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-diary copy:before {
-  background-position: -0.20833em -394.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-diary:before {
-  background-position: -0.20833em -395.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-disk:before {
-  background-position: -0.20833em -396.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-disk copy:before {
-  background-position: -0.20833em -398.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-disk copy 2:before {
-  background-position: -0.20833em -399.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-disk copy 2:before {
-  background-position: -0.20833em -401.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-disk copy 3:before {
-  background-position: -0.20833em -402.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-disk copy 3:before {
-  background-position: -0.20833em -403.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-disk copy:before {
-  background-position: -0.20833em -405.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-disk:before {
-  background-position: -0.20833em -406.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-dribbble:before {
-  background-position: -0.20833em -408.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-dribbble copy:before {
-  background-position: -0.20833em -409.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-dribbble copy 2:before {
-  background-position: -0.20833em -411.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-dribbble copy 2:before {
-  background-position: -0.20833em -412.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-dribbble copy 3:before {
-  background-position: -0.20833em -413.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-dribbble copy 3:before {
-  background-position: -0.20833em -415.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-dribbble copy:before {
-  background-position: -0.20833em -416.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-dribbble:before {
-  background-position: -0.20833em -418.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-droplet:before {
-  background-position: -0.20833em -419.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-droplet copy:before {
-  background-position: -0.20833em -420.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-droplet copy 2:before {
-  background-position: -0.20833em -422.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-droplet copy 2:before {
-  background-position: -0.20833em -423.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-droplet copy 3:before {
-  background-position: -0.20833em -425.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-droplet copy 3:before {
-  background-position: -0.20833em -426.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-droplet copy:before {
-  background-position: -0.20833em -428.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-droplet:before {
-  background-position: -0.20833em -429.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-earth:before {
-  background-position: -0.20833em -430.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-earth copy:before {
-  background-position: -0.20833em -432.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-earth copy 2:before {
-  background-position: -0.20833em -433.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-earth copy 2:before {
-  background-position: -0.20833em -435.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-earth copy 3:before {
-  background-position: -0.20833em -436.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-earth copy 3:before {
-  background-position: -0.20833em -437.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-earth copy:before {
-  background-position: -0.20833em -439.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-earth:before {
-  background-position: -0.20833em -440.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-envelope:before {
-  background-position: -0.20833em -442.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-envelope copy:before {
-  background-position: -0.20833em -443.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-envelope copy 2:before {
-  background-position: -0.20833em -445.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-envelope copy 2:before {
-  background-position: -0.20833em -446.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-envelope copy 3:before {
-  background-position: -0.20833em -447.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-envelope copy 3:before {
-  background-position: -0.20833em -449.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-envelope copy:before {
-  background-position: -0.20833em -450.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-envelope:before {
-  background-position: -0.20833em -452.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-eye:before {
-  background-position: -0.20833em -453.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-eye copy:before {
-  background-position: -0.20833em -454.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-eye copy 2:before {
-  background-position: -0.20833em -456.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-eye copy 2:before {
-  background-position: -0.20833em -457.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-eye copy 3:before {
-  background-position: -0.20833em -459.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-eye copy 3:before {
-  background-position: -0.20833em -460.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-eye copy:before {
-  background-position: -0.20833em -462.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-eye:before {
-  background-position: -0.20833em -463.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-feed:before {
-  background-position: -0.20833em -464.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-feed copy:before {
-  background-position: -0.20833em -466.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-feed copy 2:before {
-  background-position: -0.20833em -467.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-feed copy 2:before {
-  background-position: -0.20833em -469.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-feed copy 3:before {
-  background-position: -0.20833em -470.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-feed copy 3:before {
-  background-position: -0.20833em -471.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-feed copy:before {
-  background-position: -0.20833em -473.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-feed:before {
-  background-position: -0.20833em -474.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-file:before {
-  background-position: -0.20833em -476.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-file copy:before {
-  background-position: -0.20833em -477.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-file copy 2:before {
-  background-position: -0.20833em -479.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-file copy 2:before {
-  background-position: -0.20833em -480.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-file copy 3:before {
-  background-position: -0.20833em -481.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-file copy 3:before {
-  background-position: -0.20833em -483.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-file copy:before {
-  background-position: -0.20833em -484.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-file:before {
-  background-position: -0.20833em -486.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-film:before {
-  background-position: -0.20833em -487.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-film copy:before {
-  background-position: -0.20833em -488.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-film copy 2:before {
-  background-position: -0.20833em -490.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-film copy 2:before {
-  background-position: -0.20833em -491.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-film copy 3:before {
-  background-position: -0.20833em -493.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-film copy 3:before {
-  background-position: -0.20833em -494.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-film copy:before {
-  background-position: -0.20833em -496.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-film:before {
-  background-position: -0.20833em -497.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-filter:before {
-  background-position: -0.20833em -498.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-filter copy:before {
-  background-position: -0.20833em -500.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-filter copy 2:before {
-  background-position: -0.20833em -501.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-filter copy 2:before {
-  background-position: -0.20833em -503.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-filter copy 3:before {
-  background-position: -0.20833em -504.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-filter copy 3:before {
-  background-position: -0.20833em -505.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-filter copy:before {
-  background-position: -0.20833em -507.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-filter:before {
-  background-position: -0.20833em -508.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-flag:before {
-  background-position: -0.20833em -510.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-flag copy:before {
-  background-position: -0.20833em -511.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-flag copy 2:before {
-  background-position: -0.20833em -513.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-flag copy 2:before {
-  background-position: -0.20833em -514.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-flag copy 3:before {
-  background-position: -0.20833em -515.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-flag copy 3:before {
-  background-position: -0.20833em -517.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-flag copy:before {
-  background-position: -0.20833em -518.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-flag:before {
-  background-position: -0.20833em -520.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-floppy:before {
-  background-position: -0.20833em -521.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-floppy copy:before {
-  background-position: -0.20833em -522.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-floppy copy 2:before {
-  background-position: -0.20833em -524.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-floppy copy 2:before {
-  background-position: -0.20833em -525.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-floppy copy 3:before {
-  background-position: -0.20833em -527.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-floppy copy 3:before {
-  background-position: -0.20833em -528.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-floppy copy:before {
-  background-position: -0.20833em -530.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-floppy:before {
-  background-position: -0.20833em -531.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-folder:before {
-  background-position: -0.20833em -532.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-folder copy:before {
-  background-position: -0.20833em -534.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-folder copy 2:before {
-  background-position: -0.20833em -535.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-folder copy 2:before {
-  background-position: -0.20833em -537.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-folder copy 3:before {
-  background-position: -0.20833em -538.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-folder copy 3:before {
-  background-position: -0.20833em -539.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-folder copy:before {
-  background-position: -0.20833em -541.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-folder:before {
-  background-position: -0.20833em -542.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forrst:before {
-  background-position: -0.20833em -544.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forrst copy:before {
-  background-position: -0.20833em -545.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forrst copy 2:before {
-  background-position: -0.20833em -547.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forrst copy 2:before {
-  background-position: -0.20833em -548.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forrst copy 3:before {
-  background-position: -0.20833em -549.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forrst copy 3:before {
-  background-position: -0.20833em -551.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forrst copy:before {
-  background-position: -0.20833em -552.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forrst:before {
-  background-position: -0.20833em -554.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forward:before {
-  background-position: -0.20833em -555.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forward copy:before {
-  background-position: -0.20833em -556.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forward copy 2:before {
-  background-position: -0.20833em -558.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forward copy 2:before {
-  background-position: -0.20833em -559.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-forward copy 3:before {
-  background-position: -0.20833em -561.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forward copy 3:before {
-  background-position: -0.20833em -562.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forward copy:before {
-  background-position: -0.20833em -564.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-forward:before {
-  background-position: -0.20833em -565.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-frame:before {
-  background-position: -0.20833em -566.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-frame copy:before {
-  background-position: -0.20833em -568.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-frame copy 2:before {
-  background-position: -0.20833em -569.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-frame copy 2:before {
-  background-position: -0.20833em -571.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-frame copy 3:before {
-  background-position: -0.20833em -572.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-frame copy 3:before {
-  background-position: -0.20833em -573.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-frame copy:before {
-  background-position: -0.20833em -575.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-frame:before {
-  background-position: -0.20833em -576.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-gift:before {
-  background-position: -0.20833em -578.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-gift copy:before {
-  background-position: -0.20833em -579.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-gift copy 2:before {
-  background-position: -0.20833em -581.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-gift copy 2:before {
-  background-position: -0.20833em -582.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-gift copy 3:before {
-  background-position: -0.20833em -583.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-gift copy 3:before {
-  background-position: -0.20833em -585.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-gift copy:before {
-  background-position: -0.20833em -586.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-gift:before {
-  background-position: -0.20833em -588.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-grid:before {
-  background-position: -0.20833em -589.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-grid copy:before {
-  background-position: -0.20833em -590.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-grid copy 2:before {
-  background-position: -0.20833em -592.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-grid copy 2:before {
-  background-position: -0.20833em -593.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-grid copy 3:before {
-  background-position: -0.20833em -595.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-grid copy 3:before {
-  background-position: -0.20833em -596.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-grid copy:before {
-  background-position: -0.20833em -598.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-grid:before {
-  background-position: -0.20833em -599.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-headphones:before {
-  background-position: -0.20833em -600.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-headphones copy:before {
-  background-position: -0.20833em -602.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-headphones copy 2:before {
-  background-position: -0.20833em -603.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-headphones copy 2:before {
-  background-position: -0.20833em -605.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-headphones copy 3:before {
-  background-position: -0.20833em -606.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-headphones copy 3:before {
-  background-position: -0.20833em -607.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-headphones copy:before {
-  background-position: -0.20833em -609.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-headphones:before {
-  background-position: -0.20833em -610.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-heart:before {
-  background-position: -0.20833em -612.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-heart copy:before {
-  background-position: -0.20833em -613.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-heart copy 2:before {
-  background-position: -0.20833em -615.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-heart copy 2:before {
-  background-position: -0.20833em -616.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-heart copy 3:before {
-  background-position: -0.20833em -617.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-heart copy 3:before {
-  background-position: -0.20833em -619.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-heart copy:before {
-  background-position: -0.20833em -620.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-heart:before {
-  background-position: -0.20833em -622.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-home:before {
-  background-position: -0.20833em -623.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-home copy:before {
-  background-position: -0.20833em -624.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-home copy 2:before {
-  background-position: -0.20833em -626.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-home copy 2:before {
-  background-position: -0.20833em -627.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-home copy 3:before {
-  background-position: -0.20833em -629.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-home copy 3:before {
-  background-position: -0.20833em -630.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-home copy:before {
-  background-position: -0.20833em -632.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-home:before {
-  background-position: -0.20833em -633.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-inbox:before {
-  background-position: -0.20833em -634.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-inbox copy:before {
-  background-position: -0.20833em -636.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-inbox copy 2:before {
-  background-position: -0.20833em -637.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-inbox copy 2:before {
-  background-position: -0.20833em -639.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-inbox copy 3:before {
-  background-position: -0.20833em -640.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-inbox copy 3:before {
-  background-position: -0.20833em -641.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-inbox copy:before {
-  background-position: -0.20833em -643.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-inbox:before {
-  background-position: -0.20833em -644.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-info:before {
-  background-position: -0.20833em -646.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-info copy:before {
-  background-position: -0.20833em -647.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-info copy 2:before {
-  background-position: -0.20833em -649.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-info copy 2:before {
-  background-position: -0.20833em -650.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-info copy 3:before {
-  background-position: -0.20833em -651.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-info copy 3:before {
-  background-position: -0.20833em -653.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-info copy:before {
-  background-position: -0.20833em -654.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-info:before {
-  background-position: -0.20833em -656.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-ipod:before {
-  background-position: -0.20833em -657.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-ipod copy:before {
-  background-position: -0.20833em -658.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-ipod copy 2:before {
-  background-position: -0.20833em -660.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-ipod copy 2:before {
-  background-position: -0.20833em -661.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-ipod copy 3:before {
-  background-position: -0.20833em -663.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-ipod copy 3:before {
-  background-position: -0.20833em -664.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-ipod copy:before {
-  background-position: -0.20833em -666.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-ipod:before {
-  background-position: -0.20833em -667.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-key:before {
-  background-position: -0.20833em -668.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-key copy:before {
-  background-position: -0.20833em -670.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-key copy 2:before {
-  background-position: -0.20833em -671.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-key copy 2:before {
-  background-position: -0.20833em -673.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-key copy 3:before {
-  background-position: -0.20833em -674.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-key copy 3:before {
-  background-position: -0.20833em -675.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-key copy:before {
-  background-position: -0.20833em -677.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-key:before {
-  background-position: -0.20833em -678.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-keyboard:before {
-  background-position: -0.20833em -680.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-keyboard copy:before {
-  background-position: -0.20833em -681.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-keyboard copy 2:before {
-  background-position: -0.20833em -683.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-keyboard copy 2:before {
-  background-position: -0.20833em -684.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-keyboard copy 3:before {
-  background-position: -0.20833em -685.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-keyboard copy 3:before {
-  background-position: -0.20833em -687.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-keyboard copy:before {
-  background-position: -0.20833em -688.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-keyboard:before {
-  background-position: -0.20833em -690.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-lamp:before {
-  background-position: -0.20833em -691.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-lamp copy:before {
-  background-position: -0.20833em -692.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-lamp copy 2:before {
-  background-position: -0.20833em -694.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-lamp copy 2:before {
-  background-position: -0.20833em -695.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-lamp copy 3:before {
-  background-position: -0.20833em -697.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-lamp copy 3:before {
-  background-position: -0.20833em -698.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-lamp copy:before {
-  background-position: -0.20833em -700.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-lamp:before {
-  background-position: -0.20833em -701.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-list:before {
-  background-position: -0.20833em -702.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-list copy:before {
-  background-position: -0.20833em -704.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-list copy 2:before {
-  background-position: -0.20833em -705.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-list copy 2:before {
-  background-position: -0.20833em -707.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-list copy 3:before {
-  background-position: -0.20833em -708.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-list copy 3:before {
-  background-position: -0.20833em -709.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-list copy:before {
-  background-position: -0.20833em -711.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-list:before {
-  background-position: -0.20833em -712.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location:before {
-  background-position: -0.20833em -714.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location copy:before {
-  background-position: -0.20833em -715.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location copy 2:before {
-  background-position: -0.20833em -717.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location copy 2:before {
-  background-position: -0.20833em -718.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location copy 3:before {
-  background-position: -0.20833em -719.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location copy 3:before {
-  background-position: -0.20833em -721.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location copy:before {
-  background-position: -0.20833em -722.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location:before {
-  background-position: -0.20833em -724.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location2:before {
-  background-position: -0.20833em -725.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location2 copy:before {
-  background-position: -0.20833em -726.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location2 copy 2:before {
-  background-position: -0.20833em -728.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location2 copy 2:before {
-  background-position: -0.20833em -729.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-location2 copy 3:before {
-  background-position: -0.20833em -731.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location2 copy 3:before {
-  background-position: -0.20833em -732.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location2 copy:before {
-  background-position: -0.20833em -734.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-location2:before {
-  background-position: -0.20833em -735.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-locked:before {
-  background-position: -0.20833em -736.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-locked copy:before {
-  background-position: -0.20833em -738.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-locked copy 2:before {
-  background-position: -0.20833em -739.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-locked copy 2:before {
-  background-position: -0.20833em -741.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-locked copy 3:before {
-  background-position: -0.20833em -742.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-locked copy 3:before {
-  background-position: -0.20833em -743.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-locked copy:before {
-  background-position: -0.20833em -745.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-locked:before {
-  background-position: -0.20833em -746.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mic:before {
-  background-position: -0.20833em -748.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mic copy:before {
-  background-position: -0.20833em -749.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mic copy 2:before {
-  background-position: -0.20833em -751.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mic copy 2:before {
-  background-position: -0.20833em -752.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mic copy 3:before {
-  background-position: -0.20833em -753.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mic copy 3:before {
-  background-position: -0.20833em -755.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mic copy:before {
-  background-position: -0.20833em -756.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mic:before {
-  background-position: -0.20833em -758.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-minus:before {
-  background-position: -0.20833em -759.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-minus copy:before {
-  background-position: -0.20833em -760.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-minus copy 2:before {
-  background-position: -0.20833em -762.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-minus copy 2:before {
-  background-position: -0.20833em -763.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-minus copy 3:before {
-  background-position: -0.20833em -765.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-minus copy 3:before {
-  background-position: -0.20833em -766.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-minus copy:before {
-  background-position: -0.20833em -768.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-minus:before {
-  background-position: -0.20833em -769.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mobile:before {
-  background-position: -0.20833em -770.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mobile copy:before {
-  background-position: -0.20833em -772.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mobile copy 2:before {
-  background-position: -0.20833em -773.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mobile copy 2:before {
-  background-position: -0.20833em -775.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mobile copy 3:before {
-  background-position: -0.20833em -776.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mobile copy 3:before {
-  background-position: -0.20833em -777.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mobile copy:before {
-  background-position: -0.20833em -779.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mobile:before {
-  background-position: -0.20833em -780.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-monitor:before {
-  background-position: -0.20833em -782.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-monitor copy:before {
-  background-position: -0.20833em -783.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-monitor copy 2:before {
-  background-position: -0.20833em -785.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-monitor copy 2:before {
-  background-position: -0.20833em -786.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-monitor copy 3:before {
-  background-position: -0.20833em -787.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-monitor copy 3:before {
-  background-position: -0.20833em -789.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-monitor copy:before {
-  background-position: -0.20833em -790.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-monitor:before {
-  background-position: -0.20833em -792.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mouse:before {
-  background-position: -0.20833em -793.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mouse copy:before {
-  background-position: -0.20833em -794.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mouse copy 2:before {
-  background-position: -0.20833em -796.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mouse copy 2:before {
-  background-position: -0.20833em -797.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-mouse copy 3:before {
-  background-position: -0.20833em -799.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mouse copy 3:before {
-  background-position: -0.20833em -800.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mouse copy:before {
-  background-position: -0.20833em -802.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-mouse:before {
-  background-position: -0.20833em -803.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-move:before {
-  background-position: -0.20833em -804.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-move copy:before {
-  background-position: -0.20833em -806.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-move copy 2:before {
-  background-position: -0.20833em -807.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-move copy 2:before {
-  background-position: -0.20833em -809.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-move copy 3:before {
-  background-position: -0.20833em -810.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-move copy 3:before {
-  background-position: -0.20833em -811.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-move copy:before {
-  background-position: -0.20833em -813.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-move:before {
-  background-position: -0.20833em -814.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-music:before {
-  background-position: -0.20833em -816.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-music copy:before {
-  background-position: -0.20833em -817.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-music copy 2:before {
-  background-position: -0.20833em -819.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-music copy 2:before {
-  background-position: -0.20833em -820.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-music copy 3:before {
-  background-position: -0.20833em -821.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-music copy 3:before {
-  background-position: -0.20833em -823.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-music copy:before {
-  background-position: -0.20833em -824.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-music:before {
-  background-position: -0.20833em -826.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-paperclip:before {
-  background-position: -0.20833em -827.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-paperclip copy:before {
-  background-position: -0.20833em -828.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-paperclip copy 2:before {
-  background-position: -0.20833em -830.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-paperclip copy 2:before {
-  background-position: -0.20833em -831.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-paperclip copy 3:before {
-  background-position: -0.20833em -833.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-paperclip copy 3:before {
-  background-position: -0.20833em -834.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-paperclip copy:before {
-  background-position: -0.20833em -836.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-paperclip:before {
-  background-position: -0.20833em -837.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pause:before {
-  background-position: -0.20833em -838.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pause copy:before {
-  background-position: -0.20833em -840.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pause copy 2:before {
-  background-position: -0.20833em -841.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pause copy 2:before {
-  background-position: -0.20833em -843.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pause copy 3:before {
-  background-position: -0.20833em -844.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pause copy 3:before {
-  background-position: -0.20833em -845.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pause copy:before {
-  background-position: -0.20833em -847.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pause:before {
-  background-position: -0.20833em -848.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pencil:before {
-  background-position: -0.20833em -850.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pencil copy:before {
-  background-position: -0.20833em -851.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pencil copy 2:before {
-  background-position: -0.20833em -853.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pencil copy 2:before {
-  background-position: -0.20833em -854.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pencil copy 3:before {
-  background-position: -0.20833em -855.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pencil copy 3:before {
-  background-position: -0.20833em -857.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pencil copy:before {
-  background-position: -0.20833em -858.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pencil:before {
-  background-position: -0.20833em -860.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-phone:before {
-  background-position: -0.20833em -861.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-phone copy:before {
-  background-position: -0.20833em -862.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-phone copy 2:before {
-  background-position: -0.20833em -864.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-phone copy 2:before {
-  background-position: -0.20833em -865.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-phone copy 3:before {
-  background-position: -0.20833em -867.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-phone copy 3:before {
-  background-position: -0.20833em -868.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-phone copy:before {
-  background-position: -0.20833em -870.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-phone:before {
-  background-position: -0.20833em -871.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-picture:before {
-  background-position: -0.20833em -872.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-picture copy:before {
-  background-position: -0.20833em -874.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-picture copy 2:before {
-  background-position: -0.20833em -875.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-picture copy 2:before {
-  background-position: -0.20833em -877.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-picture copy 3:before {
-  background-position: -0.20833em -878.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-picture copy 3:before {
-  background-position: -0.20833em -879.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-picture copy:before {
-  background-position: -0.20833em -881.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-picture:before {
-  background-position: -0.20833em -882.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-play:before {
-  background-position: -0.20833em -884.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-play copy:before {
-  background-position: -0.20833em -885.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-play copy 2:before {
-  background-position: -0.20833em -887.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-play copy 2:before {
-  background-position: -0.20833em -888.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-play copy 3:before {
-  background-position: -0.20833em -889.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-play copy 3:before {
-  background-position: -0.20833em -891.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-play copy:before {
-  background-position: -0.20833em -892.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-play:before {
-  background-position: -0.20833em -894.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-plus:before {
-  background-position: -0.20833em -895.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-plus copy:before {
-  background-position: -0.20833em -896.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-plus copy 2:before {
-  background-position: -0.20833em -898.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-plus copy 2:before {
-  background-position: -0.20833em -899.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-plus copy 3:before {
-  background-position: -0.20833em -901.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-plus copy 3:before {
-  background-position: -0.20833em -902.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-plus copy:before {
-  background-position: -0.20833em -904.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-plus:before {
-  background-position: -0.20833em -905.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pointer:before {
-  background-position: -0.20833em -906.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pointer copy:before {
-  background-position: -0.20833em -908.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pointer copy 2:before {
-  background-position: -0.20833em -909.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pointer copy 2:before {
-  background-position: -0.20833em -911.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-pointer copy 3:before {
-  background-position: -0.20833em -912.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pointer copy 3:before {
-  background-position: -0.20833em -913.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pointer copy:before {
-  background-position: -0.20833em -915.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-pointer:before {
-  background-position: -0.20833em -916.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-refresh:before {
-  background-position: -0.20833em -918.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-refresh copy:before {
-  background-position: -0.20833em -919.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-refresh copy 2:before {
-  background-position: -0.20833em -921.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-refresh copy 2:before {
-  background-position: -0.20833em -922.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-refresh copy 3:before {
-  background-position: -0.20833em -923.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-refresh copy 3:before {
-  background-position: -0.20833em -925.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-refresh copy:before {
-  background-position: -0.20833em -926.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-refresh:before {
-  background-position: -0.20833em -928.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-search:before {
-  background-position: -0.20833em -929.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-search copy:before {
-  background-position: -0.20833em -930.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-search copy 2:before {
-  background-position: -0.20833em -932.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-search copy 2:before {
-  background-position: -0.20833em -933.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-search copy 3:before {
-  background-position: -0.20833em -935.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-search copy 3:before {
-  background-position: -0.20833em -936.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-search copy:before {
-  background-position: -0.20833em -938.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-search:before {
-  background-position: -0.20833em -939.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-shit:before {
-  background-position: -0.20833em -940.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-shit copy:before {
-  background-position: -0.20833em -942.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-shit copy 2:before {
-  background-position: -0.20833em -943.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-shit copy 2:before {
-  background-position: -0.20833em -945.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-shit copy 3:before {
-  background-position: -0.20833em -946.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-shit copy 3:before {
-  background-position: -0.20833em -947.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-shit copy:before {
-  background-position: -0.20833em -949.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-shit:before {
-  background-position: -0.20833em -950.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-skype:before {
-  background-position: -0.20833em -952.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-skype copy:before {
-  background-position: -0.20833em -953.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-skype copy 2:before {
-  background-position: -0.20833em -955.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-skype copy 2:before {
-  background-position: -0.20833em -956.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-skype copy 3:before {
-  background-position: -0.20833em -957.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-skype copy 3:before {
-  background-position: -0.20833em -959.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-skype copy:before {
-  background-position: -0.20833em -960.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-skype:before {
-  background-position: -0.20833em -962.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-smiley:before {
-  background-position: -0.20833em -963.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-smiley copy:before {
-  background-position: -0.20833em -964.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-smiley copy 2:before {
-  background-position: -0.20833em -966.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-smiley copy 2:before {
-  background-position: -0.20833em -967.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-smiley copy 3:before {
-  background-position: -0.20833em -969.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-smiley copy 3:before {
-  background-position: -0.20833em -970.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-smiley copy:before {
-  background-position: -0.20833em -972.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-smiley:before {
-  background-position: -0.20833em -973.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star:before {
-  background-position: -0.20833em -974.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star copy:before {
-  background-position: -0.20833em -976.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star copy 2:before {
-  background-position: -0.20833em -977.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star copy 2:before {
-  background-position: -0.20833em -979.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star copy 3:before {
-  background-position: -0.20833em -980.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star copy 3:before {
-  background-position: -0.20833em -981.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star copy:before {
-  background-position: -0.20833em -983.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star:before {
-  background-position: -0.20833em -984.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star2:before {
-  background-position: -0.20833em -986.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star2 copy:before {
-  background-position: -0.20833em -987.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star2 copy 2:before {
-  background-position: -0.20833em -989.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star2 copy 2:before {
-  background-position: -0.20833em -990.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-star2 copy 3:before {
-  background-position: -0.20833em -991.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star2 copy 3:before {
-  background-position: -0.20833em -993.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star2 copy:before {
-  background-position: -0.20833em -994.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-star2:before {
-  background-position: -0.20833em -996.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stats:before {
-  background-position: -0.20833em -997.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stats copy:before {
-  background-position: -0.20833em -998.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stats copy 2:before {
-  background-position: -0.20833em -1000.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stats copy 2:before {
-  background-position: -0.20833em -1001.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stats copy 3:before {
-  background-position: -0.20833em -1003.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stats copy 3:before {
-  background-position: -0.20833em -1004.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stats copy:before {
-  background-position: -0.20833em -1006.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stats:before {
-  background-position: -0.20833em -1007.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stop:before {
-  background-position: -0.20833em -1008.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stop copy:before {
-  background-position: -0.20833em -1010.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stop copy 2:before {
-  background-position: -0.20833em -1011.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stop copy 2:before {
-  background-position: -0.20833em -1013.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-stop copy 3:before {
-  background-position: -0.20833em -1014.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stop copy 3:before {
-  background-position: -0.20833em -1015.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stop copy:before {
-  background-position: -0.20833em -1017.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-stop:before {
-  background-position: -0.20833em -1018.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-switch:before {
-  background-position: -0.20833em -1020.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-switch copy:before {
-  background-position: -0.20833em -1021.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-switch copy 2:before {
-  background-position: -0.20833em -1023.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-switch copy 2:before {
-  background-position: -0.20833em -1024.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-switch copy 3:before {
-  background-position: -0.20833em -1025.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-switch copy 3:before {
-  background-position: -0.20833em -1027.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-switch copy:before {
-  background-position: -0.20833em -1028.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-switch:before {
-  background-position: -0.20833em -1030.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-tag:before {
-  background-position: -0.20833em -1031.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-tag copy:before {
-  background-position: -0.20833em -1032.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-tag copy 2:before {
-  background-position: -0.20833em -1034.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-tag copy 2:before {
-  background-position: -0.20833em -1035.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-tag copy 3:before {
-  background-position: -0.20833em -1037.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-tag copy 3:before {
-  background-position: -0.20833em -1038.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-tag copy:before {
-  background-position: -0.20833em -1040.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-tag:before {
-  background-position: -0.20833em -1041.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target:before {
-  background-position: -0.20833em -1042.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target copy:before {
-  background-position: -0.20833em -1044.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target copy 2:before {
-  background-position: -0.20833em -1045.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target copy 2:before {
-  background-position: -0.20833em -1047.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target copy 3:before {
-  background-position: -0.20833em -1048.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target copy 3:before {
-  background-position: -0.20833em -1049.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target copy:before {
-  background-position: -0.20833em -1051.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target:before {
-  background-position: -0.20833em -1052.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target2:before {
-  background-position: -0.20833em -1054.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target2 copy:before {
-  background-position: -0.20833em -1055.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target2 copy 2:before {
-  background-position: -0.20833em -1057.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target2 copy 2:before {
-  background-position: -0.20833em -1058.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target2 copy 3:before {
-  background-position: -0.20833em -1059.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target2 copy 3:before {
-  background-position: -0.20833em -1061.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target2 copy:before {
-  background-position: -0.20833em -1062.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target2:before {
-  background-position: -0.20833em -1064.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target3:before {
-  background-position: -0.20833em -1065.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target3 copy:before {
-  background-position: -0.20833em -1066.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target3 copy 2:before {
-  background-position: -0.20833em -1068.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target3 copy 2:before {
-  background-position: -0.20833em -1069.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-target3 copy 3:before {
-  background-position: -0.20833em -1071.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target3 copy 3:before {
-  background-position: -0.20833em -1072.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target3 copy:before {
-  background-position: -0.20833em -1074.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-target3:before {
-  background-position: -0.20833em -1075.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsdown:before {
-  background-position: -0.20833em -1076.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsdown copy:before {
-  background-position: -0.20833em -1078.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsdown copy 2:before {
-  background-position: -0.20833em -1079.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsdown copy 2:before {
-  background-position: -0.20833em -1081.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsdown copy 3:before {
-  background-position: -0.20833em -1082.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsdown copy 3:before {
-  background-position: -0.20833em -1083.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsdown copy:before {
-  background-position: -0.20833em -1085.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsdown:before {
-  background-position: -0.20833em -1086.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsup:before {
-  background-position: -0.20833em -1088.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsup copy:before {
-  background-position: -0.20833em -1089.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsup copy 2:before {
-  background-position: -0.20833em -1091.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsup copy 2:before {
-  background-position: -0.20833em -1092.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-thumbsup copy 3:before {
-  background-position: -0.20833em -1093.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsup copy 3:before {
-  background-position: -0.20833em -1095.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsup copy:before {
-  background-position: -0.20833em -1096.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-thumbsup:before {
-  background-position: -0.20833em -1098.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trashcan:before {
-  background-position: -0.20833em -1099.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trashcan copy:before {
-  background-position: -0.20833em -1100.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trashcan copy 2:before {
-  background-position: -0.20833em -1102.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trashcan copy 2:before {
-  background-position: -0.20833em -1103.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trashcan copy 3:before {
-  background-position: -0.20833em -1105.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trashcan copy 3:before {
-  background-position: -0.20833em -1106.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trashcan copy:before {
-  background-position: -0.20833em -1108.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trashcan:before {
-  background-position: -0.20833em -1109.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trophy:before {
-  background-position: -0.20833em -1110.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trophy copy:before {
-  background-position: -0.20833em -1112.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trophy copy 2:before {
-  background-position: -0.20833em -1113.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trophy copy 2:before {
-  background-position: -0.20833em -1115.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-trophy copy 3:before {
-  background-position: -0.20833em -1116.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trophy copy 3:before {
-  background-position: -0.20833em -1117.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trophy copy:before {
-  background-position: -0.20833em -1119.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-trophy:before {
-  background-position: -0.20833em -1120.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-twitter:before {
-  background-position: -0.20833em -1122.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-twitter copy:before {
-  background-position: -0.20833em -1123.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-twitter copy 2:before {
-  background-position: -0.20833em -1125.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-twitter copy 2:before {
-  background-position: -0.20833em -1126.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-twitter copy 3:before {
-  background-position: -0.20833em -1127.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-twitter copy 3:before {
-  background-position: -0.20833em -1129.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-twitter copy:before {
-  background-position: -0.20833em -1130.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-twitter:before {
-  background-position: -0.20833em -1132.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-type:before {
-  background-position: -0.20833em -1133.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-type copy:before {
-  background-position: -0.20833em -1134.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-type copy 2:before {
-  background-position: -0.20833em -1136.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-type copy 2:before {
-  background-position: -0.20833em -1137.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-type copy 3:before {
-  background-position: -0.20833em -1139.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-type copy 3:before {
-  background-position: -0.20833em -1140.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-type copy:before {
-  background-position: -0.20833em -1142.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-type:before {
-  background-position: -0.20833em -1143.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-user:before {
-  background-position: -0.20833em -1144.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-user copy:before {
-  background-position: -0.20833em -1146.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-user copy 2:before {
-  background-position: -0.20833em -1147.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-user copy 2:before {
-  background-position: -0.20833em -1149.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-user copy 3:before {
-  background-position: -0.20833em -1150.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-user copy 3:before {
-  background-position: -0.20833em -1151.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-user copy:before {
-  background-position: -0.20833em -1153.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-user:before {
-  background-position: -0.20833em -1154.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume:before {
-  background-position: -0.20833em -1156.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume copy:before {
-  background-position: -0.20833em -1157.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume copy 2:before {
-  background-position: -0.20833em -1159.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume copy 2:before {
-  background-position: -0.20833em -1160.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume copy 3:before {
-  background-position: -0.20833em -1161.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume copy 3:before {
-  background-position: -0.20833em -1163.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume copy:before {
-  background-position: -0.20833em -1164.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume:before {
-  background-position: -0.20833em -1166.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume2:before {
-  background-position: -0.20833em -1167.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume2 copy:before {
-  background-position: -0.20833em -1168.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume2 copy 2:before {
-  background-position: -0.20833em -1170.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume2 copy 2:before {
-  background-position: -0.20833em -1171.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-volume2 copy 3:before {
-  background-position: -0.20833em -1173.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume2 copy 3:before {
-  background-position: -0.20833em -1174.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume2 copy:before {
-  background-position: -0.20833em -1176.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-volume2:before {
-  background-position: -0.20833em -1177.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-warning:before {
-  background-position: -0.20833em -1178.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-warning copy:before {
-  background-position: -0.20833em -1180.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-warning copy 2:before {
-  background-position: -0.20833em -1181.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-warning copy 2:before {
-  background-position: -0.20833em -1183.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-warning copy 3:before {
-  background-position: -0.20833em -1184.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-warning copy 3:before {
-  background-position: -0.20833em -1185.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-warning copy:before {
-  background-position: -0.20833em -1187.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-warning:before {
-  background-position: -0.20833em -1188.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-window:before {
-  background-position: -0.20833em -1190.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-window copy:before {
-  background-position: -0.20833em -1191.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-window copy 2:before {
-  background-position: -0.20833em -1193.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-window copy 2:before {
-  background-position: -0.20833em -1194.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-window copy 3:before {
-  background-position: -0.20833em -1195.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-window copy 3:before {
-  background-position: -0.20833em -1197.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-window copy:before {
-  background-position: -0.20833em -1198.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-window:before {
-  background-position: -0.20833em -1200.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-winsows:before {
-  background-position: -0.20833em -1201.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-winsows copy:before {
-  background-position: -0.20833em -1202.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-winsows copy 2:before {
-  background-position: -0.20833em -1204.375em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-winsows copy 2:before {
-  background-position: -0.20833em -1205.79167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-winsows copy 3:before {
-  background-position: -0.20833em -1207.20833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-winsows copy 3:before {
-  background-position: -0.20833em -1208.625em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-winsows copy:before {
-  background-position: -0.20833em -1210.04167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-winsows:before {
-  background-position: -0.20833em -1211.45833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-wrench:before {
-  background-position: -0.20833em -1212.875em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-wrench copy:before {
-  background-position: -0.20833em -1214.29167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-wrench copy 2:before {
-  background-position: -0.20833em -1215.70833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-wrench copy 2:before {
-  background-position: -0.20833em -1217.125em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-wrench copy 3:before {
-  background-position: -0.20833em -1218.54167em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-wrench copy 3:before {
-  background-position: -0.20833em -1219.95833em;
-  width: 1em;
-  height: 1em; }
-
-.no-fontface .icon-mono-white.icon-mono-wrench copy:before {
-  background-position: -0.20833em -1221.375em;
-  width: 1em;
-  height: 1em; }
-
 .no-fontface .icon-mono-white.icon-mono-wrench:before {
-  background-position: -0.20833em -1222.79167em;
+  background-position: -0.20833em -304.79167em;
   width: 1em;
   height: 1em; }
 
@@ -4410,1301 +1170,329 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-.icon-mono-addressbook copy 2:before {
+.icon-mono-addressbook:before {
   content: "\E001"; }
 
-.icon-mono-addressbook copy 3:before {
+.icon-mono-alarm:before {
   content: "\E002"; }
 
-.icon-mono-addressbook copy:before {
+.icon-mono-ampersand:before {
   content: "\E003"; }
 
-.icon-mono-addressbook:before {
+.icon-mono-apple:before {
   content: "\E004"; }
 
-.icon-mono-alarm copy 2:before {
+.icon-mono-atom:before {
   content: "\E005"; }
 
-.icon-mono-alarm copy 3:before {
+.icon-mono-basket:before {
   content: "\E006"; }
 
-.icon-mono-alarm copy:before {
+.icon-mono-battery:before {
   content: "\E007"; }
 
-.icon-mono-alarm:before {
+.icon-mono-blocked:before {
   content: "\E008"; }
 
-.icon-mono-ampersand copy 2:before {
+.icon-mono-bolt:before {
   content: "\E009"; }
 
-.icon-mono-ampersand copy 3:before {
+.icon-mono-bookmark:before {
   content: "\E00A"; }
 
-.icon-mono-ampersand copy:before {
+.icon-mono-bookmark2:before {
   content: "\E00B"; }
 
-.icon-mono-ampersand:before {
+.icon-mono-briefcase:before {
   content: "\E00C"; }
 
-.icon-mono-apple copy 2:before {
+.icon-mono-bug:before {
   content: "\E00D"; }
 
-.icon-mono-apple copy 3:before {
+.icon-mono-button:before {
   content: "\E00E"; }
 
-.icon-mono-apple copy:before {
+.icon-mono-calendar:before {
   content: "\E00F"; }
 
-.icon-mono-apple:before {
+.icon-mono-camera:before {
   content: "\E010"; }
 
-.icon-mono-atom copy 2:before {
+.icon-mono-camera2:before {
   content: "\E011"; }
 
-.icon-mono-atom copy 3:before {
+.icon-mono-cancel:before {
   content: "\E012"; }
 
-.icon-mono-atom copy:before {
+.icon-mono-cart:before {
   content: "\E013"; }
 
-.icon-mono-atom:before {
+.icon-mono-chart:before {
   content: "\E014"; }
 
-.icon-mono-basket copy 2:before {
+.icon-mono-checkmark:before {
   content: "\E015"; }
 
-.icon-mono-basket copy 3:before {
+.icon-mono-clock:before {
   content: "\E016"; }
 
-.icon-mono-basket copy:before {
+.icon-mono-cloud:before {
   content: "\E017"; }
 
-.icon-mono-basket:before {
+.icon-mono-code:before {
   content: "\E018"; }
 
-.icon-mono-battery copy 2:before {
+.icon-mono-coffee:before {
   content: "\E019"; }
 
-.icon-mono-battery copy 3:before {
+.icon-mono-cog:before {
   content: "\E01A"; }
 
-.icon-mono-battery copy:before {
+.icon-mono-comment:before {
   content: "\E01B"; }
 
-.icon-mono-battery:before {
+.icon-mono-compass:before {
   content: "\E01C"; }
 
-.icon-mono-blocked copy 2:before {
+.icon-mono-cone:before {
   content: "\E01D"; }
 
-.icon-mono-blocked copy 3:before {
+.icon-mono-console:before {
   content: "\E01E"; }
 
-.icon-mono-blocked copy:before {
+.icon-mono-contrast:before {
   content: "\E01F"; }
 
-.icon-mono-blocked:before {
+.icon-mono-creditcard:before {
   content: "\E020"; }
 
-.icon-mono-bolt copy 2:before {
+.icon-mono-crop:before {
   content: "\E021"; }
 
-.icon-mono-bolt copy 3:before {
+.icon-mono-database:before {
   content: "\E022"; }
 
-.icon-mono-bolt copy:before {
+.icon-mono-diary:before {
   content: "\E023"; }
 
-.icon-mono-bolt:before {
+.icon-mono-disk:before {
   content: "\E024"; }
 
-.icon-mono-bookmark copy 2:before {
+.icon-mono-dribbble:before {
   content: "\E025"; }
 
-.icon-mono-bookmark copy 3:before {
+.icon-mono-droplet:before {
   content: "\E026"; }
 
-.icon-mono-bookmark copy:before {
+.icon-mono-earth:before {
   content: "\E027"; }
 
-.icon-mono-bookmark:before {
+.icon-mono-envelope:before {
   content: "\E028"; }
 
-.icon-mono-bookmark2 copy 2:before {
+.icon-mono-eye:before {
   content: "\E029"; }
 
-.icon-mono-bookmark2 copy 3:before {
+.icon-mono-feed:before {
   content: "\E02A"; }
 
-.icon-mono-bookmark2 copy:before {
+.icon-mono-file:before {
   content: "\E02B"; }
 
-.icon-mono-bookmark2:before {
+.icon-mono-film:before {
   content: "\E02C"; }
 
-.icon-mono-briefcase copy 2:before {
+.icon-mono-filter:before {
   content: "\E02D"; }
 
-.icon-mono-briefcase copy 3:before {
+.icon-mono-flag:before {
   content: "\E02E"; }
 
-.icon-mono-briefcase copy:before {
+.icon-mono-floppy:before {
   content: "\E02F"; }
 
-.icon-mono-briefcase:before {
+.icon-mono-folder:before {
   content: "\E030"; }
 
-.icon-mono-bug copy 2:before {
+.icon-mono-forrst:before {
   content: "\E031"; }
 
-.icon-mono-bug copy 3:before {
+.icon-mono-forward:before {
   content: "\E032"; }
 
-.icon-mono-bug copy:before {
+.icon-mono-frame:before {
   content: "\E033"; }
 
-.icon-mono-bug:before {
+.icon-mono-gift:before {
   content: "\E034"; }
 
-.icon-mono-button copy 2:before {
+.icon-mono-grid:before {
   content: "\E035"; }
 
-.icon-mono-button copy 3:before {
+.icon-mono-headphones:before {
   content: "\E036"; }
 
-.icon-mono-button copy:before {
+.icon-mono-heart:before {
   content: "\E037"; }
 
-.icon-mono-button:before {
+.icon-mono-home:before {
   content: "\E038"; }
 
-.icon-mono-calendar copy 2:before {
+.icon-mono-inbox:before {
   content: "\E039"; }
 
-.icon-mono-calendar copy 3:before {
+.icon-mono-info:before {
   content: "\E03A"; }
 
-.icon-mono-calendar copy:before {
+.icon-mono-ipod:before {
   content: "\E03B"; }
 
-.icon-mono-calendar:before {
+.icon-mono-key:before {
   content: "\E03C"; }
 
-.icon-mono-camera copy 2:before {
+.icon-mono-keyboard:before {
   content: "\E03D"; }
 
-.icon-mono-camera copy 3:before {
+.icon-mono-lamp:before {
   content: "\E03E"; }
 
-.icon-mono-camera copy:before {
+.icon-mono-list:before {
   content: "\E03F"; }
 
-.icon-mono-camera:before {
+.icon-mono-location:before {
   content: "\E040"; }
 
-.icon-mono-camera2 copy 2:before {
+.icon-mono-location2:before {
   content: "\E041"; }
 
-.icon-mono-camera2 copy 3:before {
+.icon-mono-locked:before {
   content: "\E042"; }
 
-.icon-mono-camera2 copy:before {
+.icon-mono-mic:before {
   content: "\E043"; }
 
-.icon-mono-camera2:before {
+.icon-mono-minus:before {
   content: "\E044"; }
 
-.icon-mono-cancel copy 2:before {
+.icon-mono-mobile:before {
   content: "\E045"; }
 
-.icon-mono-cancel copy 3:before {
+.icon-mono-monitor:before {
   content: "\E046"; }
 
-.icon-mono-cancel copy:before {
+.icon-mono-mouse:before {
   content: "\E047"; }
 
-.icon-mono-cancel:before {
+.icon-mono-move:before {
   content: "\E048"; }
 
-.icon-mono-cart copy 2:before {
+.icon-mono-music:before {
   content: "\E049"; }
 
-.icon-mono-cart copy 3:before {
+.icon-mono-paperclip:before {
   content: "\E04A"; }
 
-.icon-mono-cart copy:before {
+.icon-mono-pause:before {
   content: "\E04B"; }
 
-.icon-mono-cart:before {
+.icon-mono-pencil:before {
   content: "\E04C"; }
 
-.icon-mono-chart copy 2:before {
+.icon-mono-phone:before {
   content: "\E04D"; }
 
-.icon-mono-chart copy 3:before {
+.icon-mono-picture:before {
   content: "\E04E"; }
 
-.icon-mono-chart copy:before {
+.icon-mono-play:before {
   content: "\E04F"; }
 
-.icon-mono-chart:before {
+.icon-mono-plus:before {
   content: "\E050"; }
 
-.icon-mono-checkmark copy 2:before {
+.icon-mono-pointer:before {
   content: "\E051"; }
 
-.icon-mono-checkmark copy 3:before {
+.icon-mono-refresh:before {
   content: "\E052"; }
 
-.icon-mono-checkmark copy:before {
+.icon-mono-search:before {
   content: "\E053"; }
 
-.icon-mono-checkmark:before {
+.icon-mono-shit:before {
   content: "\E054"; }
 
-.icon-mono-clock copy 2:before {
+.icon-mono-skype:before {
   content: "\E055"; }
 
-.icon-mono-clock copy 3:before {
+.icon-mono-smiley:before {
   content: "\E056"; }
 
-.icon-mono-clock copy:before {
+.icon-mono-star:before {
   content: "\E057"; }
 
-.icon-mono-clock:before {
+.icon-mono-star2:before {
   content: "\E058"; }
 
-.icon-mono-cloud copy 2:before {
+.icon-mono-stats:before {
   content: "\E059"; }
 
-.icon-mono-cloud copy 3:before {
+.icon-mono-stop:before {
   content: "\E05A"; }
 
-.icon-mono-cloud copy:before {
+.icon-mono-switch:before {
   content: "\E05B"; }
 
-.icon-mono-cloud:before {
+.icon-mono-tag:before {
   content: "\E05C"; }
 
-.icon-mono-code copy 2:before {
+.icon-mono-target:before {
   content: "\E05D"; }
 
-.icon-mono-code copy 3:before {
+.icon-mono-target2:before {
   content: "\E05E"; }
 
-.icon-mono-code copy:before {
+.icon-mono-target3:before {
   content: "\E05F"; }
 
-.icon-mono-code:before {
+.icon-mono-thumbsdown:before {
   content: "\E060"; }
 
-.icon-mono-coffee copy 2:before {
+.icon-mono-thumbsup:before {
   content: "\E061"; }
 
-.icon-mono-coffee copy 3:before {
+.icon-mono-trashcan:before {
   content: "\E062"; }
 
-.icon-mono-coffee copy:before {
+.icon-mono-trophy:before {
   content: "\E063"; }
 
-.icon-mono-coffee:before {
+.icon-mono-twitter:before {
   content: "\E064"; }
 
-.icon-mono-cog copy 2:before {
+.icon-mono-type:before {
   content: "\E065"; }
 
-.icon-mono-cog copy 3:before {
+.icon-mono-user:before {
   content: "\E066"; }
 
-.icon-mono-cog copy:before {
+.icon-mono-volume:before {
   content: "\E067"; }
 
-.icon-mono-cog:before {
+.icon-mono-volume2:before {
   content: "\E068"; }
 
-.icon-mono-comment copy 2:before {
+.icon-mono-warning:before {
   content: "\E069"; }
 
-.icon-mono-comment copy 3:before {
+.icon-mono-window:before {
   content: "\E06A"; }
 
-.icon-mono-comment copy:before {
+.icon-mono-winsows:before {
   content: "\E06B"; }
 
-.icon-mono-comment:before {
-  content: "\E06C"; }
-
-.icon-mono-compass copy 2:before {
-  content: "\E06D"; }
-
-.icon-mono-compass copy 3:before {
-  content: "\E06E"; }
-
-.icon-mono-compass copy:before {
-  content: "\E06F"; }
-
-.icon-mono-compass:before {
-  content: "\E070"; }
-
-.icon-mono-cone copy 2:before {
-  content: "\E071"; }
-
-.icon-mono-cone copy 3:before {
-  content: "\E072"; }
-
-.icon-mono-cone copy:before {
-  content: "\E073"; }
-
-.icon-mono-cone:before {
-  content: "\E074"; }
-
-.icon-mono-console copy 2:before {
-  content: "\E075"; }
-
-.icon-mono-console copy 3:before {
-  content: "\E076"; }
-
-.icon-mono-console copy:before {
-  content: "\E077"; }
-
-.icon-mono-console:before {
-  content: "\E078"; }
-
-.icon-mono-contrast copy 2:before {
-  content: "\E079"; }
-
-.icon-mono-contrast copy 3:before {
-  content: "\E07A"; }
-
-.icon-mono-contrast copy:before {
-  content: "\E07B"; }
-
-.icon-mono-contrast:before {
-  content: "\E07C"; }
-
-.icon-mono-creditcard copy 2:before {
-  content: "\E07D"; }
-
-.icon-mono-creditcard copy 3:before {
-  content: "\E07E"; }
-
-.icon-mono-creditcard copy:before {
-  content: "\E07F"; }
-
-.icon-mono-creditcard:before {
-  content: "\E080"; }
-
-.icon-mono-crop copy 2:before {
-  content: "\E081"; }
-
-.icon-mono-crop copy 3:before {
-  content: "\E082"; }
-
-.icon-mono-crop copy:before {
-  content: "\E083"; }
-
-.icon-mono-crop:before {
-  content: "\E084"; }
-
-.icon-mono-database copy 2:before {
-  content: "\E085"; }
-
-.icon-mono-database copy 3:before {
-  content: "\E086"; }
-
-.icon-mono-database copy:before {
-  content: "\E087"; }
-
-.icon-mono-database:before {
-  content: "\E088"; }
-
-.icon-mono-diary copy 2:before {
-  content: "\E089"; }
-
-.icon-mono-diary copy 3:before {
-  content: "\E08A"; }
-
-.icon-mono-diary copy:before {
-  content: "\E08B"; }
-
-.icon-mono-diary:before {
-  content: "\E08C"; }
-
-.icon-mono-disk copy 2:before {
-  content: "\E08D"; }
-
-.icon-mono-disk copy 3:before {
-  content: "\E08E"; }
-
-.icon-mono-disk copy:before {
-  content: "\E08F"; }
-
-.icon-mono-disk:before {
-  content: "\E090"; }
-
-.icon-mono-dribbble copy 2:before {
-  content: "\E091"; }
-
-.icon-mono-dribbble copy 3:before {
-  content: "\E092"; }
-
-.icon-mono-dribbble copy:before {
-  content: "\E093"; }
-
-.icon-mono-dribbble:before {
-  content: "\E094"; }
-
-.icon-mono-droplet copy 2:before {
-  content: "\E095"; }
-
-.icon-mono-droplet copy 3:before {
-  content: "\E096"; }
-
-.icon-mono-droplet copy:before {
-  content: "\E097"; }
-
-.icon-mono-droplet:before {
-  content: "\E098"; }
-
-.icon-mono-earth copy 2:before {
-  content: "\E099"; }
-
-.icon-mono-earth copy 3:before {
-  content: "\E09A"; }
-
-.icon-mono-earth copy:before {
-  content: "\E09B"; }
-
-.icon-mono-earth:before {
-  content: "\E09C"; }
-
-.icon-mono-envelope copy 2:before {
-  content: "\E09D"; }
-
-.icon-mono-envelope copy 3:before {
-  content: "\E09E"; }
-
-.icon-mono-envelope copy:before {
-  content: "\E09F"; }
-
-.icon-mono-envelope:before {
-  content: "\E0A0"; }
-
-.icon-mono-eye copy 2:before {
-  content: "\E0A1"; }
-
-.icon-mono-eye copy 3:before {
-  content: "\E0A2"; }
-
-.icon-mono-eye copy:before {
-  content: "\E0A3"; }
-
-.icon-mono-eye:before {
-  content: "\E0A4"; }
-
-.icon-mono-feed copy 2:before {
-  content: "\E0A5"; }
-
-.icon-mono-feed copy 3:before {
-  content: "\E0A6"; }
-
-.icon-mono-feed copy:before {
-  content: "\E0A7"; }
-
-.icon-mono-feed:before {
-  content: "\E0A8"; }
-
-.icon-mono-file copy 2:before {
-  content: "\E0A9"; }
-
-.icon-mono-file copy 3:before {
-  content: "\E0AA"; }
-
-.icon-mono-file copy:before {
-  content: "\E0AB"; }
-
-.icon-mono-file:before {
-  content: "\E0AC"; }
-
-.icon-mono-film copy 2:before {
-  content: "\E0AD"; }
-
-.icon-mono-film copy 3:before {
-  content: "\E0AE"; }
-
-.icon-mono-film copy:before {
-  content: "\E0AF"; }
-
-.icon-mono-film:before {
-  content: "\E0B0"; }
-
-.icon-mono-filter copy 2:before {
-  content: "\E0B1"; }
-
-.icon-mono-filter copy 3:before {
-  content: "\E0B2"; }
-
-.icon-mono-filter copy:before {
-  content: "\E0B3"; }
-
-.icon-mono-filter:before {
-  content: "\E0B4"; }
-
-.icon-mono-flag copy 2:before {
-  content: "\E0B5"; }
-
-.icon-mono-flag copy 3:before {
-  content: "\E0B6"; }
-
-.icon-mono-flag copy:before {
-  content: "\E0B7"; }
-
-.icon-mono-flag:before {
-  content: "\E0B8"; }
-
-.icon-mono-floppy copy 2:before {
-  content: "\E0B9"; }
-
-.icon-mono-floppy copy 3:before {
-  content: "\E0BA"; }
-
-.icon-mono-floppy copy:before {
-  content: "\E0BB"; }
-
-.icon-mono-floppy:before {
-  content: "\E0BC"; }
-
-.icon-mono-folder copy 2:before {
-  content: "\E0BD"; }
-
-.icon-mono-folder copy 3:before {
-  content: "\E0BE"; }
-
-.icon-mono-folder copy:before {
-  content: "\E0BF"; }
-
-.icon-mono-folder:before {
-  content: "\E0C0"; }
-
-.icon-mono-forrst copy 2:before {
-  content: "\E0C1"; }
-
-.icon-mono-forrst copy 3:before {
-  content: "\E0C2"; }
-
-.icon-mono-forrst copy:before {
-  content: "\E0C3"; }
-
-.icon-mono-forrst:before {
-  content: "\E0C4"; }
-
-.icon-mono-forward copy 2:before {
-  content: "\E0C5"; }
-
-.icon-mono-forward copy 3:before {
-  content: "\E0C6"; }
-
-.icon-mono-forward copy:before {
-  content: "\E0C7"; }
-
-.icon-mono-forward:before {
-  content: "\E0C8"; }
-
-.icon-mono-frame copy 2:before {
-  content: "\E0C9"; }
-
-.icon-mono-frame copy 3:before {
-  content: "\E0CA"; }
-
-.icon-mono-frame copy:before {
-  content: "\E0CB"; }
-
-.icon-mono-frame:before {
-  content: "\E0CC"; }
-
-.icon-mono-gift copy 2:before {
-  content: "\E0CD"; }
-
-.icon-mono-gift copy 3:before {
-  content: "\E0CE"; }
-
-.icon-mono-gift copy:before {
-  content: "\E0CF"; }
-
-.icon-mono-gift:before {
-  content: "\E0D0"; }
-
-.icon-mono-grid copy 2:before {
-  content: "\E0D1"; }
-
-.icon-mono-grid copy 3:before {
-  content: "\E0D2"; }
-
-.icon-mono-grid copy:before {
-  content: "\E0D3"; }
-
-.icon-mono-grid:before {
-  content: "\E0D4"; }
-
-.icon-mono-headphones copy 2:before {
-  content: "\E0D5"; }
-
-.icon-mono-headphones copy 3:before {
-  content: "\E0D6"; }
-
-.icon-mono-headphones copy:before {
-  content: "\E0D7"; }
-
-.icon-mono-headphones:before {
-  content: "\E0D8"; }
-
-.icon-mono-heart copy 2:before {
-  content: "\E0D9"; }
-
-.icon-mono-heart copy 3:before {
-  content: "\E0DA"; }
-
-.icon-mono-heart copy:before {
-  content: "\E0DB"; }
-
-.icon-mono-heart:before {
-  content: "\E0DC"; }
-
-.icon-mono-home copy 2:before {
-  content: "\E0DD"; }
-
-.icon-mono-home copy 3:before {
-  content: "\E0DE"; }
-
-.icon-mono-home copy:before {
-  content: "\E0DF"; }
-
-.icon-mono-home:before {
-  content: "\E0E0"; }
-
-.icon-mono-inbox copy 2:before {
-  content: "\E0E1"; }
-
-.icon-mono-inbox copy 3:before {
-  content: "\E0E2"; }
-
-.icon-mono-inbox copy:before {
-  content: "\E0E3"; }
-
-.icon-mono-inbox:before {
-  content: "\E0E4"; }
-
-.icon-mono-info copy 2:before {
-  content: "\E0E5"; }
-
-.icon-mono-info copy 3:before {
-  content: "\E0E6"; }
-
-.icon-mono-info copy:before {
-  content: "\E0E7"; }
-
-.icon-mono-info:before {
-  content: "\E0E8"; }
-
-.icon-mono-ipod copy 2:before {
-  content: "\E0E9"; }
-
-.icon-mono-ipod copy 3:before {
-  content: "\E0EA"; }
-
-.icon-mono-ipod copy:before {
-  content: "\E0EB"; }
-
-.icon-mono-ipod:before {
-  content: "\E0EC"; }
-
-.icon-mono-key copy 2:before {
-  content: "\E0ED"; }
-
-.icon-mono-key copy 3:before {
-  content: "\E0EE"; }
-
-.icon-mono-key copy:before {
-  content: "\E0EF"; }
-
-.icon-mono-key:before {
-  content: "\E0F0"; }
-
-.icon-mono-keyboard copy 2:before {
-  content: "\E0F1"; }
-
-.icon-mono-keyboard copy 3:before {
-  content: "\E0F2"; }
-
-.icon-mono-keyboard copy:before {
-  content: "\E0F3"; }
-
-.icon-mono-keyboard:before {
-  content: "\E0F4"; }
-
-.icon-mono-lamp copy 2:before {
-  content: "\E0F5"; }
-
-.icon-mono-lamp copy 3:before {
-  content: "\E0F6"; }
-
-.icon-mono-lamp copy:before {
-  content: "\E0F7"; }
-
-.icon-mono-lamp:before {
-  content: "\E0F8"; }
-
-.icon-mono-list copy 2:before {
-  content: "\E0F9"; }
-
-.icon-mono-list copy 3:before {
-  content: "\E0FA"; }
-
-.icon-mono-list copy:before {
-  content: "\E0FB"; }
-
-.icon-mono-list:before {
-  content: "\E0FC"; }
-
-.icon-mono-location copy 2:before {
-  content: "\E0FD"; }
-
-.icon-mono-location copy 3:before {
-  content: "\E0FE"; }
-
-.icon-mono-location copy:before {
-  content: "\E0FF"; }
-
-.icon-mono-location:before {
-  content: "\E100"; }
-
-.icon-mono-location2 copy 2:before {
-  content: "\E101"; }
-
-.icon-mono-location2 copy 3:before {
-  content: "\E102"; }
-
-.icon-mono-location2 copy:before {
-  content: "\E103"; }
-
-.icon-mono-location2:before {
-  content: "\E104"; }
-
-.icon-mono-locked copy 2:before {
-  content: "\E105"; }
-
-.icon-mono-locked copy 3:before {
-  content: "\E106"; }
-
-.icon-mono-locked copy:before {
-  content: "\E107"; }
-
-.icon-mono-locked:before {
-  content: "\E108"; }
-
-.icon-mono-mic copy 2:before {
-  content: "\E109"; }
-
-.icon-mono-mic copy 3:before {
-  content: "\E10A"; }
-
-.icon-mono-mic copy:before {
-  content: "\E10B"; }
-
-.icon-mono-mic:before {
-  content: "\E10C"; }
-
-.icon-mono-minus copy 2:before {
-  content: "\E10D"; }
-
-.icon-mono-minus copy 3:before {
-  content: "\E10E"; }
-
-.icon-mono-minus copy:before {
-  content: "\E10F"; }
-
-.icon-mono-minus:before {
-  content: "\E110"; }
-
-.icon-mono-mobile copy 2:before {
-  content: "\E111"; }
-
-.icon-mono-mobile copy 3:before {
-  content: "\E112"; }
-
-.icon-mono-mobile copy:before {
-  content: "\E113"; }
-
-.icon-mono-mobile:before {
-  content: "\E114"; }
-
-.icon-mono-monitor copy 2:before {
-  content: "\E115"; }
-
-.icon-mono-monitor copy 3:before {
-  content: "\E116"; }
-
-.icon-mono-monitor copy:before {
-  content: "\E117"; }
-
-.icon-mono-monitor:before {
-  content: "\E118"; }
-
-.icon-mono-mouse copy 2:before {
-  content: "\E119"; }
-
-.icon-mono-mouse copy 3:before {
-  content: "\E11A"; }
-
-.icon-mono-mouse copy:before {
-  content: "\E11B"; }
-
-.icon-mono-mouse:before {
-  content: "\E11C"; }
-
-.icon-mono-move copy 2:before {
-  content: "\E11D"; }
-
-.icon-mono-move copy 3:before {
-  content: "\E11E"; }
-
-.icon-mono-move copy:before {
-  content: "\E11F"; }
-
-.icon-mono-move:before {
-  content: "\E120"; }
-
-.icon-mono-music copy 2:before {
-  content: "\E121"; }
-
-.icon-mono-music copy 3:before {
-  content: "\E122"; }
-
-.icon-mono-music copy:before {
-  content: "\E123"; }
-
-.icon-mono-music:before {
-  content: "\E124"; }
-
-.icon-mono-paperclip copy 2:before {
-  content: "\E125"; }
-
-.icon-mono-paperclip copy 3:before {
-  content: "\E126"; }
-
-.icon-mono-paperclip copy:before {
-  content: "\E127"; }
-
-.icon-mono-paperclip:before {
-  content: "\E128"; }
-
-.icon-mono-pause copy 2:before {
-  content: "\E129"; }
-
-.icon-mono-pause copy 3:before {
-  content: "\E12A"; }
-
-.icon-mono-pause copy:before {
-  content: "\E12B"; }
-
-.icon-mono-pause:before {
-  content: "\E12C"; }
-
-.icon-mono-pencil copy 2:before {
-  content: "\E12D"; }
-
-.icon-mono-pencil copy 3:before {
-  content: "\E12E"; }
-
-.icon-mono-pencil copy:before {
-  content: "\E12F"; }
-
-.icon-mono-pencil:before {
-  content: "\E130"; }
-
-.icon-mono-phone copy 2:before {
-  content: "\E131"; }
-
-.icon-mono-phone copy 3:before {
-  content: "\E132"; }
-
-.icon-mono-phone copy:before {
-  content: "\E133"; }
-
-.icon-mono-phone:before {
-  content: "\E134"; }
-
-.icon-mono-picture copy 2:before {
-  content: "\E135"; }
-
-.icon-mono-picture copy 3:before {
-  content: "\E136"; }
-
-.icon-mono-picture copy:before {
-  content: "\E137"; }
-
-.icon-mono-picture:before {
-  content: "\E138"; }
-
-.icon-mono-play copy 2:before {
-  content: "\E139"; }
-
-.icon-mono-play copy 3:before {
-  content: "\E13A"; }
-
-.icon-mono-play copy:before {
-  content: "\E13B"; }
-
-.icon-mono-play:before {
-  content: "\E13C"; }
-
-.icon-mono-plus copy 2:before {
-  content: "\E13D"; }
-
-.icon-mono-plus copy 3:before {
-  content: "\E13E"; }
-
-.icon-mono-plus copy:before {
-  content: "\E13F"; }
-
-.icon-mono-plus:before {
-  content: "\E140"; }
-
-.icon-mono-pointer copy 2:before {
-  content: "\E141"; }
-
-.icon-mono-pointer copy 3:before {
-  content: "\E142"; }
-
-.icon-mono-pointer copy:before {
-  content: "\E143"; }
-
-.icon-mono-pointer:before {
-  content: "\E144"; }
-
-.icon-mono-refresh copy 2:before {
-  content: "\E145"; }
-
-.icon-mono-refresh copy 3:before {
-  content: "\E146"; }
-
-.icon-mono-refresh copy:before {
-  content: "\E147"; }
-
-.icon-mono-refresh:before {
-  content: "\E148"; }
-
-.icon-mono-search copy 2:before {
-  content: "\E149"; }
-
-.icon-mono-search copy 3:before {
-  content: "\E14A"; }
-
-.icon-mono-search copy:before {
-  content: "\E14B"; }
-
-.icon-mono-search:before {
-  content: "\E14C"; }
-
-.icon-mono-shit copy 2:before {
-  content: "\E14D"; }
-
-.icon-mono-shit copy 3:before {
-  content: "\E14E"; }
-
-.icon-mono-shit copy:before {
-  content: "\E14F"; }
-
-.icon-mono-shit:before {
-  content: "\E150"; }
-
-.icon-mono-skype copy 2:before {
-  content: "\E151"; }
-
-.icon-mono-skype copy 3:before {
-  content: "\E152"; }
-
-.icon-mono-skype copy:before {
-  content: "\E153"; }
-
-.icon-mono-skype:before {
-  content: "\E154"; }
-
-.icon-mono-smiley copy 2:before {
-  content: "\E155"; }
-
-.icon-mono-smiley copy 3:before {
-  content: "\E156"; }
-
-.icon-mono-smiley copy:before {
-  content: "\E157"; }
-
-.icon-mono-smiley:before {
-  content: "\E158"; }
-
-.icon-mono-star copy 2:before {
-  content: "\E159"; }
-
-.icon-mono-star copy 3:before {
-  content: "\E15A"; }
-
-.icon-mono-star copy:before {
-  content: "\E15B"; }
-
-.icon-mono-star:before {
-  content: "\E15C"; }
-
-.icon-mono-star2 copy 2:before {
-  content: "\E15D"; }
-
-.icon-mono-star2 copy 3:before {
-  content: "\E15E"; }
-
-.icon-mono-star2 copy:before {
-  content: "\E15F"; }
-
-.icon-mono-star2:before {
-  content: "\E160"; }
-
-.icon-mono-stats copy 2:before {
-  content: "\E161"; }
-
-.icon-mono-stats copy 3:before {
-  content: "\E162"; }
-
-.icon-mono-stats copy:before {
-  content: "\E163"; }
-
-.icon-mono-stats:before {
-  content: "\E164"; }
-
-.icon-mono-stop copy 2:before {
-  content: "\E165"; }
-
-.icon-mono-stop copy 3:before {
-  content: "\E166"; }
-
-.icon-mono-stop copy:before {
-  content: "\E167"; }
-
-.icon-mono-stop:before {
-  content: "\E168"; }
-
-.icon-mono-switch copy 2:before {
-  content: "\E169"; }
-
-.icon-mono-switch copy 3:before {
-  content: "\E16A"; }
-
-.icon-mono-switch copy:before {
-  content: "\E16B"; }
-
-.icon-mono-switch:before {
-  content: "\E16C"; }
-
-.icon-mono-tag copy 2:before {
-  content: "\E16D"; }
-
-.icon-mono-tag copy 3:before {
-  content: "\E16E"; }
-
-.icon-mono-tag copy:before {
-  content: "\E16F"; }
-
-.icon-mono-tag:before {
-  content: "\E170"; }
-
-.icon-mono-target copy 2:before {
-  content: "\E171"; }
-
-.icon-mono-target copy 3:before {
-  content: "\E172"; }
-
-.icon-mono-target copy:before {
-  content: "\E173"; }
-
-.icon-mono-target:before {
-  content: "\E174"; }
-
-.icon-mono-target2 copy 2:before {
-  content: "\E175"; }
-
-.icon-mono-target2 copy 3:before {
-  content: "\E176"; }
-
-.icon-mono-target2 copy:before {
-  content: "\E177"; }
-
-.icon-mono-target2:before {
-  content: "\E178"; }
-
-.icon-mono-target3 copy 2:before {
-  content: "\E179"; }
-
-.icon-mono-target3 copy 3:before {
-  content: "\E17A"; }
-
-.icon-mono-target3 copy:before {
-  content: "\E17B"; }
-
-.icon-mono-target3:before {
-  content: "\E17C"; }
-
-.icon-mono-thumbsdown copy 2:before {
-  content: "\E17D"; }
-
-.icon-mono-thumbsdown copy 3:before {
-  content: "\E17E"; }
-
-.icon-mono-thumbsdown copy:before {
-  content: "\E17F"; }
-
-.icon-mono-thumbsdown:before {
-  content: "\E180"; }
-
-.icon-mono-thumbsup copy 2:before {
-  content: "\E181"; }
-
-.icon-mono-thumbsup copy 3:before {
-  content: "\E182"; }
-
-.icon-mono-thumbsup copy:before {
-  content: "\E183"; }
-
-.icon-mono-thumbsup:before {
-  content: "\E184"; }
-
-.icon-mono-trashcan copy 2:before {
-  content: "\E185"; }
-
-.icon-mono-trashcan copy 3:before {
-  content: "\E186"; }
-
-.icon-mono-trashcan copy:before {
-  content: "\E187"; }
-
-.icon-mono-trashcan:before {
-  content: "\E188"; }
-
-.icon-mono-trophy copy 2:before {
-  content: "\E189"; }
-
-.icon-mono-trophy copy 3:before {
-  content: "\E18A"; }
-
-.icon-mono-trophy copy:before {
-  content: "\E18B"; }
-
-.icon-mono-trophy:before {
-  content: "\E18C"; }
-
-.icon-mono-twitter copy 2:before {
-  content: "\E18D"; }
-
-.icon-mono-twitter copy 3:before {
-  content: "\E18E"; }
-
-.icon-mono-twitter copy:before {
-  content: "\E18F"; }
-
-.icon-mono-twitter:before {
-  content: "\E190"; }
-
-.icon-mono-type copy 2:before {
-  content: "\E191"; }
-
-.icon-mono-type copy 3:before {
-  content: "\E192"; }
-
-.icon-mono-type copy:before {
-  content: "\E193"; }
-
-.icon-mono-type:before {
-  content: "\E194"; }
-
-.icon-mono-user copy 2:before {
-  content: "\E195"; }
-
-.icon-mono-user copy 3:before {
-  content: "\E196"; }
-
-.icon-mono-user copy:before {
-  content: "\E197"; }
-
-.icon-mono-user:before {
-  content: "\E198"; }
-
-.icon-mono-volume copy 2:before {
-  content: "\E199"; }
-
-.icon-mono-volume copy 3:before {
-  content: "\E19A"; }
-
-.icon-mono-volume copy:before {
-  content: "\E19B"; }
-
-.icon-mono-volume:before {
-  content: "\E19C"; }
-
-.icon-mono-volume2 copy 2:before {
-  content: "\E19D"; }
-
-.icon-mono-volume2 copy 3:before {
-  content: "\E19E"; }
-
-.icon-mono-volume2 copy:before {
-  content: "\E19F"; }
-
-.icon-mono-volume2:before {
-  content: "\E1A0"; }
-
-.icon-mono-warning copy 2:before {
-  content: "\E1A1"; }
-
-.icon-mono-warning copy 3:before {
-  content: "\E1A2"; }
-
-.icon-mono-warning copy:before {
-  content: "\E1A3"; }
-
-.icon-mono-warning:before {
-  content: "\E1A4"; }
-
-.icon-mono-window copy 2:before {
-  content: "\E1A5"; }
-
-.icon-mono-window copy 3:before {
-  content: "\E1A6"; }
-
-.icon-mono-window copy:before {
-  content: "\E1A7"; }
-
-.icon-mono-window:before {
-  content: "\E1A8"; }
-
-.icon-mono-winsows copy 2:before {
-  content: "\E1A9"; }
-
-.icon-mono-winsows copy 3:before {
-  content: "\E1AA"; }
-
-.icon-mono-winsows copy:before {
-  content: "\E1AB"; }
-
-.icon-mono-winsows:before {
-  content: "\E1AC"; }
-
-.icon-mono-wrench copy 2:before {
-  content: "\E1AD"; }
-
-.icon-mono-wrench copy 3:before {
-  content: "\E1AE"; }
-
-.icon-mono-wrench copy:before {
-  content: "\E1AF"; }
-
 .icon-mono-wrench:before {
-  content: "\E1B0"; }
+  content: "\E06C"; }
 
 .icon-color:before {
   content: ' ';
@@ -5712,163 +1500,608 @@
   display: inline-block;
   background-image: url("../sprites/icons_color.svg");
   background-repeat: no-repeat;
-  background-size: 2.70833em 83.95833em; }
+  background-size: 2.70833em 325em; }
 
 .no-svg .icon-color:before {
   background-image: url("../sprites/icons_color.png"); }
 
-.icon-color-Settings-2:before {
+.icon-color-Alien:before {
   background-position: -0.20833em -0.20833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-rasta:before {
+.icon-color-Analytics:before {
   background-position: -0.20833em -2.91667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-record-player:before {
+.icon-color-Apartment:before {
   background-position: -0.20833em -5.625em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-road-worker:before {
+.icon-color-Application-Map:before {
   background-position: -0.20833em -8.33333em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-rocker:before {
+.icon-color-Baby-Mobile:before {
   background-position: -0.20833em -11.04167em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-santa:before {
+.icon-color-Bag-Present:before {
   background-position: -0.20833em -13.75em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-santa-sled:before {
+.icon-color-Batman:before {
   background-position: -0.20833em -16.45833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-settings-1:before {
+.icon-color-Battery-Charging:before {
   background-position: -0.20833em -19.16667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-shop:before {
+.icon-color-Beach:before {
   background-position: -0.20833em -21.875em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-smartphone-message:before {
+.icon-color-Bell:before {
   background-position: -0.20833em -24.58333em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-sneakers:before {
+.icon-color-Bonsai:before {
   background-position: -0.20833em -27.29167em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-soldier:before {
+.icon-color-Boss-2:before {
   background-position: -0.20833em -30em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-spongebob:before {
+.icon-color-Boss-3:before {
   background-position: -0.20833em -32.70833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-street-view:before {
+.icon-color-Boss-5:before {
   background-position: -0.20833em -35.41667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-student:before {
+.icon-color-Burglar:before {
   background-position: -0.20833em -38.125em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-surfer:before {
+.icon-color-Bus:before {
   background-position: -0.20833em -40.83333em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-surgeon:before {
+.icon-color-Businesswoman-1:before {
   background-position: -0.20833em -43.54167em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-tablet-chart:before {
+.icon-color-Camera-Front:before {
   background-position: -0.20833em -46.25em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-telemarketer-woman:before {
+.icon-color-Candles:before {
   background-position: -0.20833em -48.95833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-television-shelf:before {
+.icon-color-Candy:before {
   background-position: -0.20833em -51.66667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-tower:before {
+.icon-color-Canoe:before {
   background-position: -0.20833em -54.375em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-tshirt:before {
+.icon-color-Captain-Shield:before {
   background-position: -0.20833em -57.08333em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-vector:before {
+.icon-color-Car-Jumper:before {
   background-position: -0.20833em -59.79167em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-video-camera:before {
+.icon-color-Cashier-2:before {
   background-position: -0.20833em -62.5em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-waitress:before {
+.icon-color-Cement-Mixer:before {
   background-position: -0.20833em -65.20833em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-wind-wheel:before {
+.icon-color-Chair-4:before {
   background-position: -0.20833em -67.91667em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-woman-1:before {
+.icon-color-Chat-2:before {
   background-position: -0.20833em -70.625em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-woman-2:before {
+.icon-color-Checklist:before {
   background-position: -0.20833em -73.33333em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-wooden-horse:before {
+.icon-color-Cheese:before {
   background-position: -0.20833em -76.04167em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-xylophone:before {
+.icon-color-Chef-2:before {
   background-position: -0.20833em -78.75em;
   width: 2.29167em;
   height: 2.29167em; }
 
-.icon-color-yinyang:before {
+.icon-color-Chessboard:before {
   background-position: -0.20833em -81.45833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Clipboard-Plan:before {
+  background-position: -0.20833em -84.16667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Cloud-Music:before {
+  background-position: -0.20833em -86.875em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Cloudy:before {
+  background-position: -0.20833em -89.58333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Coding-Html:before {
+  background-position: -0.20833em -92.29167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Coffin:before {
+  background-position: -0.20833em -95em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Conveyor-Belt:before {
+  background-position: -0.20833em -97.70833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Database-Cloud:before {
+  background-position: -0.20833em -100.41667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Desert:before {
+  background-position: -0.20833em -103.125em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Dna:before {
+  background-position: -0.20833em -105.83333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Download-Computer:before {
+  background-position: -0.20833em -108.54167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Engagement-Ring:before {
+  background-position: -0.20833em -111.25em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Euro-Coin:before {
+  background-position: -0.20833em -113.95833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Eyeglass:before {
+  background-position: -0.20833em -116.66667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Farmer:before {
+  background-position: -0.20833em -119.375em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Food-Dome:before {
+  background-position: -0.20833em -122.08333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Furby:before {
+  background-position: -0.20833em -124.79167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Gold-Cart:before {
+  background-position: -0.20833em -127.5em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Graph-Magnifier:before {
+  background-position: -0.20833em -130.20833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Hacker:before {
+  background-position: -0.20833em -132.91667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Hat:before {
+  background-position: -0.20833em -135.625em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Heart-Watch:before {
+  background-position: -0.20833em -138.33333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Images:before {
+  background-position: -0.20833em -141.04167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Images-Cloud:before {
+  background-position: -0.20833em -143.75em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Key:before {
+  background-position: -0.20833em -146.45833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Laptop-Signal:before {
+  background-position: -0.20833em -149.16667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Locked-Cloud:before {
+  background-position: -0.20833em -151.875em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Love-Letter:before {
+  background-position: -0.20833em -154.58333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Magician:before {
+  background-position: -0.20833em -157.29167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Makeup:before {
+  background-position: -0.20833em -160em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Man-1:before {
+  background-position: -0.20833em -162.70833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Man-14:before {
+  background-position: -0.20833em -165.41667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Man-16:before {
+  background-position: -0.20833em -168.125em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Man-6:before {
+  background-position: -0.20833em -170.83333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Man-9-:before {
+  background-position: -0.20833em -173.54167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Medal-2:before {
+  background-position: -0.20833em -176.25em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Microchip:before {
+  background-position: -0.20833em -178.95833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Microscope:before {
+  background-position: -0.20833em -181.66667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Mind-Map-Paper:before {
+  background-position: -0.20833em -184.375em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Money-Graph:before {
+  background-position: -0.20833em -187.08333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Money-Increase:before {
+  background-position: -0.20833em -189.79167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Music-Equalizer:before {
+  background-position: -0.20833em -192.5em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Ninja:before {
+  background-position: -0.20833em -195.20833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Nuclear-Mushroom:before {
+  background-position: -0.20833em -197.91667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Nurse-1:before {
+  background-position: -0.20833em -200.625em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Old-Car-2:before {
+  background-position: -0.20833em -203.33333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Online-Shopping:before {
+  background-position: -0.20833em -206.04167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Open-Sign:before {
+  background-position: -0.20833em -208.75em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Pantone:before {
+  background-position: -0.20833em -211.45833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Paper-Plane:before {
+  background-position: -0.20833em -214.16667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Rasta:before {
+  background-position: -0.20833em -216.875em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Record-Player:before {
+  background-position: -0.20833em -219.58333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Rocker:before {
+  background-position: -0.20833em -222.29167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Santa:before {
+  background-position: -0.20833em -225em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Santa-Sled:before {
+  background-position: -0.20833em -227.70833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Settings-2:before {
+  background-position: -0.20833em -230.41667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Shop:before {
+  background-position: -0.20833em -233.125em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Smartphone-Message:before {
+  background-position: -0.20833em -235.83333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Soldier-3:before {
+  background-position: -0.20833em -238.54167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Spongebob:before {
+  background-position: -0.20833em -241.25em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Street-View:before {
+  background-position: -0.20833em -243.95833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Student-3:before {
+  background-position: -0.20833em -246.66667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Surfer:before {
+  background-position: -0.20833em -249.375em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Surgeon:before {
+  background-position: -0.20833em -252.08333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-T-Shirt-2:before {
+  background-position: -0.20833em -254.79167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Tablet-Chart:before {
+  background-position: -0.20833em -257.5em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Telemarketer-Woman-2:before {
+  background-position: -0.20833em -260.20833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Television-Shelf:before {
+  background-position: -0.20833em -262.91667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Tower:before {
+  background-position: -0.20833em -265.625em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Vector:before {
+  background-position: -0.20833em -268.33333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Video-Camera-2:before {
+  background-position: -0.20833em -271.04167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Waitress-1:before {
+  background-position: -0.20833em -273.75em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Wind-Wheel:before {
+  background-position: -0.20833em -276.45833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Woman-15:before {
+  background-position: -0.20833em -279.16667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Woman-9:before {
+  background-position: -0.20833em -281.875em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Wooden-Horse:before {
+  background-position: -0.20833em -284.58333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Xylophone:before {
+  background-position: -0.20833em -287.29167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-Yin-Yang:before {
+  background-position: -0.20833em -290em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-road-worker:before {
+  background-position: -0.20833em -292.70833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-settings-1:before {
+  background-position: -0.20833em -295.41667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-sneakers:before {
+  background-position: -0.20833em -298.125em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-soldier:before {
+  background-position: -0.20833em -300.83333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-student:before {
+  background-position: -0.20833em -303.54167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-telemarketer-woman:before {
+  background-position: -0.20833em -306.25em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-tshirt:before {
+  background-position: -0.20833em -308.95833em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-video-camera:before {
+  background-position: -0.20833em -311.66667em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-waitress:before {
+  background-position: -0.20833em -314.375em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-woman-1:before {
+  background-position: -0.20833em -317.08333em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-woman-2:before {
+  background-position: -0.20833em -319.79167em;
+  width: 2.29167em;
+  height: 2.29167em; }
+
+.icon-color-yinyang:before {
+  background-position: -0.20833em -322.5em;
   width: 2.29167em;
   height: 2.29167em; }
 
