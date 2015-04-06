@@ -10,6 +10,8 @@ http://188.166.28.228/icons/public/icons_monochrome_demo.html
 
 #### Fallback methods
 
+See the size graphs here https://docs.google.com/a/africainternetgroup.com/spreadsheets/d/1YsdrQhnHSvh9bnsyGqIfJ651E1YFcEerh46wVYRXj0w/edit?usp=sharing
+
 | Type      | Modernizr test           | Format     | Browsers            | 100icn | 100icn x 2col| 100icn x 8col|    
 |-----------|--------------------------|------------|---------------------|---------|-------------|--------------|
 | Default   | ```fontface svg```       | Iconfont   | Chr, FF, Saf, IE9+  | 13KB    | same        | same         |
@@ -34,6 +36,8 @@ http://188.166.28.228/icons/public/icons_monochrome_demo.html
 http://188.166.28.228/icons/public/icons_color_demo.html
 
 #### Fallback methods
+
+See the size graphs here https://docs.google.com/a/africainternetgroup.com/spreadsheets/d/1YsdrQhnHSvh9bnsyGqIfJ651E1YFcEerh46wVYRXj0w/edit?usp=sharing
 
 | Type      | Modernizr test | Format     | Browsers                        | 10icn | 20icn  | 100icn  |
 |-----------|----------------|------------|---------------------------------|-------|--------|---------|
