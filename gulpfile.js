@@ -7,6 +7,8 @@ gulp.task('production', [
   'icons_monochrome_font',
   'icons_monochrome_sprite',
   'icons_monochrome_demo',
+  'icons_monochrome_symbol',
+  'icons_monochrome_symbol_demo',
   'icons_color_sprite',
   'icons_color_demo',
   'icons_bitmap_sprite',
