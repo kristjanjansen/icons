@@ -1922,6 +1922,44 @@
   height: 512px;
   display: inline-block; }
 
+.icon-symbol.icon-symbol-tiny {
+  width: 18px;
+  height: 18px; }
+
+.icon-symbol.icon-symbol-small {
+  width: 24px;
+  height: 24px; }
+
+.icon-symbol {
+  width: 32px;
+  height: 32px; }
+
+.icon-symbol.icon-symbol-big {
+  width: 48px;
+  height: 48px; }
+
+/* Colors */
+.icon-symbol-black {
+  fill: #000; }
+
+.icon-symbol-white {
+  fill: white; }
+
+.icon-symbol-gray {
+  fill: #ccc; }
+
+.icon-symbol-red {
+  fill: #f00; }
+
+.icon-symbol-green {
+  fill: #3eb006; }
+
+.icon-symbol-blue {
+  fill: #5990da; }
+
+.icon-symbol-yellow {
+  fill: #f1c40f; }
+
 body {
   font-family: sans-serif;
   background: #ddd; }

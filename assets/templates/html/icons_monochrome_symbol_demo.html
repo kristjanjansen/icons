@@ -1,0 +1,36 @@
+{# Twig template #}
+
+<!DOCTYPE html>
+<html lang="">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+
+  <link rel="stylesheet" href="./css/default.css">
+  <script src="./js/script.js"></script>
+  
+</head>
+<body>
+
+
+<div class="no">
+<div class="no-1">fontface</div>
+<div class="no-2">svg</div>
+</div>
+
+{% for file in files %}
+  {% for size in sizes %}
+  <div class="row">
+    {% for color in colors %}
+
+    <svg class="icon-symbol icon-symbol-{{ size }} icon-symbol-{{ color }}"><use xlink:href="sprites/icons_monochrome_symbol.svg#{{ file }}"></use></svg>
+    
+    {% endfor %}
+  </div>
+  {% endfor %}
+{% endfor %}
+
+</body>
+</html>

@@ -19,6 +19,12 @@ See the size graphs here https://docs.google.com/a/africainternetgroup.com/sprea
 | Fallback2 | ```no-fontface svg```    | SVG sprite | Opera Mini?         | 73/24KB | 147/29KB    | 593/37KB     |
 | Fallback3 | ```no-fontface no-svg``` | PNG sprite | Opera Mini?         | 39KB    | 78KB        | 69KB         |
 
+There is also [alternative method for SVG usage](https://css-tricks.com/svg-symbol-good-choice-icons/), compiling them into symbol sprite and reference them in HTML using ```use``` tag:
+
+| Type      | Modernizr test       | Format              | Browsers    | 100icn  | 100icn x 2col| 100icn x 8col|    
+|-----------|----------------------|---------------------|-------------|---------|--------------|--------------|
+| Default   | not yet implemented  | SVG symbol sprite   | untested    | 83/25KB | same         | same         |
+
 #### Comments
 
 * Sample size: 100 black-and-white SVG icons and with 2 and 8 color variations. The color variations are generated into the sprite because SVG background sprites do not allow styling SVG.
