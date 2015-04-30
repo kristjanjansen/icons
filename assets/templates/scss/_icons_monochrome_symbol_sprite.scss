@@ -1,0 +1,20 @@
+{#common}
+
+.no-svg .{common}:before {
+  content:' ';
+  vertical-align:middle;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: {relWidth}em {relHeight}em;
+  background-image: url("{pngPath}");
+}
+
+{/common}
+
+{#svg}
+{#common}.no-svg .{common}{/common}-{name}:before {
+  background-position: {relPositionX}em {relPositionY}em;
+  width: {relWidth}em;
+  height: {relHeight}em;
+}
+{/svg}
