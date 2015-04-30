@@ -1922,21 +1922,41 @@
   height: 512px;
   display: inline-block; }
 
-.icon-symbol.icon-symbol-tiny {
+.svg .icon-symbol.icon-symbol-tiny svg {
   width: 18px;
   height: 18px; }
 
-.icon-symbol.icon-symbol-small {
+.svg .icon-symbol.icon-symbol-small svg {
   width: 24px;
   height: 24px; }
 
-.icon-symbol {
+.svg .icon-symbol svg {
   width: 32px;
   height: 32px; }
 
-.icon-symbol.icon-symbol-big {
+.svg .icon-symbol.icon-symbol-big svg {
   width: 48px;
   height: 48px; }
+
+.no-svg .icon-symbol.icon-symbol-tiny::before {
+  width: 18px;
+  height: 18px;
+  font-size: 18px; }
+
+.no-svg .icon-symbol.icon-symbol-small::before {
+  width: 24px;
+  height: 24px;
+  font-size: 24px; }
+
+.no-svg .icon-symbol::before {
+  width: 32px;
+  height: 32px;
+  font-size: 32px; }
+
+.no-svg .icon-symbol.icon-symbol-big::before {
+  width: 48px;
+  height: 48px;
+  font-size: 48px; }
 
 /* Colors */
 .icon-symbol-black {
