@@ -10,7 +10,7 @@ http://188.166.28.228/icons/public/icons_monochrome_demo.html
 
 #### Fallback methods
 
-See the size graphs here https://docs.google.com/a/africainternetgroup.com/spreadsheets/d/1YsdrQhnHSvh9bnsyGqIfJ651E1YFcEerh46wVYRXj0w/edit?usp=sharing
+See the graphs here https://docs.google.com/spreadsheets/d/1ErvqGY8r8gvAWJayXxNoi-r-7Z4Vu3m8Ubq1jcAxRw8/edit?usp=sharing
 
 | Type      | Modernizr test           | Format     | Browsers            | 100icn | 100icn x 2col| 100icn x 8col|    
 |-----------|--------------------------|------------|---------------------|---------|-------------|--------------|
@@ -42,8 +42,6 @@ There is also [alternative method for SVG usage](https://css-tricks.com/svg-symb
 http://188.166.28.228/icons/public/icons_color_demo.html
 
 #### Fallback methods
-
-See the size graphs here https://docs.google.com/a/africainternetgroup.com/spreadsheets/d/1YsdrQhnHSvh9bnsyGqIfJ651E1YFcEerh46wVYRXj0w/edit?usp=sharing
 
 | Type      | Modernizr test | Format     | Browsers                        | 10icn | 20icn  | 100icn  |
 |-----------|----------------|------------|---------------------------------|-------|--------|---------|
