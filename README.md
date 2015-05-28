@@ -4,10 +4,6 @@ Experimental icon system based on SVG sources and outputting various iconfont, S
 
 ### Monochrome icons
 
-#### Demo
-
-http://188.166.28.228/icons/public/icons_monochrome_demo.html
-
 #### Fallback methods
 
 See the graphs here https://docs.google.com/spreadsheets/d/1ErvqGY8r8gvAWJayXxNoi-r-7Z4Vu3m8Ubq1jcAxRw8/edit?usp=sharing
@@ -36,10 +32,6 @@ There is also [alternative method for SVG usage](https://css-tricks.com/svg-symb
 * Other SVG sprite usage options (inline, symbols, fragment indentifiers, stacks) are untestested.
 
 ### Color icons
-
-#### Demo
-
-http://188.166.28.228/icons/public/icons_color_demo.html
 
 #### Fallback methods
 
